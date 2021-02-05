@@ -2,7 +2,7 @@
 
 Le guide de l'utilisateur est un manuel d'utilisation pratique du logiciel PrestaShop. Si vous voulez en savoir plus, PrestaShop propose différentes sessions de formation. Elles sont disponibles pour tous ceux qui veulent se perfectionner et maîtriser le logiciel PrestaShop.
 
-Nous proposons un catalogue de formations adaptées à vos besoins et à vos connaissances:
+Nous proposons un catalogue de formations adaptées à vos besoins et à vos connaissances :
 
 Apprenez à utiliser la solution PrestaShop et maîtriser la mise en place et la gestion de votre boutique en ligne.
 
