@@ -23,7 +23,7 @@ Cliquez sur "Ajouter un contact" pour accéder au formulaire de contact :
 
 Pour contacter la bonne équipe d'employés depuis votre front-office, le client doit cliquer soit sur le lien "Contactez-nous" en haut de la page, ou le lien "Nous contacter" en bas de la page. Le formulaire de contact s'ouvre alors.
 
-![](../../../../.gitbook/assets/52298404%20%281%29.png)
+![](../../../../.gitbook/assets/52298404.png)
 
 Le client peut ensuite choisir le service à contacter, saisir son adresse e-mail puis son message. Un menu déroulant lui permet d'indiquer la commande dont il est en train de parler, et même le produit dont il parle.
 

@@ -4,7 +4,7 @@ Avoir différents états de commande vous permet de gérer facilement vos comman
 
 Ces différents étés sont visibles et modifiables dans l'onglet "États de commandes" de la page des paramètres commandes \("Paramètres de la boutique"\).
 
-![](../../../../.gitbook/assets/52298375%20%281%29.png)
+![](../../../../.gitbook/assets/52298379.png)
 
 La page affiche la liste de tous les états de commande enregistrés, avec :
 
@@ -19,7 +19,7 @@ La page affiche la liste de tous les états de commande enregistrés, avec :
 
 La liste des états de retour présente moins d'informations, car ces états sont tout au plus des étiquettes sans réel impact sur la commande.
 
-![](../../../../.gitbook/assets/52298376%20%281%29.png)
+![](../../../../.gitbook/assets/52298380.png)
 
 ## Créer un nouvel état <a id="id-&#xC9;tatsdecommandes-Cr&#xE9;erunnouvel&#xE9;tat"></a>
 

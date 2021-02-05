@@ -25,3 +25,7 @@ Si vous désirez recevoir plus d'informations et les conditions de participation
 
 Toutes nos formations peuvent faire l’objet d’une **prise en charge par un Organisme Paritaire Collecteur Agrée \(OPCA\)** dans le cadre du plan de formation de votre entreprise, de votre DIF ou d’autres dispositifs. Que vous soyez salarié, auto-entrepreneur, demandeur d'emploi... N’hésitez pas à vous renseigner sur les différents dispositifs proposés et bénéficiez de votre droit à la formation professionnelle.
 
+
+
+test
+
