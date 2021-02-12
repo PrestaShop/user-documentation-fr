@@ -1,4 +1,4 @@
-# Mouvements de stock
+# Mouvements de stocks
 
 Ce tableau présente la liste de tous les derniers changements de stock effectués. Elle dresse en quelque sorte l'historique de vos derniers mouvements de stock. Cette liste a juste un caractère informatif, par conséquent elle n'est pas modifiable.
 
@@ -35,7 +35,7 @@ Dans les deux derniers cas, le type de mouvement renseigné dans le tableau devi
 
 ### La barre de recherche <a id="Mouvementsdestock-Labarrederecherche"></a>
 
-La recherche se fait de la même façon que dans l'onglet "[Stock](stock.md)".
+La recherche se fait de la même façon que dans l'onglet "[Stock](stocks.md)".
 
 ### Les filtres avancés <a id="Mouvementsdestock-Lesfiltresavanc&#xE9;s"></a>
 

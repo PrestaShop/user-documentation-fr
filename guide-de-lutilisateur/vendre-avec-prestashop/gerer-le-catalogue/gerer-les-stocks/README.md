@@ -1,7 +1,7 @@
 # Gérer les stocks
 
-* [Stock \(FR\)](stock.md)
-* [Mouvements de stock](mouvements-de-stock.md)
+* [Stock \(FR\)](stocks.md)
+* [Mouvements de stock](mouvements-de-stocks.md)
 
 Les stocks de votre boutique sont accessibles en cliquant sur la page "Stocks" du menu "Catalogue". C'est ici que vous pourrez gérer vos stocks, sans même avoir besoin de paramétrer quoi que ce soit !
 
