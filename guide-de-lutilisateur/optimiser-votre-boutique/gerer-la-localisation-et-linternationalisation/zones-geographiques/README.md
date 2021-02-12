@@ -5,6 +5,6 @@ Les zones géographiques sont les états, pays, ou zones de plusieurs pays qui s
 Ce chapitre contient les sections suivantes :
 
 * [Pays](pays.md)
-* [Zones \(FR\)](zones-fr.md)
+* [Zones \(FR\)](zones.md)
 * [États](etats.md)
 

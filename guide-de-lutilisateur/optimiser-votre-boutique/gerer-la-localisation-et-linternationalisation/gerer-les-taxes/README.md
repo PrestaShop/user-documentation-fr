@@ -10,6 +10,6 @@ Dans PrestaShop, par défaut, une taxe s'applique à tous les pays/états/zones.
 
 Vous ne pouvez pas directement appliquer une taxe à un produit ; vous ne pouvez appliquer que des règles de taxe. De fait, vous devez d'abord créer toutes les taxes pertinentes, puis créer une règle de taxe pour cette taxe, règle qui précisera les pays auxquels la taxe s'applique, et pour finir appliquer la règle de taxe au produit.
 
-* [Taxes \(FR\)](taxes-fr.md)
+* [Taxes \(FR\)](taxes.md)
 * [Règles de taxes](regles-de-taxes.md)
 
