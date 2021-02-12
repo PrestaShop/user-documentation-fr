@@ -4,7 +4,7 @@
 * [Guide de démarrage PrestaShop 1.7](guide-de-demarrage-prestashop-1.7/README.md)
   * [Ce dont vous avez besoin](guide-de-demarrage-prestashop-1.7/ce-dont-vous-avez-besoin.md)
   * [Installer PrestaShop](guide-de-demarrage-prestashop-1.7/installer-prestashop.md)
-  * [Installer PrestaShop 1.7 sur votre ordinateur](guide-de-demarrage-prestashop-1.7/installer-prestashop-1.7-sur-votre-propre-ordinateur.md)
+  * [Installer PrestaShop 1.7 sur votre ordinateur](guide-de-demarrage-prestashop-1.7/installer-prestashop-1.7-sur-votre-ordinateur.md)
   * [Installer PrestaShop 1.7 en ligne de commande](guide-de-demarrage-prestashop-1.7/installer-prestashop-1.7-en-ligne-de-commande.md)
   * [Désinstaller PrestaShop 1.7](guide-de-demarrage-prestashop-1.7/desinstaller-prestashop-1.7.md)
   * [Informations complémentaires](guide-de-demarrage-prestashop-1.7/informations-complementaires.md)
