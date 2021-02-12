@@ -1,4 +1,4 @@
-# Installer PrestaShop 1.7 sur votre propre ordinateur
+# Installer PrestaShop 1.7 sur votre ordinateur
 
 Vous pouvez installer PrestaShop sur votre machine locale pour tester l’application avant d’investir de l’argent dans un serveur et un nom de domaine, ou pour personnaliser votre boutique en local avant de transférer vos modifications vers une installation PrestaShop déjà disponible en ligne.
 
