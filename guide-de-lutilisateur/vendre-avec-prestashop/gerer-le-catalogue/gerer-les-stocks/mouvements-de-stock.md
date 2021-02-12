@@ -35,7 +35,7 @@ Dans les deux derniers cas, le type de mouvement renseigné dans le tableau devi
 
 ### La barre de recherche <a id="Mouvementsdestock-Labarrederecherche"></a>
 
-La recherche se fait de la même façon que dans l'onglet "[Stock](stock-fr.md)".
+La recherche se fait de la même façon que dans l'onglet "[Stock](stock.md)".
 
 ### Les filtres avancés <a id="Mouvementsdestock-Lesfiltresavanc&#xE9;s"></a>
 

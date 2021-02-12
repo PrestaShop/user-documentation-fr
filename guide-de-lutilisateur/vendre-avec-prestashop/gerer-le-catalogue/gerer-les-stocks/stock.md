@@ -1,4 +1,4 @@
-# Stock \(FR\)
+# Stock
 
 Cet onglet comporte la liste de vos produits en stock ainsi qu'un outil de recherche pour vous permettre de mettre directement à jour la quantité de vos produits.
 

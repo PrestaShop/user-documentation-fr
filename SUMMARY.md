@@ -34,7 +34,7 @@
         * [Règles paniers](guide-de-lutilisateur/vendre-avec-prestashop/gerer-le-catalogue/mettre-en-place-des-promotions/regles-paniers.md)
         * [Règles de prix catalogue](guide-de-lutilisateur/vendre-avec-prestashop/gerer-le-catalogue/mettre-en-place-des-promotions/regles-de-prix-catalogue.md)
       * [Gérer les stocks](guide-de-lutilisateur/vendre-avec-prestashop/gerer-le-catalogue/gerer-les-stocks/README.md)
-        * [Stock \(FR\)](guide-de-lutilisateur/vendre-avec-prestashop/gerer-le-catalogue/gerer-les-stocks/stock-fr.md)
+        * [Stock](guide-de-lutilisateur/vendre-avec-prestashop/gerer-le-catalogue/gerer-les-stocks/stock.md)
         * [Mouvements de stock](guide-de-lutilisateur/vendre-avec-prestashop/gerer-le-catalogue/gerer-les-stocks/mouvements-de-stock.md)
     * [Gérer les clients](guide-de-lutilisateur/vendre-avec-prestashop/gerer-les-clients/README.md)
       * [Vos clients](guide-de-lutilisateur/vendre-avec-prestashop/gerer-les-clients/vos-clients.md)
