@@ -10,11 +10,11 @@ Nous avons créé ce chapitre afin de vous aider lors de cette découverte de l'
 
 Prenez le temps d'appréhender le tableau de bord – c'est-à-dire, la première page que vous voyez en vous connectant au back office. Non seulement elle vous donne un résumé de tout ce que vous devez savoir sur votre boutique à un instant T, avec des liens vers les pages les plus utiles, mais elle vous donne aussi quelques conseils à propos de réglages auxquels vous devez faire attention en tant que nouvel utilisateur de PrestaShop.
 
-![](../.gitbook/assets/63406135.png)
+![](../.gitbook/assets/63406129%20%281%29.png)
 
 ### La barre supérieure
 
-![](../.gitbook/assets/63406136.png)
+![](../.gitbook/assets/63406136%20%281%29.png)
 
 En haut de la page se trouve une barre sombre contenant une poignée de liens et informations :
 

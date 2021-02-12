@@ -8,7 +8,7 @@ Les paramètres comprennent les sections suivantes :
 * [Paramètres des commandes](parametres-des-commandes/)
 * [Paramètres des produits](parametres-des-produits.md)
 * [Paramètres des clients](parametres-des-clients/)
-* [Gestion des contacts](gestion-des-contacts/)
+* [Gestion des contacts](gestion-des-contacts.md)
 * [Trafic et SEO](trafic-et-seo/)
 * [Recherche](recherche/)
 

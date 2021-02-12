@@ -29,7 +29,7 @@ Tout d'abord, vous devez mettre en place les informations générales :
 * **Miniatures du menu.** Cette image apparaîtra en miniature dans le menu, pour représenter cette catégorie, si votre thème le permet.
 * **Prévisualisation SEO.** _Nouveauté depuis la 1.7.6 !_ Affiche en direct le résultat de vos paramétrages SEO, comme un moteur de recherche le ferait dans les listes des moteurs de recherche.
 
-![](../../../.gitbook/assets/64225477.gif)
+![](../../../.gitbook/assets/64225647.gif)
 
 * **Balise de titre**. Le titre qui apparaîtra dans les moteurs de recherche quand une recherche est faite par le client.
 * **Meta description**. Une présentation du site en quelques lignes, dans le but d'attirer l'attention du client. Elle apparaîtra dans les résultats des moteurs de recherche.

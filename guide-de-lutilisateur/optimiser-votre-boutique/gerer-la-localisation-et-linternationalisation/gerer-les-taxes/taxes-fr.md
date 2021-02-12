@@ -2,7 +2,7 @@
 
 Cette page liste toutes les taxes déjà existantes dans votre boutique, et vous permet d'en créer de nouvelles, si le besoin se présentait. Pour chaque taxe, les informations suivantes sont affichées : son nom, son taux et son état. Vous pouvez activer ou désactiver une taxe directement depuis la liste, tout comme vous pouvez la modifier ou la supprimer en utilisant le bouton d'action à droite toute.
 
-![](../../../../.gitbook/assets/64225459.png)
+![](../../../../.gitbook/assets/64225459%20%281%29.png)
 
 ## Options des taxes <a id="Taxes(FR)-Optionsdestaxes"></a>
 
@@ -26,5 +26,5 @@ Il est très facile d'ajouter une nouvelle taxe, car ce sont les règles de taxe
 * **Taux**. Le taux exact de la taxe, au format XX.XX.
 * **Activer**. Vous pouvez désactiver et réactiver une taxe à n'importe quel moment. 
 
-![](../../../../.gitbook/assets/64225462.png)
+![](../../../../.gitbook/assets/64225467.png)
 
