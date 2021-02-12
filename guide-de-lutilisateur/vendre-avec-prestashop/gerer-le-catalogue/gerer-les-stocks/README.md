@@ -1,4 +1,4 @@
-# Gérez les stocks
+# Gérer les stocks
 
 * [Stock \(FR\)](stock-fr.md)
 * [Mouvements de stock](mouvements-de-stock.md)

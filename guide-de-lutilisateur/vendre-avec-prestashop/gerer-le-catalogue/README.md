@@ -17,7 +17,7 @@ Ce chapitre contient les sections suivantes :
 * [Gérer les fournisseurs](gerer-les-fournisseurs.md)
 * [Gérer les fichiers](gerer-les-fichiers.md)
 * [Mettre en place des promotions](mettre-en-place-des-promotions/)
-* [Gérez les stocks](gerez-les-stocks/)
+* [Gérez les stocks](gerer-les-stocks/)
 
 ![](../../../.gitbook/assets/51839831.png)
 
