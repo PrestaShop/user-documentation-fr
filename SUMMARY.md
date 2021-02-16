@@ -123,5 +123,6 @@
     * [Créer une boutique](guide-de-lutilisateur/gerer-plusieurs-boutiques/creer-une-boutique.md)
     * [Mettre en place l'adresse d'une boutique](guide-de-lutilisateur/gerer-plusieurs-boutiques/mettre-en-place-ladresse-dune-boutique.md)
     * [Généralités et cas particuliers](guide-de-lutilisateur/gerer-plusieurs-boutiques/generalites-et-cas-particuliers.md)
+  * [Être conforme à la législation européenne](guide-de-lutilisateur/etre-conforme-a-la-legislation-europeenne.md)
   * [Etre conforme au RGPD](guide-de-lutilisateur/etre-conforme-au-rgpd.md)
 
