@@ -78,7 +78,7 @@ Ainsi, si un produit vaut 15 euros, il coûtera 18,30 dollars \(15\*1,22=18,3\)
 Au contraire, si un produit vaut 15 dollars, il coûtera 12,30 euros \(15/1,22=12,3\)
 
 {% hint style="info" %}
-Les taux de change sur PrestaShop sont fournis par l’[ECB](https://www.ecb.europa.eu/home/html/index.fr.html)  et sont mis à jour chaque jour. Cependant, veuillez noter qu’ils peuvent être légèrement différents des taux en temps réel puisque ces derniers peuvent fluctuer considérablement en peu de temps.
+Les taux de change sur PrestaShop sont fournis par l’[ECB](https://www.ecb.europa.eu/home/html/index.fr.html) et sont mis à jour chaque jour. Cependant, veuillez noter qu’ils peuvent être légèrement différents des taux en temps réel puisque ces derniers peuvent fluctuer considérablement en peu de temps.
 {% endhint %}
 
 N’oubliez pas de mettre les taux de change à jour régulièrement :
