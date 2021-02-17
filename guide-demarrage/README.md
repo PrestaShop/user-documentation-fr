@@ -11,8 +11,8 @@ Les chapitres présentés doivent être lus l’un après l’autre \(il est ain
 * [Ce dont vous avez besoin](ce-dont-vous-avez-besoin.md)
 * [Installer PrestaShop](installer-prestashop.md)
 * [Installer PrestaShop 1.7 sur votre propre ordinateur](installer-prestashop-ordinateur.md)
-* [Installer PrestaShop 1.7 en ligne de commande](installer-prestashop-1.7-en-ligne-de-commande.md)
-* [Désinstaller PrestaShop 1.7](desinstaller-prestashop-1.7.md)
+* [Installer PrestaShop 1.7 en ligne de commande](installer-prestashop-en-ligne-de-commande.md)
+* [Désinstaller PrestaShop 1.7](desinstaller-prestashop.md)
 * [Informations complémentaires](informations-complementaires.md)
 
 
