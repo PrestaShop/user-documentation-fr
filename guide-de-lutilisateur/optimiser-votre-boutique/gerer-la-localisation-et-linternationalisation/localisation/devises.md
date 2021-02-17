@@ -36,7 +36,7 @@ Lorsque vous que vous importez un pack de localisation, la devise est activée p
 
 Cliquez sur le bouton “Ajouter une nouvelle devise”. Sélectionnez la devise que vous souhaitez ajouter dans la liste. Les champs seront complétés automatiquement.  
   
-Lorsque vous ajouter une devise manuellement, cette dernière est désactivée par défaut. Pour l’activer sur votre boutique, n’oubliez pas de modifier le statut et d’enregistrer.
+Lorsque vous ajouter une devise manuellement, cette dernière est désactivée par défaut. Pour l’activer sur votre boutique, n’oubliez pas de modifier l'état et d’enregistrer.
 
 ## **Créer une devise alternative**
 
