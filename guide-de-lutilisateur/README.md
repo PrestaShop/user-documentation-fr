@@ -28,7 +28,7 @@ Chapitres de ce guide :
   * [Gérer les paiements](optimiser-votre-boutique/gerer-les-paiements/)
   * [Gérer la localisation et l'internationalisation](optimiser-votre-boutique/gerer-la-localisation-et-linternationalisation/)
 * [Configurer votre boutique](configurer-votre-boutique/)
-  * [Configurer les paramètres de votre boutique](configurer-votre-boutique/configurer-les-parametres-de-votre-boutique/)
+  * [Configurer les paramètres de votre boutique](configurer-votre-boutique/parametres-de-votre-boutique/)
   * [Configurer les paramètres avancés](configurer-votre-boutique/configurer-les-parametres-avances/)
 * [Gérer plusieurs boutiques](gerer-plusieurs-boutiques/)
   * [Interface de la page multiboutique](gerer-plusieurs-boutiques/interface-de-la-page-multiboutique.md)
