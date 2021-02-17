@@ -73,12 +73,12 @@ Le carré blanc sera remplacé par le symbole une fois le champ “Symbole” co
 
 Un taux de change, ou taux de conversion, est le taux auquel une devise sera échangée contre une autre. Par exemple, un taux de conversion EUR/USD de 1,22 signifie que 1 euro est égal à 1,22 dollars. 
 
-Ainsi, si un produit vaut 15 euros, il coûtera 18,30 dollars \(15\*1,22=18,3\)
+Ainsi, si un produit vaut 15 euros, il coûtera 18,30 dollars \(15\*1,22=18,3\).
 
-Au contraire, si un produit vaut 15 dollars, il coûtera 12,30 euros \(15/1,22=12,3\)
+Au contraire, si un produit vaut 15 dollars, il coûtera 12,30 euros \(15/1,22=12,3\).
 
 {% hint style="info" %}
-Les taux de change sur PrestaShop sont fournis par l’[ECB](https://www.ecb.europa.eu/home/html/index.fr.html) et sont mis à jour chaque jour. Cependant, veuillez noter qu’ils peuvent être légèrement différents des taux en temps réel puisque ces derniers peuvent fluctuer considérablement en peu de temps.
+Les taux de change sur PrestaShop sont fournis par l’[ECB](https://www.ecb.europa.eu/home/html/index.fr.html) et sont mis à jour chaque jour. Cependant, ils peuvent être légèrement différents des taux en temps réel puisque ces derniers peuvent fluctuer considérablement en peu de temps.
 {% endhint %}
 
 N’oubliez pas de mettre les taux de change à jour régulièrement :
@@ -91,7 +91,7 @@ Pour mettre à jour les taux de change :
 2. Cliquez sur le bouton “Mettre à jour”
 
 {% hint style="warning" %}
-Les taux de change des devises alternatives ne seront pas mis à jour. Vous devrez le faire manuellement. Par exemple, si vous avez ajouté le Bitcoin et souhaitez mettre le taux de change à jour, cliquez sur le symbole “Modifier” à côté du Bitcoin sur la liste des devises et entrez le taux de change dans le champ correspondant. Si vous ajoutez des monnaies très volatiles, il est fortement recommandé d’utiliser un module qui peut mettre à jour les taux de change automatiquement. 
+Les taux de change des devises alternatives ne seront pas mis à jour. Vous devrez le faire manuellement. Par exemple, si vous avez ajouté le Bitcoin et souhaitez mettre le taux de change à jour, cliquez sur le symbole “Modifier” à côté du Bitcoin sur la liste des devises et entrez le taux de change à jour dans le champ correspondant. Si vous ajoutez des monnaies très volatiles, il est fortement recommandé d’utiliser un module qui peut mettre à jour les taux de change automatiquement. 
 {% endhint %}
 
 Une simple recherche sur internet est généralement suffisante pour trouver le taux de change d’une monnaie. Vous pouvez utiliser des convertisseurs en ligne, comme XE.com :
