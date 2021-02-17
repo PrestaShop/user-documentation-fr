@@ -91,7 +91,7 @@ Pour mettre à jour les taux de change :
 2. Cliquez sur le bouton “Mettre à jour”
 
 {% hint style="warning" %}
-Les taux de changes des devises alternatives ne seront pas mis à jour. Vous devrez le faire manuellement. Par exemple, si vous avez ajouté le Bitcoin et souhaitez mettre le taux de change à jour, cliquez sur le symbole “Modifier” à côté du Bitcoin sur la liste des devises et entrez le taux de change dans le champ correspondant. Si vous ajoutez des monnaies très volatiles, il est fortement recommandé d’utiliser un module qui peut mettre à jour les taux de change automatiquement. 
+Les taux de change des devises alternatives ne seront pas mis à jour. Vous devrez le faire manuellement. Par exemple, si vous avez ajouté le Bitcoin et souhaitez mettre le taux de change à jour, cliquez sur le symbole “Modifier” à côté du Bitcoin sur la liste des devises et entrez le taux de change dans le champ correspondant. Si vous ajoutez des monnaies très volatiles, il est fortement recommandé d’utiliser un module qui peut mettre à jour les taux de change automatiquement. 
 {% endhint %}
 
 Une simple recherche sur internet est généralement suffisante pour trouver le taux de change d’une monnaie. Vous pouvez utiliser des convertisseurs en ligne, comme XE.com :
