@@ -33,6 +33,6 @@ Voilà tout : la mode multiboutique est maintenant en place, à commencer par l'
 * [Interface de la page multiboutique](interface-de-la-page-multiboutique.md)
 * [Créer un groupe de boutiques](creer-un-groupe-de-boutiques.md)
 * [Créer une boutique](creer-une-boutique.md)
-* [Mettre en place l'adresse d'une boutique](mettre-en-place-ladresse-dune-boutique.md)
+* [Mettre en place l'adresse d'une boutique](mettre-en-place-url-boutique.md)
 * [Généralités et cas particuliers](generalites-et-cas-particuliers.md)
 
