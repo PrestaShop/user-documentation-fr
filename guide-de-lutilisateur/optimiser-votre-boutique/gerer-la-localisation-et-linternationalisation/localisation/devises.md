@@ -16,7 +16,7 @@ Pour modifier la devise par défaut de votre boutique :
 
 ![](https://lh4.googleusercontent.com/chY2hJCmLZpvPO9ov7uu0YjBBs3hXsFg8xaAAwKOeFk7ghjEnfsABgmM9MbRDhYW4saubCjhFzDrhgkIvuQffmCefNb3YIfwrfqlRhYLHw3Bkf57YM7KmOuwrY1ew4WFlIkWYlqo)
 
-Si la devise que vous souhaitez définir comme devise par défaut n’est pas disponible dans la liste, vous devez l’ajouter : soit en important le pack de localisation d’un pays utilisant cette devise, soit en complétant le formulaire “Ajouter une nouvelle devise” \(Voir paragraphe suivant : “Ajouter une nouvelle devise”\). 
+Si la devise que vous souhaitez définir comme devise par défaut n’est pas disponible dans la liste, vous devez l’ajouter : soit en important le pack de localisation d’un pays utilisant cette devise, soit en complétant le formulaire “Ajouter une nouvelle devise” \(Voir “[Ajouter une nouvelle devise](https://prestashop.gitbook.io/documentation-en-francais-pour-prestashop-1-7/guide-de-lutilisateur/optimiser-votre-boutique/gerer-la-localisation-et-linternationalisation/localisation/devises#ajouter-une-nouvelle-devise)”\). 
 
 ## **Ajouter une nouvelle devise**
 
