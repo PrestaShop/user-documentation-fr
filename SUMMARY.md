@@ -55,7 +55,7 @@
     * [Personnaliser l'apparence de votre boutique](guide-de-lutilisateur/optimiser-votre-boutique/personnaliser-lapparence-de-votre-boutique/README.md)
       * [Thème et logo](guide-de-lutilisateur/optimiser-votre-boutique/personnaliser-lapparence-de-votre-boutique/theme-et-logo.md)
       * [Catalogue de thèmes](guide-de-lutilisateur/optimiser-votre-boutique/personnaliser-lapparence-de-votre-boutique/catalogue-de-themes.md)
-      * [Thèmes d'e-mail](guide-de-lutilisateur/optimiser-votre-boutique/personnaliser-lapparence-de-votre-boutique/themes-de-mail.md)
+      * [Thèmes d'e-mail](guide-de-lutilisateur/optimiser-votre-boutique/personnaliser-lapparence-de-votre-boutique/themes-e-mail.md)
       * [Gérer votre contenu statique grâce aux pages](guide-de-lutilisateur/optimiser-votre-boutique/personnaliser-lapparence-de-votre-boutique/gerer-votre-contenu-statique-grace-aux-pages.md)
       * [Positions des modules](guide-de-lutilisateur/optimiser-votre-boutique/personnaliser-lapparence-de-votre-boutique/positions-des-modules.md)
       * [Paramètres des images](guide-de-lutilisateur/optimiser-votre-boutique/personnaliser-lapparence-de-votre-boutique/parametres-des-images.md)
