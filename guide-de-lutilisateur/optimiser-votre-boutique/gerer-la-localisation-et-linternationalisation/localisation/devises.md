@@ -24,7 +24,7 @@ Il y a deux façons d’ajouter une nouvelle devise :
 
 ### **1. Importer le pack de localisation d’un pays utilisant cette devise**
 
-Cela peut-être fait depuis la page “Localisation” du menu “International”. 
+Cela peut être fait depuis la page “Localisation” du menu “International”. 
 
 ![](https://lh4.googleusercontent.com/2AD9IZhZLFTOutUrmeLvhNID82TBaDkEBHJAn1B66TpBf3_22DW8r9UvukeqQm8ebFKoF0llt1ht26Ck48_pAC-XsxHTRVu56lsS0TL9Qt2EgTRVq4MqYh4rTGNZrqH1IDDuE-Zu)
 
