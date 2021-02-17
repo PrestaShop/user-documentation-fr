@@ -29,7 +29,7 @@ Chapitres de ce guide :
   * [Gérer la localisation et l'internationalisation](optimiser-votre-boutique/gerer-la-localisation-et-linternationalisation/)
 * [Configurer votre boutique](configurer-votre-boutique/)
   * [Configurer les paramètres de votre boutique](configurer-votre-boutique/parametres-de-votre-boutique/)
-  * [Configurer les paramètres avancés](configurer-votre-boutique/configurer-les-parametres-avances/)
+  * [Configurer les paramètres avancés](configurer-votre-boutique/parametres-avances/)
 * [Gérer plusieurs boutiques](gerer-plusieurs-boutiques/)
   * [Interface de la page multiboutique](gerer-plusieurs-boutiques/interface-de-la-page-multiboutique.md)
   * [Créer un groupe de boutiques](gerer-plusieurs-boutiques/creer-un-groupe-de-boutiques.md)

@@ -5,5 +5,5 @@ La section "Configurer" vous permet de paramétrer votre boutique et d'en peaufi
 Ce chapitre contient les sections suivantes :
 
 * [Configurer les paramètres de votre boutique](parametres-de-votre-boutique/)
-* [Configurer les paramètres avancés](configurer-les-parametres-avances/)
+* [Configurer les paramètres avancés](parametres-avances/)
 
