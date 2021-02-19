@@ -6,18 +6,18 @@ L'onglet  “Sélection” permet de découvrir de nouveaux modules et services 
 
 Cette sélection de modules recommandés est basée sur votre pays, votre langue et votre version de PrestaShop. Elle inclut les modules les plus populaires de la marketplace Addons et des modules partenaires gratuits.
 
-* [Rechercher un module ou service](decouvrir-selection-modules.md#rechercher-un-module-ou-service)
-  * [Filtrer les modules](decouvrir-selection-modules.md#filtrer-les-modules)
-  * [Affichage des résultats](decouvrir-selection-modules.md#affichage-des-resultats)
-  * [Informations sur les modules et services](decouvrir-selection-modules.md#informations-sur-les-modules-et-services)
-    * [En savoir plus](decouvrir-selection-modules.md#en-savoir-plus)
-* [Installer ou acheter un module](decouvrir-selection-modules.md#installer-ou-acheter-un-module)
-* [Installer un module manuellement ](decouvrir-selection-modules.md#installer-un-module-manuellement)
-  * [Installer à l'aide du formulaire de téléchargement](decouvrir-selection-modules.md#installer-a-laide-du-formulaire-de-telechargement)
-  * [Installer à l'aide d'un client FTP](decouvrir-selection-modules.md#installer-a-laide-dun-client-ftp)
-* [Se connecter à la marketplace Addons ](decouvrir-selection-modules.md#se-connecter-a-la-marketplace-addons)
-  * [Vous n'avez pas de compte Addons?](decouvrir-selection-modules.md#vous-navez-pas-de-compte-addons)
-  * [Vous avez déjà un compte ?](decouvrir-selection-modules.md#vous-avez-deja-un-compte)
+* [Rechercher un module ou service](selection-modules.md#rechercher-un-module-ou-service)
+  * [Filtrer les modules](selection-modules.md#filtrer-les-modules)
+  * [Affichage des résultats](selection-modules.md#affichage-des-resultats)
+  * [Informations sur les modules et services](selection-modules.md#informations-sur-les-modules-et-services)
+    * [En savoir plus](selection-modules.md#en-savoir-plus)
+* [Installer ou acheter un module](selection-modules.md#installer-ou-acheter-un-module)
+* [Installer un module manuellement ](selection-modules.md#installer-un-module-manuellement)
+  * [Installer à l'aide du formulaire de téléchargement](selection-modules.md#installer-a-laide-du-formulaire-de-telechargement)
+  * [Installer à l'aide d'un client FTP](selection-modules.md#installer-a-laide-dun-client-ftp)
+* [Se connecter à la marketplace Addons ](selection-modules.md#se-connecter-a-la-marketplace-addons)
+  * [Vous n'avez pas de compte Addons?](selection-modules.md#vous-navez-pas-de-compte-addons)
+  * [Vous avez déjà un compte ?](selection-modules.md#vous-avez-deja-un-compte)
 
 Quelle est la différence entre un module et un service ?
 

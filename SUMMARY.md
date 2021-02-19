@@ -48,7 +48,7 @@
   * [Optimiser votre boutique](guide-utilisateur/optimiser-boutique/README.md)
     * [Gérer les modules](guide-utilisateur/optimiser-boutique/gerer-modules/README.md)
       * [Modules et services](guide-utilisateur/optimiser-boutique/gerer-modules/modules-et-services/README.md)
-        * [Découvrir la sélection de modules](guide-utilisateur/optimiser-boutique/gerer-modules/modules-et-services/decouvrir-selection-modules.md)
+        * [Découvrir la sélection de modules](guide-utilisateur/optimiser-boutique/gerer-modules/modules-et-services/selection-modules.md)
         * [Modules installés](guide-utilisateur/optimiser-boutique/gerer-modules/modules-et-services/modules-installes.md)
         * [Notifications des modules](guide-utilisateur/optimiser-boutique/gerer-modules/modules-et-services/notifications-modules.md)
       * [Catalogue de modules](guide-utilisateur/optimiser-boutique/gerer-modules/catalogue-modules.md)

@@ -10,7 +10,7 @@ En haut de la page, vous trouverez également deux fonctions majeures : la conne
 
 Suivez les liens pour plus de détails sur ces trois onglets :
 
-* [Découvrir la sélection de modules](decouvrir-selection-modules.md)
+* [Découvrir la sélection de modules](selection-modules.md)
 * [Modules installés](modules-installes.md)
 * [Notifications des modules](notifications-modules.md)
 
