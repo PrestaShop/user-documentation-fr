@@ -123,6 +123,6 @@
     * [Créer une nouvelle boutique](guide-utilisateur/gerer-plusieurs-boutiques/creer-nouvelle-boutique.md)
     * [Mettre en place l'URL d'une boutique](guide-utilisateur/gerer-plusieurs-boutiques/mettre-en-place-url-boutique.md)
     * [Généralités et cas particuliers](guide-utilisateur/gerer-plusieurs-boutiques/generalites-et-cas-particuliers.md)
-  * [Parcourir le front-office](guide-utilisateur/parcourir-le-front-office.md)
-  * [Etre conforme au RGPD](guide-utilisateur/etre-conforme-au-rgpd.md)
+  * [Parcourir le front-office](guide-utilisateur/parcourir-front-office.md)
+  * [Etre conforme au RGPD](guide-utilisateur/conformite-rgpd.md)
 
