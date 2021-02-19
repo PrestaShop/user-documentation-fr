@@ -26,7 +26,7 @@ Chapitres de ce guide :
   * [Personnaliser l'apparence de votre boutique](optimiser-boutique/personnaliser-apparence-boutique/)
   * [Gérer les livraisons](optimiser-boutique/gerer-livraisons/)
   * [Gérer les paiements](optimiser-boutique/gerer-paiements/)
-  * [Gérer la localisation et l'internationalisation](optimiser-boutique/gerer-localisation-et-internationalisation/)
+  * [Gérer la localisation et l'internationalisation](optimiser-boutique/internationalisation/)
 * [Configurer votre boutique](configurer-boutique/)
   * [Configurer les paramètres de votre boutique](configurer-boutique/configurer-parametres-boutique/)
   * [Configurer les paramètres avancés](configurer-boutique/parametres-avances/)

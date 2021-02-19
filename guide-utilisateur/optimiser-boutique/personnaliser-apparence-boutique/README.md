@@ -7,7 +7,7 @@ L'apparence de votre boutique joue un rôle important dans la perception de votr
 * [Thème et logo](theme-et-logo.md)
 * [Catalogue de thèmes](catalogue-themes.md)
 * [Thèmes d'e-mail](themes-e-mail.md)
-* [Gérer votre contenu statique grâce aux pages](gerer-votre-contenu-statique-grace-aux-pages.md)
+* [Gérer votre contenu statique grâce aux pages](pages-gerer-contenu-statique.md)
 * [Positions des modules](positions-modules.md)
 * [Paramètres des images](parametres-images.md)
 * [Gérer les blocs de liens](gerer-blocs-liens.md)

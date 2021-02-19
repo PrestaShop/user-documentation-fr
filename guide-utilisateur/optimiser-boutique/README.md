@@ -8,5 +8,5 @@ Ce chapitre contient les sections suivantes:
 * [Personnaliser l'apparence de votre boutique](personnaliser-apparence-boutique/)
 * [Gérer les livraisons](gerer-livraisons/)
 * [Gérer les paiements](gerer-paiements/)
-* [Gérer la localisation et l'internationalisation](gerer-localisation-et-internationalisation/)
+* [Gérer la localisation et l'internationalisation](internationalisation/)
 
