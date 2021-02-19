@@ -118,11 +118,11 @@
       * [Paramètres du service web](guide-utilisateur/configurer-boutique/parametres-avances/service-web.md)
       * [Multiboutique](guide-utilisateur/configurer-boutique/parametres-avances/multiboutique.md)
   * [Gérer plusieurs boutiques](guide-utilisateur/gerer-plusieurs-boutiques/README.md)
-    * [Parcourir le front-office](guide-utilisateur/gerer-plusieurs-boutiques/parcourir-le-front-office.md)
     * [Interface de la page multiboutique](guide-utilisateur/gerer-plusieurs-boutiques/interface-page-multiboutique.md)
     * [Créer un groupe de boutiques](guide-utilisateur/gerer-plusieurs-boutiques/creer-groupe-de-boutiques.md)
     * [Créer une boutique](guide-utilisateur/gerer-plusieurs-boutiques/creer-une-boutique.md)
     * [Mettre en place l'URL d'une boutique](guide-utilisateur/gerer-plusieurs-boutiques/mettre-en-place-url-boutique.md)
     * [Généralités et cas particuliers](guide-utilisateur/gerer-plusieurs-boutiques/generalites-et-cas-particuliers.md)
+  * [Parcourir le front-office](guide-utilisateur/parcourir-le-front-office.md)
   * [Etre conforme au RGPD](guide-utilisateur/etre-conforme-au-rgpd.md)
 
