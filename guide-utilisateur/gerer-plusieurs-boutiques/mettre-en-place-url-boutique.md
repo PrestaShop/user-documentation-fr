@@ -1,4 +1,4 @@
-# Mettre en place l'adresse d'une boutique
+# Mettre en place l'URL d'une boutique
 
 Chaque boutique peut avoir sa propre adresse – ou même plusieurs adresses – totalement indépendantes de la boutique principale \(qui est celle que vous avez installée en premier\). Vous devez définir au moins une adresse pour chaque boutique.
 

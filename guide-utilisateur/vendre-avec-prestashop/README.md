@@ -4,9 +4,9 @@ Vos produits, l'organisation de votre catalogue, vos commandes, vos clients et c
 
 Ce chapitre contient les sections suivantes :
 
-* [Gérer les commandes](gerer-les-commandes/)
-* [Gérer le catalogue](gerer-le-catalogue/)
-* [Gérer les clients](gerer-les-clients/)
-* [Gérer le service client](gerer-le-service-client/)
-* [Comprendre les statistiques](comprendre-les-statistiques.md)
+* [Gérer les commandes](gerer-commandes/)
+* [Gérer le catalogue](gerer-catalogue/)
+* [Gérer les clients](gerer-clients/)
+* [Gérer le service client](gerer-service-client/)
+* [Comprendre les statistiques](comprendre-statistiques.md)
 
