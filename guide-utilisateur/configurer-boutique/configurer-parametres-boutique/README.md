@@ -9,6 +9,6 @@ Les paramètres comprennent les sections suivantes :
 * [Paramètres des produits](parametres-produits.md)
 * [Paramètres des clients](parametres-clients/)
 * [Gestion des contacts](gestion-contacts.md)
-* [Trafic et SEO](trafic-et-seo/)
+* [Trafic et SEO](trafic/)
 * [Recherche](recherche/)
 

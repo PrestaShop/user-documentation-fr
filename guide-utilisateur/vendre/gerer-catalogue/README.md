@@ -10,7 +10,7 @@ Ce chapitre contient les sections suivantes :
 
 * [Gérer les produits](gerer-produits.md)
 * [Gérer les catégories](gerer-categories.md)
-* [Faire le suivi de votre catalogue](faire-le-suivi-de-votre-catalogue.md)
+* [Faire le suivi de votre catalogue](suivi-catalogue.md)
 * [Gérer les attributs de vos produits](gerer-attributs-produits.md)
 * [Gérer les caractéristiques de vos produits](gerer-caracteristiques-produits.md)
 * [Gérer les marques](gerer-marques.md)
