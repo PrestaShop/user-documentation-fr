@@ -33,7 +33,7 @@ Chapitres de ce guide :
 * [Gérer plusieurs boutiques](gerer-plusieurs-boutiques/)
   * [Interface de la page multiboutique](gerer-plusieurs-boutiques/interface-page-multiboutique.md)
   * [Créer un groupe de boutiques](gerer-plusieurs-boutiques/creer-groupe-de-boutiques.md)
-  * [Créer une boutique](gerer-plusieurs-boutiques/creer-une-boutique.md)
+  * [Créer une boutique](gerer-plusieurs-boutiques/creer-nouvelle-boutique.md)
   * [Mettre en place l'adresse d'une boutique](gerer-plusieurs-boutiques/mettre-en-place-url-boutique.md)
   * [Généralités et cas particuliers](gerer-plusieurs-boutiques/generalites-et-cas-particuliers.md)
 * [Etre conforme au RGPD](etre-conforme-au-rgpd.md)

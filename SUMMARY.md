@@ -120,7 +120,7 @@
   * [Gérer plusieurs boutiques](guide-utilisateur/gerer-plusieurs-boutiques/README.md)
     * [Interface de la page multiboutique](guide-utilisateur/gerer-plusieurs-boutiques/interface-page-multiboutique.md)
     * [Créer un groupe de boutiques](guide-utilisateur/gerer-plusieurs-boutiques/creer-groupe-de-boutiques.md)
-    * [Créer une boutique](guide-utilisateur/gerer-plusieurs-boutiques/creer-une-boutique.md)
+    * [Créer une nouvelle boutique](guide-utilisateur/gerer-plusieurs-boutiques/creer-nouvelle-boutique.md)
     * [Mettre en place l'URL d'une boutique](guide-utilisateur/gerer-plusieurs-boutiques/mettre-en-place-url-boutique.md)
     * [Généralités et cas particuliers](guide-utilisateur/gerer-plusieurs-boutiques/generalites-et-cas-particuliers.md)
   * [Parcourir le front-office](guide-utilisateur/parcourir-le-front-office.md)

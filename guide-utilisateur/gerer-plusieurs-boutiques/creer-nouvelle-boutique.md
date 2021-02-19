@@ -1,4 +1,4 @@
-# Créer une boutique
+# Créer une nouvelle boutique
 
 L'outil de création de boutique, situé sur la page "Multiboutique", vous permet de définir simplement et précisément à la fois l'apparence front-office de votre boutique \(en l'occurrence, son thème\) et les éléments que vous voulez y importer depuis votre boutique principale.
 
