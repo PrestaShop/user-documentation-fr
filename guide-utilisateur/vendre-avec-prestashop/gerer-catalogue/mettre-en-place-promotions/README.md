@@ -17,5 +17,5 @@ Les règles de promotions peuvent prendre deux formes :
 Ce chapitre contient les sections suivantes :
 
 * [Règles paniers](regles-paniers.md)
-* [Règles de prix catalogue](regles-de-prix-catalogue.md)
+* [Règles de prix catalogue](regles-de-prix.md)
 

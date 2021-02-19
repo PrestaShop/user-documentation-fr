@@ -16,5 +16,5 @@ Saisissez l'adresse e-mail et le mot de passe que vous avez choisi quand vous av
 
 À partir de cette étape, vous pouvez commencer à configurer votre boutique et proposer des produits à vos clients.
 
-Lisez le chapitre suivant de ce guide, "[Découvrir la zone d'administration](decouvrir-la-zone-dadministration.md)", pour comprendre les différentes sections du back office.
+Lisez le chapitre suivant de ce guide, "[Découvrir la zone d'administration](decouvrir-zone-administration.md)", pour comprendre les différentes sections du back office.
 

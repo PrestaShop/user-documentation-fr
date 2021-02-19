@@ -9,6 +9,6 @@ Vous trouverez tout ce qui concerne la mise en place de groupes clients, et autr
 Ce chapitre contient les sections suivantes :
 
 * [Vos clients](vos-clients.md)
-* [Adresses des clients](adresses-des-clients.md)
+* [Adresses des clients](adresses-clients.md)
 * [Encours autorisés](encours-autorises.md)
 
