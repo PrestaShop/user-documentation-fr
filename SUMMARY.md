@@ -11,7 +11,7 @@
 * [Guide de l'utilisateur](guide-utilisateur/README.md)
   * [Formations](guide-utilisateur/formations.md)
   * [Personnaliser votre boutique](guide-utilisateur/personnaliser-votre-boutique.md)
-  * [Se connecter au back office de PrestaShop](guide-utilisateur/se-connecter-au-back-office.md)
+  * [Se connecter au back office de PrestaShop](guide-utilisateur/connexion-back-office.md)
   * [Découvrir la zone d'administration](guide-utilisateur/decouvrir-zone-administration.md)
   * [Premiers pas avec PrestaShop 1.7](guide-utilisateur/premiers-pas.md)
   * [Vendre avec PrestaShop](guide-utilisateur/vendre/README.md)

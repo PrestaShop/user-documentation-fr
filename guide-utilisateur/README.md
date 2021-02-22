@@ -12,7 +12,7 @@ Chapitres de ce guide :
 
 * [Formations](formations.md)
 * [Personnaliser votre boutique](personnaliser-votre-boutique.md)
-* [Se connecter au back office de PrestaShop](se-connecter-au-back-office.md)
+* [Se connecter au back office de PrestaShop](connexion-back-office.md)
 * [Découvrir la zone d'administration](decouvrir-zone-administration.md)
 * [Premiers pas avec PrestaShop 1.7](premiers-pas.md)
 * [Vendre avec PrestaShop](vendre/)
