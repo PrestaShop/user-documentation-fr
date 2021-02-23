@@ -4,7 +4,7 @@ Le gérant d'une boutique doit faire face à un grand nombre de commandes, de fa
 
 Ce chapitre contient les sections suivantes :
 
-* [Commandes](liste-commandes.md)
+* [Commandes](gestion-liste-commandes.md)
 * [Factures](factures.md)
 * [Avoirs](avoirs.md)
 * [Bons de livraison](bons-de-livraison.md)
