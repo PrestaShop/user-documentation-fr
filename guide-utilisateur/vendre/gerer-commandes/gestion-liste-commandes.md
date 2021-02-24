@@ -4,7 +4,7 @@ description: >-
   évitant les allers-retours entre chaque commande.
 ---
 
-# Gestion de la liste des commandes
+# Gérer la liste des commandes
 
 ## **Trouver une commande** 🔎 
 
@@ -43,13 +43,13 @@ Gagnez du temps en ouvrant plusieurs commandes à la fois dans de nouveaux ongle
 
 * Sélectionnez les commandes que vous souhaitez ouvrir 
 * Ouvrez la liste déroulante "Actions groupées” 
-* Sélectionnez "Ouvrir dans de nouveaux onglets".
+* Sélectionnez "Ouvrir dans de nouveaux onglets"
 
 N'oubliez pas d’autoriser l'ouverture de plusieurs onglets dans les paramètres de votre navigateur. 
 
 ## **Ouvrir la page client dans un nouvel onglet**
 
-Pour ouvrir la page du client dans un nouvel onglet, faites un clic droit sur son nom, et cliquez sur "Ouvrir dans un nouvel onglet".
+Pour ouvrir la page du client dans un nouvel onglet, rien de plus simple ! Faites un clic droit sur son nom, et cliquez sur "Ouvrir dans un nouvel onglet".
 
 ## **Changer l’état de commande**
 
@@ -57,19 +57,19 @@ Pour ouvrir la page du client dans un nouvel onglet, faites un clic droit sur so
 
 Dans la colonne "État" du tableau, cliquez sur l’état actuel de la commande et sélectionnez le nouvel état dans la liste déroulante. 
 
-La modification de l’état à partir de la liste des commandes peut également être très utile si vous souhaitez mettre à jour le statut de plusieurs commandes en même temps :
+La modification de l’état à partir de la liste des commandes peut également être très utile si vous souhaitez mettre à jour l'état de plusieurs commandes en même temps :
 
 * Sélectionnez les commandes dont vous souhaitez actualiser l’état 
 * Ouvrez la liste déroulante "Actions groupées”
 * Sélectionnez "Changer l’état de la commande”
 
-{% hint style="info" %}
+{% hint style="success" %}
 Vous avez peut-être remarqué un changement de couleur des états de commande : vous avez l'oeil ! 😉 Nous avons en effet modifié leurs couleurs sur la version 1.7.7 pour une meilleure lisibilité.
 {% endhint %}
 
 ## **Télécharger la facture et le bon de livraison**
 
-Une fois qu'une facture ou un bon de livraison est généré dans la commande, il est possible de le télécharger dans la colonne action, en cliquant sur “Voir la facture”. 
+Une fois qu'une facture ou un bon de livraison est généré dans la commande, il est possible de le télécharger dans la colonne "Actions", en cliquant sur “Voir la facture”. 
 
 ![](https://lh5.googleusercontent.com/QeCkaFJ1a4d6-BVPBSb-1s5DgYFG8LRPLt8HzHO1YfL38LbMVRqXiqIMCUI5NEUFABMu3lh74CCMtXaSZF6A4yE4xYIBKwFSIdPekpruAICoZoJU7-zmsJqhOkKAREf5Lg6LCGX-)
 

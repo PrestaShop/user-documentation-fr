@@ -1,4 +1,4 @@
-# Se connecter au back office de PrestaShop
+# Se connecter au back-office de PrestaShop
 
 Dans ce guide utilisateurs, nous utilisons "back office" pour désigner le panneau d'administration de votre installation de PrestaShop. Vous passerez la majeure partie de votre temps sur ce panneau, car tout ce qui est affiché pour l'utilisateur est géré directement depuis le back office : ajout/modification/retrait de produits, gestion des transporteurs, création de packs et de bons d'achat, gestion du SAV, amélioration de la boutique, etc.
 
