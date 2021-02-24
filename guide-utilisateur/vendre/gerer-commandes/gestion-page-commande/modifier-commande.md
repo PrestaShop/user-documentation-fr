@@ -27,7 +27,7 @@ D'autres états pourraient être disponibles dans cette liste en fonction des mo
 
 Afin d'avoir un meilleur aperçu de l'activité de la commande, chaque changement d'état est enregistré dans l'onglet "État", ainsi que son auteur et la date/heure de mise à jour.
 
-![](../../../../.gitbook/assets/image%20%2813%29.png)
+![](../../../../.gitbook/assets/image%20%2814%29.png)
 
 {% hint style="warning" %}
 **L'état d'une commande ne doit être mis à jour que lorsqu'il est** **clairement confirmé**. Par exemple, ne marquez pas une commande comme "Livré" lorsque vous n'avez fait qu'envoyer le colis, utilisez plutôt "Expédié".
@@ -134,7 +134,7 @@ Pour enregistrer un nouveau paiement, allez à la section Paiements de la page C
 
 Dans la section Produits, en dessous de la liste des produits commandés, cliquez sur le bouton "Ajouter une réduction", et remplissez le formulaire :
 
-![](../../../../.gitbook/assets/image%20%2814%29.png)
+![](../../../../.gitbook/assets/image%20%2815%29.png)
 
 * **Nom :** Donnez un nom à la réduction. Celui-ci sera visible par le client. 
 * **Type :** Choisissez le type de réduction : "pourcentage", "montant" ou "livraison gratuite". 
