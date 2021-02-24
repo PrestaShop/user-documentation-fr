@@ -50,7 +50,7 @@ _Une nouvelle colonne apparaît dans le tableau des produits, intitulée "Rembou
 
 Les demandes de retour produits du client sont disponibles dans l'onglet Retours produits.
 
-![Onglet Retours produits dans la section administrative ](../../../../.gitbook/assets/image%20%2813%29.png)
+![Onglet Retours produits dans la section administrative ](../../../../.gitbook/assets/image%20%2815%29.png)
 
 Suivez les étapes :
 

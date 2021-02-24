@@ -20,7 +20,7 @@
       * [Gestion de la page commande](guide-utilisateur/vendre/gerer-commandes/gestion-page-commande/README.md)
         * [Modifier une commande](guide-utilisateur/vendre/gerer-commandes/gestion-page-commande/modifier-commande.md)
         * [Enregistrer des retours et procéder à des remboursements](guide-utilisateur/vendre/gerer-commandes/gestion-page-commande/retours-remboursements.md)
-      * [Commande depuis le back-office](guide-utilisateur/vendre/gerer-commandes/commande-back-office.md)
+      * [Créer une commande depuis le back-office](guide-utilisateur/vendre/gerer-commandes/commande-back-office.md)
       * [Factures](guide-utilisateur/vendre/gerer-commandes/factures.md)
       * [Avoirs](guide-utilisateur/vendre/gerer-commandes/avoirs.md)
       * [Bons de livraison](guide-utilisateur/vendre/gerer-commandes/bons-de-livraison.md)

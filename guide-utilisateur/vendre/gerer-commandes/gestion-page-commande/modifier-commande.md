@@ -15,11 +15,11 @@ description: >-
 
 Sélectionnez l'état souhaité dans la liste déroulante et cliquez sur le bouton "Mettre à jour l'état". 
 
-![](../../../../.gitbook/assets/image%20%289%29.png)
+![](../../../../.gitbook/assets/image%20%2810%29.png)
 
 Vous avez le choix entre plusieurs états :
 
-![](../../../../.gitbook/assets/image%20%2810%29.png)
+![](../../../../.gitbook/assets/image%20%2811%29.png)
 
 {% hint style="info" %}
 D'autres états pourraient être disponibles dans cette liste en fonction des modules installés sur votre boutique. 
@@ -27,7 +27,7 @@ D'autres états pourraient être disponibles dans cette liste en fonction des mo
 
 Afin d'avoir un meilleur aperçu de l'activité de la commande, chaque changement d'état est enregistré dans l'onglet "État", ainsi que son auteur et la date/heure de mise à jour.
 
-![](../../../../.gitbook/assets/image%20%2814%29.png)
+![](../../../../.gitbook/assets/image%20%2816%29.png)
 
 {% hint style="warning" %}
 **L'état d'une commande ne doit être mis à jour que lorsqu'il est** **clairement confirmé**. Par exemple, ne marquez pas une commande comme "Livré" lorsque vous n'avez fait qu'envoyer le colis, utilisez plutôt "Expédié".
@@ -61,7 +61,7 @@ Si l'état de la commande est en cours de préparation, un bon de livraison au f
 
 ###  Ajouter un produit à la commande
 
-![](../../../../.gitbook/assets/image%20%2812%29.png)
+![](../../../../.gitbook/assets/image%20%2814%29.png)
 
 En bas de la liste des produits : 
 
@@ -105,7 +105,7 @@ L'**adresse de livraison** est l'adresse où le colis sera envoyé, tandis que l
 
 Si un client vous demande de modifier l'une de ces adresses, allez dans la section Client et cliquez sur le menu latéral à côté du champ "Adresse de livraison" ou "Adresse de facturation". Vous pouvez modifier l'adresse existante ou sélectionner une autre adresse, dans la liste des adresses fournies par le client.
 
-![](../../../../.gitbook/assets/image%20%288%29.png)
+![](../../../../.gitbook/assets/image%20%289%29.png)
 
 Si l'adresse que vous souhaitez associer à la commande n'est pas déjà enregistrée dans PrestaShop, vous devez d'abord la créer :
 
@@ -114,7 +114,7 @@ Si l'adresse que vous souhaitez associer à la commande n'est pas déjà enregis
 * Remplissez le formulaire et sauvegardez
 * Retournez à la page des détails de la commande et sélectionnez l'adresse dans la liste déroulante.
 
-![Section Addresses de la page Client](../../../../.gitbook/assets/image%20%2811%29.png)
+![Section Addresses de la page Client](../../../../.gitbook/assets/image%20%2813%29.png)
 
 ## Gérer les paiements et réductions
 
@@ -128,13 +128,13 @@ Pour enregistrer un nouveau paiement, allez à la section Paiements de la page C
 * Sélectionnez la facture sur laquelle vous souhaitez que ce paiement apparaisse 
 * Cliquez sur le bouton "Ajouter" pour sauvegarder
 
-![](../../../../.gitbook/assets/image%20%287%29.png)
+![](../../../../.gitbook/assets/image%20%288%29.png)
 
 ### Ajouter une réduction
 
 Dans la section Produits, en dessous de la liste des produits commandés, cliquez sur le bouton "Ajouter une réduction", et remplissez le formulaire :
 
-![](../../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../../.gitbook/assets/image%20%2817%29.png)
 
 * **Nom :** Donnez un nom à la réduction. Celui-ci sera visible par le client. 
 * **Type :** Choisissez le type de réduction : "pourcentage", "montant" ou "livraison gratuite". 
