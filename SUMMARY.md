@@ -10,7 +10,7 @@
   * [Informations complémentaires](guide-demarrage/informations-complementaires.md)
 * [Guide de l'utilisateur](guide-utilisateur/README.md)
   * [Formations](guide-utilisateur/formations.md)
-  * [Personnaliser votre boutique](guide-utilisateur/personnaliser-votre-boutique.md)
+  * [Personnaliser votre boutique](guide-utilisateur/personnaliser-boutique.md)
   * [Se connecter au back-office de PrestaShop](guide-utilisateur/connexion-back-office.md)
   * [Découvrir la zone d'administration](guide-utilisateur/decouvrir-zone-administration.md)
   * [Premiers pas avec PrestaShop 1.7](guide-utilisateur/premiers-pas.md)

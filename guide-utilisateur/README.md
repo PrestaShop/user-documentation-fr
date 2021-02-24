@@ -11,7 +11,7 @@ Vous pouvez poser vos questions directement sur notre forum, [http://www.prestas
 Chapitres de ce guide :
 
 * [Formations](formations.md)
-* [Personnaliser votre boutique](personnaliser-votre-boutique.md)
+* [Personnaliser votre boutique](personnaliser-boutique.md)
 * [Se connecter au back office de PrestaShop](connexion-back-office.md)
 * [Découvrir la zone d'administration](decouvrir-zone-administration.md)
 * [Premiers pas avec PrestaShop 1.7](premiers-pas.md)
