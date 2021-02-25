@@ -21,7 +21,7 @@ Pour procéder à un remboursement standard, suivez les étapes :
 _Une nouvelle colonne apparaît dans le tableau des produits, intitulée "Remboursement standard"._ 
 
 * Définissez le montant et la quantité pour chacun des produits que vous souhaitez rembourser
-* Choisissez l'une des options de remboursement  Voir "[Choisir une option de remboursement](https://prestashop.gitbook.io/documentation-francaise-1-7/guide-utilisateur/vendre/gerer-commandes/gestion-page-commande/retours-remboursements#choisir-une-option-de-remboursement)" plus bas pour plus de détails. 
+* Choisissez l'une des options de remboursement  Voir "[Choisir une option de remboursement](retours-remboursements.md#choisir-une-option-de-remboursement) plus bas pour plus de détails. 
 * Cliquez sur le bouton "Remboursement standard" pour valider
 
 ## Procéder à un remboursement partiel
@@ -39,7 +39,7 @@ Pour procéder à un remboursement partiel, suivez les étapes :
 _Une nouvelle colonne apparaît dans le tableau des produits, intitulée "Remboursement partiel"._ 
 
 * Fixez le montant et la quantité pour chacun des produits que vous souhaitez rembourser 
-* Choisissez l'une des options de remboursement Voir "[Choisir une option de remboursement](https://prestashop.gitbook.io/documentation-francaise-1-7/guide-utilisateur/vendre/gerer-commandes/gestion-page-commande/retours-remboursements#choisir-une-option-de-remboursement)" plus bas pour plus de détails. 
+* Choisissez l'une des options de remboursement Voir "[Choisir une option de remboursement](retours-remboursements.md#choisir-une-option-de-remboursement)" plus bas pour plus de détails. 
 * Cliquez sur le bouton "Remboursement partiel" pour valider
 
 ## Enregistrer un retour produit
@@ -61,7 +61,7 @@ Assurez-vous que vous avez bien reçu les produits retournés. Si tout est en or
 _Une nouvelle colonne apparaît dans le tableau des produits, intitulée "Retourner les produits"._
 
 * Sélectionnez les produits et la quantité retournée
-* Choisissez l'une des options de remboursement  Voir "[Choisir une option de remboursement](https://prestashop.gitbook.io/documentation-francaise-1-7/guide-utilisateur/vendre/gerer-commandes/gestion-page-commande/retours-remboursements#choisir-une-option-de-remboursement)" ci-dessous pour plus de détails
+* Choisissez l'une des options de remboursement  Voir "[Choisir une option de remboursement](retours-remboursements.md#choisir-une-option-de-remboursement)" ci-dessous pour plus de détails
 * Cliquez sur le bouton "Retourner les produits" pour valider
 
 ## Choisir une option de remboursement

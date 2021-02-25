@@ -158,7 +158,7 @@ Vous pourriez avoir besoin d'envoyer un message à votre client pour le tenir in
 Écrivez votre message dans le champ message et envoyez-le. 
 
 * [x] Si vous souhaitez que votre client reçoive le message, n'oubliez pas de cocher la case "Montrer au client". 
-* [ ] Si vous souhaitez garder ce message privé, c'est également possible : il suffit de ne pas cocher la case "Afficher au client".
+* [ ] Si vous souhaitez garder ce message privé, c'est également possible : il suffit de ne pas cocher la case "Montrer au client".
 
 ### Envoyer des messages prédéfinis
 

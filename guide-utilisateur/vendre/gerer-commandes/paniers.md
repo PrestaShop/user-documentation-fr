@@ -5,7 +5,7 @@ PrestaShop contient des fonctionnalités marketing très poussées qui vous perm
 1. Allez dans la page "Clients" du menu "Clients", trouvez le client que vous cherchez, et affichez son profil. Faites défiler le profil jusqu'à la section "Paniers", où vous pourrez voir les paniers créés par ce client.
 2. Allez dans la page "Paniers" du menu "Commandes". Les paniers sont triés par ID. Trouvez le client que vous cherchez.
 
-![](../../../.gitbook/assets/52298177.png)
+![](../../../.gitbook/assets/52298177%20%281%29.png)
 
 Dans les deux cas, vous pouvez cliquer sur l'icône "Détails" pour consulter les informations du panier de votre client, et utiliser cette information pour améliorer vos performances commerciales.
 

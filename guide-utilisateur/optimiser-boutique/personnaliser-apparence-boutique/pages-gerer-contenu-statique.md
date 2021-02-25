@@ -37,7 +37,7 @@ Pour créer des sous-catégories, lors de la création d'une catégorie, remplac
 
 _Nouveau depuis PrestaShop 1.7.6 !_ Vous pouvez maintenant bénéficier de l'affichage dynamique de vos résultats de recherche.
 
-![](../../../.gitbook/assets/64225647%20%281%29.gif)
+![](../../../.gitbook/assets/64225647%20%281%29%20%281%29.gif)
 
 Cliquez sur le bouton "Ajouter une page" pour atteindre le formulaire de création.
 

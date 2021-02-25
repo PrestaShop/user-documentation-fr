@@ -58,7 +58,7 @@ Chaque module dispose de deux boutons à la droite de sa ligne : un pour modifie
 
 Les réglages d'un module se font dans la même interface que celle utilisée pour greffer un module. La différence principale revient à ce que vous ne pouvez modifier le champs "Module", qui est désactivé et grisé. Vous ne pouvez modifier le champs "Greffer le module sur" et le réglage des exceptions, qui fonctionne tel que décrit pour la méthode "Attacher un module à un point d'accroche" ci-dessus.
 
-![](../../../.gitbook/assets/52298289%20%281%29.png)
+![](../../../.gitbook/assets/52298289%20%281%29%20%281%29.png)
 
 Vérifiez toujours sur votre front office que le module apparaît bien là il se doit.
 

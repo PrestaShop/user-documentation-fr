@@ -7,10 +7,10 @@ Au quotidien, gérer toutes ces commandes peut devenir une tâche laborieuse...H
 Grâce à cette documentation, vous apprendrez à :
 
 * [Gérer la liste des commandes](gestion-liste-commandes.md)
-* [Gérer la page commande](gerer-page-commande/) - [Modifier une commande](gerer-page-commande/modifier-commande.md) - [Enregistrer des retours et procéder à des remboursements](gerer-page-commande/retours-remboursements.md)
+* [Gérer la page commande](gerer-page-commande/)   [Modifier une commande](gerer-page-commande/modifier-commande.md) [  Enregistrer des retours et procéder à des remboursements](gerer-page-commande/retours-remboursements.md)
 * [Créer une commande depuis le back-office](commande-back-office.md)
 
-Et vous en apprendrez plus sur la gestion des :
+Vous pourrez aussi en apprendre davantage sur la gestion des :
 
 * [Factures](factures.md)
 * [Avoirs](avoirs.md)

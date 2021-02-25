@@ -125,7 +125,7 @@ Vous pouvez également mettre à jour les langues installées, depuis les serveu
 
 Vous pouvez créer votre pack de langue en utilisant cet outil, soit dans le but de faire une sauvegarde de vos personnalisations, ou afin de partager vos traductions avec une autre installation de PrestaShop – l'une des vôtres ou d'un autre utilisateur.
 
-![](../../../.gitbook/assets/64225473.png)
+![](../../../.gitbook/assets/64225473%20%281%29.png)
 
 Sélectionnez simplement la langue et le thème de la traduction que vous souhaitez exporter, et cliquez sur le bouton "Exporter". Notez que le pack contiendra le thème qui est censé fonctionner avec la traduction.
 
@@ -133,7 +133,7 @@ Sélectionnez simplement la langue et le thème de la traduction que vous souhai
 
 Vous pouvez copier le contenu d'une langue vers une autre. C'est particulièrement utile quand vous souhaitez remplacer la langue d'un thème par celle d'un autre thème.
 
-![](../../../.gitbook/assets/64225473.png)
+![](../../../.gitbook/assets/64225473%20%281%29.png)
 
 Choisissez la langue et le thème sources, puis la langue et le thème de destination, enfin cliquez sur le bouton "Copier". Dans la plupart des cas, la langue devrait être la même dans les deux listes déroulantes.
 

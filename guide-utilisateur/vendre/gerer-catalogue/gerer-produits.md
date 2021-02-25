@@ -122,7 +122,7 @@ Vous pouvez changer l'image de couverture en cliquant sur la miniature de l'imag
 
 Une fois que vous avez chargé toutes les images du produit, vous pouvez modifier leur ordre en glissant-déposant chaque image. Vous pouvez également ajouter des images en cliquant sur l'icône "+" ou en les faisant glisser dans l'encadré.
 
-![](../../../.gitbook/assets/52298186.gif)
+![](../../../.gitbook/assets/52298186%20%281%29.gif)
 
 #### Récapitulatif et description <a id="Gererlesproduits-R&#xE9;capitulatifetdescription"></a>
 
@@ -133,7 +133,7 @@ En bas de l'écran, les deux champs de description ont des finalités différent
 * Le champ **"Résumé"** vous permet de rédiger une rapide description qui apparaîtra dans les moteurs de recherche et dans le descriptif du produit. Ce champ est limité à 400 caractères par défaut : si vous dépassez cette limite PrestaShop affichera un avertissement en rouge.
 * Le champ **"Description"** vous permet d'écrire une description complète de votre produit, qui apparaîtra directement sur la page produit. L'éditeur de texte vous donne accès à un grand nombre d'options pour créer une description visuellement agréable \(police, taille, couleur, etc.\). Si le second champ n'est pas limité en caractères, évitez cependant de trop en mettre : efforcez-vous de ne mettre que les informations essentielles de manière convaincante, et votre produit en sortira grandi.
 
-#### ![](../../../.gitbook/assets/52298186.gif) <a id="Gererlesproduits-"></a>
+#### ![](../../../.gitbook/assets/52298186%20%281%29.gif) <a id="Gererlesproduits-"></a>
 
 #### Caractéristiques <a id="Gererlesproduits-Caract&#xE9;ristiques"></a>
 
@@ -219,7 +219,7 @@ La création de taxe se passe dans la page "Taxes" du menu "International".
 
 #### Catégories <a id="Gererlesproduits-Cat&#xE9;gories"></a>
 
-![](../../../.gitbook/assets/51185100%20%281%29.png)
+![](../../../.gitbook/assets/51185100%20%281%29%20%281%29.png)
 
 La section "Catégories" vous permet de choisir les catégories dans lesquelles le produit devrait apparaître. Vous pouvez en choisir plus d'une, mais gardez en tête que pour le client, il est préférable que le produit se trouve uniquement au milieu de produit équivalents et comparables. De fait, vous devriez éviter de choisir la catégorie racine, et préférer les sous-catégories.  
 Par exemple, la catégorie "Téléphone" peut comprendre des sous-catégories de marques \(Apple, Samsung, HTC, etc.\) ainsi que des "caractéristiques" \(double sim, Android, etc\). C'est à vous d'indiquer la catégorie la plus utile à vos clients.

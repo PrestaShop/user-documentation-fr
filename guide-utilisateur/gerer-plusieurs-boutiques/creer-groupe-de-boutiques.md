@@ -8,7 +8,7 @@ Plus généralement, les paramètres sont appliqués à toutes les entités appa
 
 En cliquant sur le bouton "Ajouter un nouveau groupe de boutiques" ouvre un formulaire avec peu d'options mais beaucoup de texte : assurez-vous de lire chaque description du début à la fin, car elles vous aideront à prendre les bonnes décisions pour ces options. Étant donné que certaines sont irréversibles \(vous ne pouvez pas les désactiver après les avoir activées\), il vous faut absolument comprendre ce qu'elles activent.
 
-![](../../.gitbook/assets/52625510%20%281%29.png)
+![](../../.gitbook/assets/52625510%20%281%29%20%281%29.png)
 
 Les réglages disponibles sont :
 
