@@ -25,7 +25,7 @@ Si vous souhaitez changer de thème, choisissez en un parmi le large choix de th
 
 L'en-tête est une fine barre de contenu en haut de la page, accessible depuis n'importe quelle page du front-office. 
 
-![En-t&#xEA;te](../.gitbook/assets/image%20%2820%29.png)
+![En-t&#xEA;te](../.gitbook/assets/image%20%2821%29.png)
 
 L'en-tête est séparé en deux. 
 
@@ -37,7 +37,7 @@ La partie supérieure de l'en-tête contient :
 * **Un lien vers la page d'authentification :** Une fois connecté, le client a accès à son compte, et un lien "Déconnexion" apparaît à côté de son nom. 
 * **Un lien vers le panier du client :** En un coup d'oeil, le client peut savoir combien d'articles il a dans son panier. Il peut également cliquer sur le bouton" Panier" pour accéder au contenu du panier et finaliser sa commande. 
 
-![Partie sup&#xE9;rieure de l&apos;en-t&#xEA;te ](../.gitbook/assets/image%20%2821%29.png)
+![Partie sup&#xE9;rieure de l&apos;en-t&#xEA;te ](../.gitbook/assets/image%20%2822%29.png)
 
 La partie inférieure de l'en-tête, plus large, contient :
 
@@ -51,11 +51,11 @@ La partie inférieure de l'en-tête, plus large, contient :
 
 Le pied de page est séparé en deux parties.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 ➡La partie supérieure du pied de page contient un **bloc d'inscription à la newsletter** de votre boutique, permettant au client de recevoir des offres spéciales. Ce formulaire d'abonnement est géré par le module "Inscription à la newsletter". 
 
-![Bloc d&apos;inscription &#xE0; la newsletter ](../.gitbook/assets/image%20%2822%29.png)
+![Bloc d&apos;inscription &#xE0; la newsletter ](../.gitbook/assets/image%20%2823%29.png)
 
 {% hint style="warning" %}
 Veuillez noter que l'envoi de la newsletter est de votre ressort. Grâce au module "Newsletter", vous pourrez générer un fichier .csv contenant tous les clients enregistrés et leurs e-mails. Vous pourrez ensuite importer ce fichier .csv dans n'importe quel système d-e-mailing. 
