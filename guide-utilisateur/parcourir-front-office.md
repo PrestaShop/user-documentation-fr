@@ -133,7 +133,9 @@ La section centrale change en fonction des choix des clients.
 
 La page d'accueil par défaut donne au client un large aperçu du magasin et de ses possibilités. Cette page d'accueil doit être pensée à destination de nouveaux clients. Que souhaitez-vous mettre en avant ? 
 
-En haut de la page, il y a un carrousel d'images : trois images défilent. Vous pouvez utilisez ce carrousel pour mettre en avant vos nouvelles collections, des promotions à ne pas louper, etc. 
+En haut de la page, il y a un carrousel d'images : trois images défilent. Vous pouvez utiliser ce carrousel pour mettre en avant vos nouvelles collections, des promotions à ne pas louper, etc. 
+
+![](https://media.giphy.com/media/2oUFsps8xUl4H2TK80/giphy.gif)
 
 En dessous, sont affichés les produits populaires de votre boutique. 
 
