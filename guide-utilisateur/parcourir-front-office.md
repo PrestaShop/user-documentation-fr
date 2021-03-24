@@ -158,7 +158,7 @@ Cette présentation sous forme de liste permet au client de voir en un coup d'œ
 
 Au survol de la souris, le client peut accéder à un "aperçu rapide" du produit. Il aura alors accès, en plus des informations précédemment énoncées, à la description du produit, et pourra ajouter le produit à son panier après avoir choisi les attributs \(s'il y en a\) et saisi la quantité souhaitée. 
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2827%29%20%281%29.png)
 
 En-tête de la catégorie :
 
@@ -187,7 +187,7 @@ Le formulaire de création de compte se compose de deux parties :
 
 Une fois inscrit, le client pourra accéder à son compte client, où de nombreuses options sont accessibles. Le client pourra notamment ajouter une première adresse. Il s'agira de son adresse par défaut, mais il peut y avoir d'autres ! Si le client n'a qu'une seule adresse enregistrée, elle sera utilisée à la fois comme adresse de livraison et de facturation. Au cours du processus de commande, le client pourra toujours choisir d'utiliser une adresse différente. 
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2826%29%20%281%29.png)
 
 {% hint style="success" %}
 La commande express permet aux visiteurs d'acheter des produits sans devoir forcément créer un compte. PrestaShop a toujours besoin de certaines informations essentielles pour la livraison ou le paiement, mais l'utilisateur n'aura jamais à créer de mot de passe.

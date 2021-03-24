@@ -95,7 +95,7 @@
       * [Paramètres des produits](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/parametres-produits.md)
       * [Paramètres des clients](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/parametres-clients/README.md)
         * [Préférences des clients](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/parametres-clients/preferences-clients.md)
-        * [Groupes de clients](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/parametres-clients/groupes-de-clients.md)
+        * [Groupes de clients](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/parametres-clients/groupes-clients.md)
         * [Titres de civilité](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/parametres-clients/titres-de-civilite.md)
       * [Gestion des contacts](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/gestion-contacts.md)
       * [Trafic et SEO](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/trafic/README.md)

@@ -219,7 +219,7 @@ La création de taxe se passe dans la page "Taxes" du menu "International".
 
 #### Catégories <a id="Gererlesproduits-Cat&#xE9;gories"></a>
 
-![](../../../.gitbook/assets/51185100%20%281%29%20%281%29.png)
+![](../../../.gitbook/assets/51185100%20%281%29%20%281%29%20%281%29.png)
 
 La section "Catégories" vous permet de choisir les catégories dans lesquelles le produit devrait apparaître. Vous pouvez en choisir plus d'une, mais gardez en tête que pour le client, il est préférable que le produit se trouve uniquement au milieu de produit équivalents et comparables. De fait, vous devriez éviter de choisir la catégorie racine, et préférer les sous-catégories.  
 Par exemple, la catégorie "Téléphone" peut comprendre des sous-catégories de marques \(Apple, Samsung, HTC, etc.\) ainsi que des "caractéristiques" \(double sim, Android, etc\). C'est à vous d'indiquer la catégorie la plus utile à vos clients.
