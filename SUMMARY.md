@@ -107,7 +107,7 @@
         * [Mots-clés](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/recherche/mots-cles.md)
     * [Configurer les paramètres avancés](guide-utilisateur/configurer-boutique/parametres-avances/README.md)
       * [Informations de configuration](guide-utilisateur/configurer-boutique/parametres-avances/informations-configuration.md)
-      * [Paramètres de performances](guide-utilisateur/configurer-boutique/parametres-avances/performances.md)
+      * [Paramètres de performances](guide-utilisateur/configurer-boutique/parametres-avances/performance.md)
       * [Préférences de l'administration](guide-utilisateur/configurer-boutique/parametres-avances/administration.md)
       * [Paramètres des e-mails](guide-utilisateur/configurer-boutique/parametres-avances/e-mails.md)
       * [Importer des données](guide-utilisateur/configurer-boutique/parametres-avances/importer-donnees.md)
