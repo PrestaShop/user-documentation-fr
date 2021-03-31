@@ -14,7 +14,7 @@ Prenez le temps d'appréhender le tableau de bord – c'est-à-dire, la premièr
 
 ### La barre supérieure
 
-![](../.gitbook/assets/63406136%20%281%29%20%281%29%20%281%29.png)
+![](../.gitbook/assets/63406136%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 En haut de la page se trouve une barre sombre contenant une poignée de liens et informations :
 
