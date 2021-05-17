@@ -38,10 +38,22 @@ Cette section vous permet de configurer le comportement du moteur de recherche i
 
 ![](../../../../.gitbook/assets/52298438.png)
 
-* **Rechercher dans le mot**. Cette option améliore la recherche en permettant d'afficher des résultats qui ne correspondent pas uniquement au début d'un mot, mais aussi à l'intérieur du mot. Par exemple, une recherche "mis" donnera comme résultat "chemise".
-* **Rechercher la fin exacte**. Avec cette option, vous pouvez donner des résultats qui correspondront exactement à la fin d'un mot. Par exemple, si vous cherchez "feuille", vous aurez "millefeuille", "portefeuille", mais pas "feuilleton". Cela peut être utile pour permettre de trouver facilement des références par exemple.
-* **Taille de mot minimum**. Vous pouvez choisir le nombre de caractères minimal à partir duquel un mot est enregistré dans l'index de recherche, et donc peut être trouvé par vos clients. Cette fonctionnalité vous permet d'éliminer les mots courts de la recherche, tels que les prépositions ou les articles \(le, et, de, etc.\).
-* **Mots à ne pas indexer**. Vous pouvez choisir les mots qui ne doivent pas être trouvables pour vos clients. Saisissez-les directement dans le champ, séparés par "\|".
+* **Rechercher dans le mot :** Cette option améliore la recherche en permettant d'afficher des résultats qui ne correspondent pas uniquement au début d'un mot, mais aussi à l'intérieur du mot. Par exemple, une recherche "mis" donnera comme résultat "chemise".
+* **Rechercher la fin exacte :** Avec cette option, vous pouvez donner des résultats qui correspondront exactement à la fin d'un mot. Par exemple, si vous cherchez "feuille", vous aurez "millefeuille", "portefeuille", mais pas "feuilleton". Cela peut être utile pour permettre de trouver facilement des références par exemple.
+* **Recherche approximative :** Cette fonction améliore la fonctionnalité de recherche de PrestaShop en prenant en compte les entrées mal orthographiées ou erronées. Par exemple, si un client saisit 'colybri' dans la barre de recherche, le contrôleur de recherche trouvera le mot le plus proche, c'est-à-dire 'colibri', et affichera les produits correspondants. 
+* **Nombre maximal de mots approximatifs par recherche :** Vous pouvez déterminer le nombre de mots traités lors d'une recherche approximative. Par défaut, la valeur est fixée à 4, ce qui signifie que dans une recherche telle que "Samsung Galaxy chargeur mural multiprise", seuls les mots "Samsung", "Galaxy", "chargeur" et "mural" seront pris en compte. Le mot "multiprise" ne sera pas pris en compte.
+
+{% hint style="info" %}
+Notez que PrestaShop fixe cette limite afin d'éviter les comportements offensifs qui pourraient surcharger intentionnellement le serveur. Vous pouvez modifier ce nombre, mais la plupart des magasins n'auront pas à le faire.
+{% endhint %}
+
+* **Longueur maximale des mots \(en caractères\) :** Ce champ détermine le nombre de caractères autorisés lors d'une recherche approximative. Il est conseillé de fixer la longueur maximale des mots à 15 pour que la recherche approximative reste rapide, même lors du traitement de longues requêtes. Cela n'empêchera pas vos clients de saisir des mots plus longs dans la barre de recherche, mais seuls les 15 premiers caractères de chaque mot saisi seront pris en compte pour la recherche. Par exemple, dans "ceciestuntrèslongmot" \(20 caractères\), seul "ceciestuntrèslo" \(15 caractères\) sera pris en compte. Lorsque vous modifiez la longueur maximale des mots, n'oubliez pas que plus le mot est long \(en caractères\), plus le serveur est sollicité. Ainsi, plus votre base de données est importante, plus une recherche consommera de ressources et plus elle sera longue.
+* **Taille de mot minimum :** Vous pouvez choisir le nombre de caractères minimal à partir duquel un mot est enregistré dans l'index de recherche, et donc peut être trouvé par vos clients. Cette fonctionnalité vous permet d'éliminer les mots courts de la recherche, tels que les prépositions ou les articles \(le, et, de, etc.\).
+* **Mots à ne pas indexer :** Vous pouvez choisir les mots qui ne doivent pas être trouvables pour vos clients. Saisissez-les directement dans le champ, séparés par "\|".
+
+{% hint style="success" %}
+La recherche approximative est l'une des nouvelles fonctionnalités de PrestaShop 1.7.7. Elle est également le résultat de la contribution d'un membre de la communauté ! 😍 Consultez l'[article sur le blog des développeurs](https://build.prestashop.com/news/introduction-to-the-fuzzy-search/) pour obtenir plus de détails sur cette fonctionnalité.
+{% endhint %}
 
 ## Poids <a id="Pr&#xE9;f&#xE9;rencesderecherche-Poids"></a>
 
