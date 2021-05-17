@@ -8,6 +8,10 @@ Même si vous pensez connaître votre front-office par cœur, n’oubliez pas d�
 
 Notez que cette page de la documentation sera basée uniquement sur le thème, les paramètres et les modules par défaut. En effet, l'activation d'autres modules ou l'utilisation d'un autre thème pourrait changer radicalement l'expérience d'achat. 
 
+{% hint style="success" %}
+Si vous souhaitez changer de thème, choisissez en un parmi le large choix de thèmes disponibles sur [PrestaShop Addons](https://addons.prestashop.com/fr/3-themes-prestashop). 
+{% endhint %}
+
 ## Le thème par défaut 
 
 ![](../.gitbook/assets/image%20%2829%29.png)
@@ -15,10 +19,6 @@ Notez que cette page de la documentation sera basée uniquement sur le thème, l
 PrestaShop est livré avec un thème par défaut qui utilise un design simple et épuré, en gris et blanc. Ce minimalisme permet de s'adapter à presque tous les secteurs d'activité. Il a été conçu pour être facile à parcourir, ergonomique, conforme aux bonnes pratiques web et adapté à toutes les tailles d'écran, à tous les appareils. 
 
 Si vous avez installé PrestaShop avec ses données de démonstration, vous verrez des produits vestimentaires et des accessoires de maison. 
-
-{% hint style="success" %}
-Si vous souhaitez changer de thème, choisissez en un parmi le large choix de thèmes disponibles sur [PrestaShop Addons](https://addons.prestashop.com/fr/3-themes-prestashop). 
-{% endhint %}
 
 ## Parcourir la boutique
 
@@ -46,8 +46,8 @@ La partie inférieure de l'en-tête, plus large, contient :
 * **Le menu :** par défaut, les catégories "Vêtements", "Accessoires" et "Art" sont affichées, et des sous-catégories apparaîssent au survol de la souris. Pour personnaliser le menu avec vos propres catégories, vous devez configurer le module "Menu principal". 
 * **La barre de recherche :** indispensable pour faciliter la recherche sur votre boutique, elle permet aux clients de trouver rapidement les articles de leur choix grâce à des mots-clés.
 
-{% hint style="success" %}
-[Nouveauté 1.7.7](https://www.prestashop.com/fr/prestashop-1-7-7) : l'option de recherche approximative \("fuzzy search"\) prend désormais en compte les éventuelles fautes de frappe des entrées recherchées par vos visiteurs ! Par défaut, cette option est activée dans votre back-office \(Paramètres de la boutique &gt; Rechercher\).
+{% hint style="info" %}
+L'option de recherche approximative \("fuzzy search"\) prend désormais en compte les éventuelles fautes de frappe des entrées recherchées par vos visiteurs ! 
 {% endhint %}
 
 ### La section centrale 
