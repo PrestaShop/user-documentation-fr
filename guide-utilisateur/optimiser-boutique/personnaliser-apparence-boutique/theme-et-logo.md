@@ -9,7 +9,7 @@ Tout est dit dans le titre : cette page vous permet de gérer vos thèmes, et c'
   * [Importer un thème](theme-et-logo.md#importer-un-theme)
   * [Exporter un thème](theme-et-logo.md#exporter-un-theme)
   * [En direct de PrestaShop Addons !](theme-et-logo.md#en-direct-de-prestashop-addons)
-* [Configuration page d'accueil ](theme-et-logo.md#configuration-page-daccueil)
+* [Configuration des pages](theme-et-logo.md#configuration-des-pages)
 * [Personnalisation avancée : le thème parent / enfant](theme-et-logo.md#personnalisation-avancee-le-theme-parent-enfant)
   * [Créer un thème enfant](theme-et-logo.md#creer-un-theme-enfant)
 
@@ -94,15 +94,23 @@ Si vous êtes à la recherche d'un nouveau thème, PrestaShop Addons est ce qu'i
 
 Vous pouvez cliquer sur chaque image pour aller sur la page individuelle de chaque thème et obtenir plus d'information. Vous pouvez aussi utiliser la bar de recherche en bas de page pour trouver un thème selon une thématique qui correspond à votre site et votre marque.
 
-## Configuration page d'accueil 
+## Configuration des pages
 
-_Nouveauté depuis PrestaShop 1.7.4 !_ On est très fiers de vous la présenter : la cartographie de la page d'accueil ! Chaque partie du front office est contrôlée par un module spécifique. En d'autres termes, une simple modification à effectuer sur une partie de la page d'accueil renvoie obligatoirement à la section "Modules" du back office, sur laquelle il faut ensuite sélectionner le bon module pour, enfin, accéder à sa page de configuration... pas très intuitif, n'est-ce pas ? Désormais, grâce à la double visualisation de cette cartographie du front office, la personnalisation du thème est plus rapide, et les marchands sont plus heureux !
+Le module "Personnalisation de thème" vous permet de personnaliser facilement les pages du front-office de votre boutique. 
 
-![](../../../.gitbook/assets/56688755.png)
+Vous pouvez personnaliser la **page d'accueil**, la **page catégorie** et la **page produit**. 
 
-Sur la partie gauche, vous trouverez une illustration simplifiée de la page d'accueil, réalisée pour vous permettre de repérer la partie à modifier en un coup d'oeil. Sur la partie gauche, vous obtiendrez en miroir la sélection de modules à configurer.
+Sur le côté gauche de votre écran est affichée une illustration simplifiée de la page sélectionnée. Sur le côté droit, une vue en miroir montre le ou les modules que vous devez configurer pour modifier l'élément sélectionné.
 
-Le front office est divisé en sept catégories différentes : menu, glissière, produits en page d'accueil, bloc de texte, bannière, newsletter & réseaux sociaux et footer. Chacune de celles-ci se déploie pour afficher les fonctionnalités du coeur et les modules natifs que contient la zone sélectionnée. Ces fonctionnalités peuvent être installées, configurées ou désactivées. En cliquant sur le bouton "Configurer", notez que c'est la page de configuration de la fonctionnalité qui s'ouvre.
+Cliquez sur la section de la page que vous souhaitez modifier pour savoir quel\(s\) module\(s\) doit être configuré\(s\) pour effectuer la modification. Ensuite, cliquez sur "Configurer" pour accéder à la page du module et procéder aux modifications. 
+
+Jetez un oeil au GIF ci-dessous pour voir un exemple avec le carrousel de votre page d'accueil.
+
+![](../../../.gitbook/assets/pages-configuration-les-chaussettes-de-larchiduchesse-1-.gif)
+
+{% hint style="info" %}
+Veuillez noter que le module "Personnalisation de thème" fonctionne seulement avec le thème par défaut de PrestaShop et les modules intégrés. 
+{% endhint %}
 
 ## Personnalisation avancée : le thème parent / enfant
 

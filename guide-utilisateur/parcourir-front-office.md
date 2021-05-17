@@ -54,13 +54,13 @@ L'option de recherche approximative \("fuzzy search"\) prend désormais en compt
 
 La page d'accueil par défaut donne au client un large aperçu de la boutique et de ses possibilités. Que souhaitez-vous mettre en avant à vos clients ?
 
-En haut de la page, il y a un carrousel d'images : trois images défilent. Vous pouvez utiliser ce carrousel à l'aide du module du même nom pour mettre en avant vos nouvelles collections, des promotions à ne pas louper, etc.
+En haut de la page, il y a un carrousel d'images : trois images défilent. Vous pouvez configurer ce carrousel à l'aide du module du même nom pour mettre en avant vos nouvelles collections, des promotions à ne pas louper, etc.
 
 ![](https://media.giphy.com/media/2oUFsps8xUl4H2TK80/giphy.gif)
 
-En dessous sont affichés les produits populaires de votre boutique. 
+En dessous du carrousel sont affichés les produits populaires de votre boutique. 
 
-Vous pouvez également personnaliser une bannière ou encore ajouter un bloc de texte. N'hésitez pas à consulter la documentation dédiée pour apprendre à [configurer la page d'accueil de votre boutique](https://prestashop.gitbook.io/documentation-francaise-1-7/guide-utilisateur/optimiser-boutique/personnaliser-apparence-boutique/theme-et-logo#configuration-page-daccueil). 
+Vous pouvez également personnaliser une bannière ou encore ajouter un bloc de texte. N'hésitez pas à consulter la documentation dédiée pour apprendre à [configurer les pages de votre boutique. ](optimiser-boutique/personnaliser-apparence-boutique/theme-et-logo.md#configuration-des-pages)
 
 ### Le pied de page
 
@@ -73,7 +73,7 @@ Le pied de page est divisé en deux parties.
 ![Bloc d&apos;inscription &#xE0; la newsletter ](../.gitbook/assets/image%20%2828%29.png)
 
 {% hint style="info" %}
-Veuillez noter que l'envoi de la newsletter est de votre ressort. Grâce au module "Newsletter", vous pourrez générer un fichier .csv contenant tous les clients enregistrés et leurs e-mails. Vous pourrez ensuite importer ce fichier dans n'importe quel système d-e-mailing. 
+Veuillez noter que l'envoi de la newsletter est de votre ressort. Grâce au module "Newsletter", vous pourrez générer un fichier .csv contenant tous les clients enregistrés et leurs e-mails. Vous pourrez ensuite importer ce fichier dans n'importe quel système d'e-mailing. 
 {% endhint %}
 
 ➡La partie inférieure du pied de page contient 4 blocs donnant accès à des pages très utiles pour vos clients :
@@ -146,17 +146,11 @@ Filtrer leur recherche permet aux clients de trouver le produit qu'ils recherche
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
-Les catégories peuvent comporter une image d'en-tête avec un message d'introduction**.** Vous pouvez configurer cet en-tête depuis votre back-office sur la page Catalogue &gt; Catégories.
-
-À l'aide du sélecteur situé sous l'en-tête de catégorie, à droite, la liste de produits d'une catégorie peut être affichée selon le prix \(croissant ou décroissant\), le nom \(de A à Z ou de Z à A\) ou par pertinence. 
+Les catégories peuvent comporter une image d'en-tête avec une description. Vous pouvez configurer cet en-tête depuis votre back-office sur la page Catalogue &gt; Catégories.
 
 ### L**es l**istes de produits 
 
 Les listes de produits sont identiques sur PrestaShop, quelle que soit la nature de la page concernée \(nouveaux produits, meilleures ventes, pages catégories, etc.\). Les produits sont organisés sous forme de grille, avec :
-
-**Le tri des produits**
-
-Les produits d'une catégorie peuvent être triés selon le prix \(croissant ou décroissant\), le nom \(de A à Z ou de Z à A\) ou par pertinence. 
 
 * Une image miniature
 * Les bandeaux de promotion ou d'état, en haut à gauche de l'image
@@ -165,13 +159,15 @@ Les produits d'une catégorie peuvent être triés selon le prix \(croissant ou 
 
 ![](../.gitbook/assets/image%20%2837%29.png)
 
-
-
 Cette présentation sous forme de liste permet au client de voir en un coup d'œil les principales informations sur les produits, accélérant alors le processus de décision. 
 
-Au survol de la souris, le client peut cliquer sur la loupe pour accéder à un aperçu rapide du produit. Il aura alors accès, en plus des informations précédemment énoncées, à la description du produit, et pourra ajouter le produit à son panier après avoir choisi parmi les attributs \(s'il y en a\) et saisi la quantité souhaitée. 
+Au survol de la souris, le client peut cliquer sur la loupe pour accéder à un aperçu rapide du produit. Il aura alors accès, en plus des informations précédemment énoncées, à la description du produit, et pourra ajouter le produit à son panier après avoir sélectionné les attributs \(s'il y en a\) et saisi la quantité souhaitée. 
 
 ![](../.gitbook/assets/image%20%2827%29%20%281%29.png)
+
+**Le tri des produits**
+
+Les produits peuvent être triés selon le prix \(croissant ou décroissant\), le nom \(de A à Z ou de Z à A\) ou par pertinence. 
 
 ### La page produit
 
@@ -221,7 +217,7 @@ PrestaShop fait le nécessaire pour que le processus d'achat soit **rapide et ef
 ## Créer un compte client
 
 {% hint style="success" %}
-Afin de limiter au maximum les pertes dans le tunnel de conversion, PrestaShop permet aux visiteurs d'une boutique de se créer une compte **simplement** et **rapidement** ! 
+PrestaShop permet aux visiteurs de votre boutique de se créer une compte **simplement** et **rapidement** ! 
 {% endhint %}
 
 En cliquant sur "Connexion" dans l'en-tête, le visiteur est redirigé vers une page d'authentification. S'il n'a pas de compte, il peut s'en créer un depuis cette même page. Le formulaire de création de compte se compose de deux parties :
