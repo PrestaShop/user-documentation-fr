@@ -6,6 +6,10 @@ description: >-
 
 # Gérer la page commande
 
+![](../../../../.gitbook/assets/recent-updates-1-.png)
+
+[➡Contribuer](https://prestashop.gitbook.io/howtocontribute/)
+
 ## Comprendre l'organisation de la page commande
 
 Divisée en **6 sections**, la page vous donne accès à tous les détails d'une commande.

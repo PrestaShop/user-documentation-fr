@@ -1,5 +1,9 @@
 # Parcourir le front-office
 
+![](../.gitbook/assets/recent-updates-1-.png)
+
+➡[Contribuer](https://prestashop.gitbook.io/howtocontribute/)
+
 Le front-office est la partie visible de votre site. Cela correspond à ce que les clients voient en parcourant votre boutique et tout le long du processus d’achat. 
 
 En tant que marchand, il est indispensable que vous connaissiez parfaitement le front-office de votre boutique car c'est ce qui va vous permettre de vous mettre à la place de vos visiteurs : de vivre ce à quoi vos clients font face quand ils naviguent sur votre site, comment se déroule leur expérience d’achat, quels peuvent être leurs points de blocage, etc. 

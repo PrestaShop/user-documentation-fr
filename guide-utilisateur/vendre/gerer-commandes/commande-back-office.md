@@ -6,6 +6,10 @@ description: >-
 
 # Créer une commande depuis le back-office
 
+![](../../../.gitbook/assets/recent-updates-1-.png)
+
+➡[Contribuer](https://prestashop.gitbook.io/howtocontribute/)
+
 Créer une commande directement depuis le back office de votre boutique peut être très utile ! Imaginez que vous êtes au téléphone avec un client qui veut acheter un produit mais qui, pour une raison quelconque, n'y arrive pas. Vous pouvez lui proposer de créer la commande pour lui. 
 
 ## Associer la commande à un client

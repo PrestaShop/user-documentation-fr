@@ -6,6 +6,10 @@ description: >-
 
 # Gérer la liste des commandes
 
+![](../../../.gitbook/assets/recent-updates-1-.png)
+
+[➡Contribuer](https://prestashop.gitbook.io/howtocontribute/)
+
 ## **Trouver une commande** 🔎 
 
 Les commandes sont organisées par date, de la plus récente à la plus ancienne.
