@@ -5,22 +5,22 @@
 Voici une synthèse de ce dont vous avez besoin pour commencer l’installation de PrestaShop 1.7. Vous trouverez, si nécessaire, des instructions plus détaillées dans les sections suivantes.
 
 * Configuration requise :
-  * PHP 5.4 ou version ultérieure.
+  * PHP 7.1 ou version ultérieure.
     * Réglages utiles \(dans le fichier `php.ini`\) : 
       * `allow_url_fopen` réglé sur “On” \(Activé\), 
       * `register_globals` réglé sur “Off” \(Désactivé\)`,`
       * `upload_max_filesize` réglé sur “16M” \(ou plus\).
-    * Extensions PHP indispensables \(dans le fichier `php.ini`\) : PDO\_MySQL, cURL, SimpleXML, mcrypt, GD, OpenSSL, DOM, SOAP, Zip, fileinfo.
+    * Extensions PHP indispensables \(dans le fichier `php.ini`\) : CURL, DOM, Fileinfo, GD, Intl, Mbstring, Zip, JSON, Iconv.
     * Outils serveur utiles : cron/crontab, Memcached.
-  * MySQL 5.0 ou version ultérieure.
+  * MySQL 5.6 ou version ultérieure.
   * Pour un meilleur fonctionnement : 
     * Hébergeur Unix/Linux.
-    * Serveur web Apache 2.0 \(ou version ultérieure\) ou serveur web Nginx.
+    * Serveur web Apache 2.2 \(ou version ultérieure\) ou serveur web Nginx.
       * Paramètres des modules Apache : 
         * `mod_rewrite` activé, 
         * `mod_security` désactivé,
         * `mod_auth_basic` désactivé.
-    * Au moins 128 Mo de RAM dédiée à PHP. Plus la mémoire sera élevée, meilleures seront les performances.
+    * Au moins 256 Mo de RAM dédiée à PHP. Plus la mémoire sera élevée, meilleures seront les performances.
 * Codes d’accès à votre serveur FTP et à votre base de données MySQL.
   * Ces codes doivent vous être fournis par votre hébergeur si vous n’effectuez pas d’installation locale.
 * Un éditeur de texte.
@@ -67,7 +67,7 @@ Maintenant que vous avez un nom de domaine, il faut qu’il soit relié à Prest
 
 Avant de lancer une boutique en ligne, vous devrez d’abord choisir un fournisseur d’hébergement. Presque tous les hébergeurs peuvent prendre en charge la solution PrestaShop de manière efficace. Toutefois, seuls quelques fournisseurs d’hébergement proposent des serveurs optimisés pour PrestaShop \(avec une fonction d’installation en 1 clic et une version à jour\). Voici notre[ liste de partenaires d’hébergement](https://www.prestashop.com/en/ecommerce-hosting).
 
-Lorsque vous choisissez votre hébergeur, rappelez-vous une condition essentielle : l’hébergeur doit prendre en charge PHP 5.4 \(ou une version plus récente\), le langage de programmation dans lequel PrestaShop est écrit, et MySQL 5 \(ou une version plus récente\), le système de bases de données où PrestaShop stocke toutes ses données. Il y a d’autres exigences. Reportez-vous à la section “Exigences techniques” ci-après.
+Lorsque vous choisissez votre hébergeur, rappelez-vous une condition essentielle : l’hébergeur doit prendre en charge PHP 7.1 \(ou une version plus récente\), le langage de programmation dans lequel PrestaShop est écrit, et MySQL 5 \(ou une version plus récente\), le système de bases de données où PrestaShop stocke toutes ses données. Il y a d’autres exigences. Reportez-vous à la section “Exigences techniques” ci-après.
 
 ### Pré-requis techniques
 
@@ -81,10 +81,10 @@ MySQL est un système de gestion de bases de données open source. Également cr
 Quel que soit le service d’hébergement que vous choisissez, les composants suivants doivent être installés sur votre serveur web :
 
 * **Système** : Unix, Linux ou Windows. Unix est fortement recommandé.
-* **Serveur web** : Serveur web Apache 2.0 ou version ultérieure.
-* **PHP 5.4 ou version ultérieure**. Il se peut que vous deviez activer PHP 5 \(demandez à votre fournisseur d’hébergement\).
-* **MySQL 5.0 ou version ultérieure**.
-* Au moins 128 Mo de RAM sur votre serveur.
+* **Serveur web** : Serveur web Apache 2.2 ou version ultérieure.
+* **PHP 7.1 ou version ultérieure**. 
+* **MySQL 5.6 ou version ultérieure**.
+* Au moins 256 Mo de RAM sur votre serveur.
 
 PrestaShop peut également fonctionner avec un serveur web IIS 6.0 Microsoft ou une version ultérieure, et un serveur Nginx 1.0 ou une version ultérieure.
 
