@@ -1,4 +1,4 @@
-# About the user documentation
+# Documentation française - PrestaShop 1.7
 
 ## About the user documentation
 
