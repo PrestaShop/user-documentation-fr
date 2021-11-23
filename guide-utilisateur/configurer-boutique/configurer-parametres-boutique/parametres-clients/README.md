@@ -6,5 +6,3 @@ Cette section des paramètres réunit tout ce qui touche à la gestion de vos cl
 * [Groupes de clients](groupes-clients.md)
 * [Titres de civilité](titres-de-civilite.md)
 
-
-

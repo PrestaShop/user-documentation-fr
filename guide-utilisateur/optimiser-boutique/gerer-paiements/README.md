@@ -8,4 +8,3 @@ Ce chapitre contient les sections suivantes :
 
 * [Mode de paiements](mode-paiements.md)
 * [Préférences de paiement](preferences-paiement.md)
-

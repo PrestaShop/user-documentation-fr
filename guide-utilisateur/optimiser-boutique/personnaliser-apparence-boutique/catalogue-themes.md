@@ -5,4 +5,3 @@ Si vous êtes à la recherche d'un nouveau thème, Addons a ce qu'il vous faut !
 Pour avoir plus d'informations sur un thème en particulier, cliquez sur "Découvrir" : une nouvelle page s'ouvre alors avec tous les détails concernant ce thème.
 
 Vous pouvez aussi utiliser la barre de recherche en bas de page pour chercher un thème qui correspond à l'esprit de votre boutique.
-

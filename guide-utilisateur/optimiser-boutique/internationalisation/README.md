@@ -8,4 +8,3 @@ Ce chapitre contient les sections suivantes :
 * [Zones géographiques](zones-geographiques/)
 * [Gérer les taxes](gerer-taxes/)
 * [Traductions](traductions.md)
-

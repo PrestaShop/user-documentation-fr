@@ -12,4 +12,3 @@ Ce chapitre contient les sections suivantes :
 La partie "Modules" du back office est en train d'être remaniée. Des changements sont à prévoir à partir de la version 1.7.5 et devraient évoluer au fur et à mesure des prochaines versions. Aussi nous avons jugé plus judicieux d'attendre la réfection complète de cette partie avant de changer la documentation existante. Rassurez-vous, elle reste intuitive, vous n'aurez sans doute même pas besoin de nous !
 
 ![](../../../.gitbook/assets/51839886.png)
-

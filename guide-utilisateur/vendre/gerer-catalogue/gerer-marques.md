@@ -18,7 +18,7 @@ En saisissant des informations sur les marques, les visiteurs de votre site peuv
 
 ![](../../../.gitbook/assets/64225393.png)
 
-## Créer une marque <a id="Gererlesmarques-Cr&#xE9;erunemarque"></a>
+## Créer une marque <a href="gererlesmarques-creerunemarque" id="gererlesmarques-creerunemarque"></a>
 
 Cliquez sur le bouton "Ajouter une marque", et un formulaire de création apparaît.
 
@@ -41,11 +41,10 @@ Enregistrez vos modifications afin d'être ramené à la liste des marques. là,
 * Désactiver la marque, en cliquant sur l'icône de coche verte. Une fois désactivée, une croix rouge apparaît à sa place : cliquez dessus pour réactiver la marque.
 * Afficher / Modifier / Supprimer la marque en cliquant sur les boutons correspondants, à la droite de la ligne.
 
-## Créer une adresse de marque <a id="Gererlesmarques-Cr&#xE9;eruneadressedemarque"></a>
+## Créer une adresse de marque <a href="gererlesmarques-creeruneadressedemarque" id="gererlesmarques-creeruneadressedemarque"></a>
 
 En bas de la page "Marques" se trouve la section "Adresses". Chaque marque peut voir sa propre adresse enregistrée dans PrestaShop. Cela vous sert principalement de rappel : ainsi, vous aurez toujours l'adresse de la marque à portée de main dans PrestaShop. Cliquez sur le bouton "Ajouter une adresse de marque" pour ouvrir le formulaire de création.
 
 ![](../../../.gitbook/assets/64225395.png)
 
 Assurez-vous bien de choisir la bonne marque et de remplir autant de champs que nécessaire.
-

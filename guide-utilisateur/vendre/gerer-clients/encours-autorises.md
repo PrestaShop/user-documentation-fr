@@ -1,12 +1,12 @@
 # Encours autorisés
 
-Cette page n'est disponible que si vous activez les fonctionnalités de B2B. Pour ce faire, rendez-vous sur la page des préférences clients \("Paramètres de la boutique &gt; Clients", et choisissez "Oui" pour l'option "Activer le mode B2B".
+Cette page n'est disponible que si vous activez les fonctionnalités de B2B. Pour ce faire, rendez-vous sur la page des préférences clients ("Paramètres de la boutique > Clients", et choisissez "Oui" pour l'option "Activer le mode B2B".
 
 Cette page affiche la liste des encours de certains clients, c'est à dire le crédit monétaire que vous leur accordez pour acheter vos produits, jusqu'à ce qu'ils aient à vous payer réellement.
 
-## Activer la fonctionnalité Encours <a id="Encoursautorises-Activerlafonctionnalit&#xE9;Encours"></a>
+## Activer la fonctionnalité Encours <a href="encoursautorises-activerlafonctionnaliteencours" id="encoursautorises-activerlafonctionnaliteencours"></a>
 
-Lorsque le mode B2B est activé \(page Paramètres de la boutique &gt; Clients\), trois champs apparaissent dans le formulaire de création de client :
+Lorsque le mode B2B est activé (page Paramètres de la boutique > Clients), trois champs apparaissent dans le formulaire de création de client :
 
 ![](../../../.gitbook/assets/23789586.png)
 
@@ -16,9 +16,8 @@ Lorsque le mode B2B est activé \(page Paramètres de la boutique &gt; Clients\)
 
 Vous devriez remplir tous ces champs pour les clients professionnels.
 
-## Écran de résumé des encours <a id="Encoursautorises-&#xC9;crander&#xE9;sum&#xE9;desencours"></a>
+## Écran de résumé des encours <a href="encoursautorises-ecranderesumedesencours" id="encoursautorises-ecranderesumedesencours"></a>
 
-Une fois qu'un client avec une autorisation d'encours achète sur votre boutique, son achat apparaît sur la page Clients &gt; Encours autorisés. Elle vous permet donc d'un regard de savoir où en est votre balance d'encours.
+Une fois qu'un client avec une autorisation d'encours achète sur votre boutique, son achat apparaît sur la page Clients > Encours autorisés. Elle vous permet donc d'un regard de savoir où en est votre balance d'encours.
 
 ![](../../../.gitbook/assets/23789583.png)
-

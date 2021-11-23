@@ -1,141 +1,102 @@
 # Traductions
 
-PrestaShop vous fournit un outil complet de traduction pour votre boutique. Il vous permet d'ajouter et de modifier les traductions de vos pages. Ainsi, vous êtes véritablement maître de votre boutique, et pouvez gérer la traduction des chaînes sans avoir à attendre que les traducteurs officiels publient leurs corrections. En effet, bien que PrestaShop 1.7 soit disponible dans de nombreuses langues, avec à la fois l'interface et la boutique traduites dans plus de 25 langues, certaines langues ne sont pas encore entièrement traduites.
+Les traductions officielles de PrestaShop proviennent de Crowdin, une plateforme de traduction sur laquelle une communauté de traducteurs bénévoles travaille sur pas moins de 80 projets de traduction.
 
-Même si vous ne souhaitez pas utiliser les corrections des traducteurs, vous pourriez vouloir changer la formulation qu'ils ont utilisé \(moins formelle, moins verbeuse, etc.\), et personnaliser les différents textes disponibles. Ce faisant, vous adaptez votre site web à votre public : par exemple, une boutique de vêtements hip-hop n'utilisera pas les mêmes expressions qu'une boutique de vente de montres de luxe.
+{% hint style="info" %}
+Si vous souhaitez contribuer à la traduction de PrestaShop en votre langue, n'hésitez pas à [rejoindre la communauté sur Crowdin](https://crowdin.com/project/prestashop-official).
+{% endhint %}
 
-Le processus d'adaptation d'un logiciel à d'autres langues est appelé _internationalisation et localisation_, ou i18n et L10n.
+Sur la page** International > Traductions**, vous pouvez adapter ces traductions officielles à vos besoins. Par exemple, vous pouvez changer la formulation choisie par les traducteurs pour quelque chose de moins formel et personnaliser le texte pour mieux convenir à votre public et rendre votre boutique encore plus unique.
 
-La première étape est l'internationalisation, durant laquelle les développeurs choisissent le mécanisme à utiliser pour traduire leur logiciel. Toutes les chaînes du logiciel sont ensuite converties pour être exploitées par ce mécanisme. La seconde étape est la localisation, où les utilisateurs bilingues ou polyglottes traduisent les chaînes originales vers leur propre langue. La localisation peut également inclure la mise en place de données locales pour améliorer encore plus le logiciel pour les utilisateurs locaux. Vous pouvez en apprendre plus sur [Wikipédia](http://fr.wikipedia.org/wiki/Internationalisation_%28informatique%29).
+## Sélectionner le type de traduction à modifier
 
-L'équipe de PrestaShop a choisi de concevoir son propre outil intégré au logiciel, afin que quiconque disposant d'une installation de PrestaShop puisse personnaliser sa boutique en fonction de ses besoins. La traduction communautaire se faire à l'aide de Crowdin, situé à l'adresse [https://crowdin.net/project/prestashop-official](https://crowdin.net/project/prestashop-official). Rejoignez Crowdin et aidez-nous de sorte à ce que PrestaShop soit disponible dans votre langue!
+Les traductions ont été organisées en 5 catégories, selon l'endroit où les chaînes apparaissent sur le logiciel PrestaShop.
 
-Video - 5 questions à se poser avant de traduire sa boutique en ligne
+![](<../../../.gitbook/assets/image (44).png>)
 
- [![](../../../.gitbook/assets/52298021.png)](https://www.youtube.com/watch?v=Iw4lAuuA_pU)
+{% hint style="info" %}
+Une chaîne est une série de caractères. Elle peut être composée d'un seul caractère ou contenir plusieurs mots. Lorsqu'une nouvelle version mineure ou majeure de PrestaShop sort, toutes les nouvelles chaînes associées à cette version sont ajoutées sur [Crowdin ](https://crowdin.com/project/prestashop-official)pour être traduites par la communauté.
+{% endhint %}
 
-## Modifier une traduction <a id="Traductions-Modifierunetraduction"></a>
+* Traductions du back-office : les chaînes visibles par vous et votre équipe depuis le back-office de la boutique.
+* Traductions du front-office : les chaînes visibles par vos clients lorsqu'ils naviguent dans votre boutique.
+* Traductions des modules installés : les chaînes présentes dans un module. Seuls les modules installés sont répertoriés.
+* Traductions des e-mails : les chaînes utilisées dans les modèles d'e-mail par défaut.
+* Autres traductions : les chaînes qui n'ont pas encore été identifiées comme provenant du front-office ou du back-office.&#x20;
 
-L'outil le plus important de la page "Traductions" se trouve dans la section "Modifier les traductions". C'est ici que vous choisissez la traduction à modifier ou ajouter, afin de potentiellement en réécrire toutes les phrases si besoin était.
+Certaines catégories disposent d'une deuxième liste déroulante pour affiner votre recherche. Une fois votre sélection effectuée, choisissez la langue dans laquelle vous souhaitez modifier les traductions et cliquez sur "Modifier". Une nouvelle page s'ouvre, où vous pouvez rechercher les traductions à modifier.
 
-![](../../../.gitbook/assets/64225468.png)
+## **Rechercher une chaîne en particulier**
 
-Sélectionnez la partie de la traduction actuelle que vous voulez modifier :
+![](<../../../.gitbook/assets/image (47).png>)
 
-* **Traductions du back office**. Le texte que vous voyez dans les pages d'administration de votre boutique
-* **Traductions du thème**. Le texte que vos clients voient en parcourant votre boutique.
-* **Traductions des modules installés**. Les chaînes utilisées par les modules installés. Notez que les modules présents mais pas installés n'apparaîtront pas dans l'outil.
-* **Traductions des modèles d'e-mails**. Les chaînes utilisées par les e-mails envoyés par PrestaShop.
-* **Autres traductions**. Cette catégorie est provisoire. Elle contient toutes les chaînes qui n'ont pas encore été identifiées comme provenant de l'une des catégories ci-dessus.
+En haut à gauche de la page, il y a une barre de recherche qui vous permet de rechercher un mot ou une chaîne spécifique.&#x20;
 
-Si vous êtes à la recherche d'une chaîne précise, que ce soit dans la section "Back office" ou "Theme", mais que vous ne la trouvez pas, il se pourrait qu'elle soit dans la catégorie "Autres traductions".
+Vous pouvez également trouver rapidement les chaînes non traduites. En haut à droite sont affichés le nombre total de chaînes de caractères dans la section et le nombre de traductions manquantes. Les catégories qui contiennent des traductions manquantes sont affichées en rouge dans le menu à gauche de la page.
 
-Certaines catégories ont une seconde liste déroulante, qui donne les thèmes disponibles. Les thèmes PrestaShop ont leurs propres chaînes, mais peuvent aussi avoir leurs propres modules et modèle d'e-mail. Cette liste déroulante vous permet donc de choisir le thème avec lequel vous souhaitez travailler. Une fois votre sélection faite, choisissez la langue pour laquelle vous souhaitez modifier la traduction. Une nouvelle page s'ouvre alors, organisée en plusieurs sections. 
+## Parcourir les traductions
 
-## Rechercher une expression <a id="Traductions-Rechercheruneexpression"></a>
+![](<../../../.gitbook/assets/image (53).png>)
 
-En haut de la page, une barre de recherche vous permet de rechercher un mot, une chaîne ou une phrase que vous souhaiteriez modifier ou traduire. Sur la droite, vous verrez le nombre total d'expressions, ainsi que le nombre de celles qui ne sont pas encore traduites dans la catégorie \(back office, thème, etc.\).
+Le menu situé à gauche de la page vous permet de parcourir toutes les chaînes d'une catégorie. Toutes les chaînes sont organisées en ce que l'on appelle des "domaines de traduction". Les domaines de traduction visent à donner plus de contexte aux traducteurs, en indiquant où la chaîne apparaît sur le logiciel PrestaShop. Pour en savoir plus sur les domaines de traduction, consultez la page dédiée sur le guide [Content style guide](traductions.md#selectionner-le-type-de-traduction-a-modifier) du projet PrestaShop.
 
-![](../../../.gitbook/assets/64225469.png)
+## Modifier les traductions
 
-Renseignez l'expression recherchée et cliquez sur "Rechercher" pour lancer la recherche. Les expressions qui correspondent à votre recherche s'afficheront en dessous. Vous pouvez les modifier, ou les traduire si elles sont vides, puis cliquer sur "Enregistrer" pour sauvegarder vos modifications. En cliquant sur "Réinitialiser", vous remplacerez ce que vous avez pu rentrer par la traduction officielle de PrestaShop : cela restaurera la traduction initiale s'il y en avait une, ou supprimera la vôtre si vous en aviez ajouté une.
+Pour modifier une traduction existante ou compléter une traduction manquante, éditez ou ajoutez du texte dans le champ situé juste en dessous de la chaîne et cliquez sur l'un des boutons "Enregistrer" en haut ou en bas de la page.&#x20;
 
-Référez-vous à l'arborescence qui s'affiche à gauche pour retrouver les résultats correspondant à votre recherche :
+Certaines chaînes de caractères utilisent une syntaxe spéciale, avec des variables telles que `%s`, `%d`, `%product%`, etc.&#x20;
 
-![](../../../.gitbook/assets/64225470.png)
+Si une chaîne contient une variable, celle-ci sera remplacée par une valeur dynamique. Par exemple, dans la chaîne "Le produit (`%product%`) n'est plus disponible", `%product%` sera remplacé par le nom du produit. Par exemple, "Le produit (T-shirt imprimé Colibri) n'est plus disponible". Vous devez donc toujours conserver les variables dans votre traduction finale.&#x20;
 
-## Parcourir les traductions <a id="Traductions-Parcourirlestraductions"></a>
+Si une chaîne contient une variable, vous devez vous assurer que le contenu de cette variable sera placé au bon endroit dans la phrase, et éviter la traduction littérale. Les variables numérotés (`%1$s, %2$d`, etc.) permettent aux traducteurs de réorganiser l'ordre des variables dans la chaîne. Par exemple, "This is a `%1$s` `%2$d`", avec `%1$s` pour "red" et `%2$d` pour "pen", pourrait être traduit par "C'est un `%2$s` `%1$s` = "C'est un stylo rouge" en français.
 
-La colonne de gauche est là pour vous aider à naviguer parmi les différentes expressions disponibles dans la catégorie que vous voulez modifier ou traduire. Cette navigation se base sur le concept de domaines de traduction : chaque chaîne ou expression dans PrestaShop se voit assigner un domaine de traduction. Ce domaine permet de donner un contexte pour la traduction, et permet de savoir où cette chaîne est affichée dans PrestaShop, et à quoi elle correspond \(texte d'aide, verbe d'action, etc.\).
+### Traduire le contenu des modules
 
-Pour le back office et le thème, vous verrez deux domaines principaux, le second étant les modules. En effet, les modules ont du contenu qui s'affiche à la fois dans l'interface, et dans la boutique, aussi ces expressions sont disponibles quand vous cherchez à traduire votre back-office ou votre thème. À côté de chaque domaine, le nombre d'expressions manquantes pour ce domaine est affiché. Cela vous aide à savoir où aller si vous souhaitez compléter la traduction de PrestaShop. Pour voir les expressions contenus dans un domaine, cliquez sur le nom du domaine : les expressions s'afficheront sur la droite.
+Pour traduire un module spécifique, sélectionnez l'option "Traductions des modules installés" et le module souhaité. Une nouvelle page s'ouvre, avec toutes les chaînes de caractères du module. Selon le module sélectionné, l'interface peut être différente. Certains modules utilisent un système de traduction spécifique à la version 1.7, tandis que d'autres utilisent encore l'ancien système de la version 1.6. Au final, cela ne change rien pour vous, puisque vous pourrez traduire vos modules de la même manière.
 
-Domaines de traductions
+### Traduire les templates d'e-mails
 
-Si de prime abord les domaines peuvent vous sembler confus, vous comprendrez rapidement comme ils fonctionnent et vous saurez rapidement y trouver votre chemin.
+Il existe deux façons de modifier la traduction d'un courriel :&#x20;
 
-Chaque catégorie \(back office ou thème\) est elle-même divisée en sous-catégories fonctionnelles, qui correspondent à des sections et pages du back office \(ou du thème\).
+* **Modifier la version HTML** : avec cet aperçu modifiable, ce que vous voyez est ce que vous obtenez. Cliquez sur le bouton "Modifier la version HTML". Vous pourrez modifier le texte et le design de votre message. Lorsque vous avez terminé, enregistrez.&#x20;
+* **Modifier la version texte** : vous pouvez modifier la version texte de votre message directement dans le champ de texte.
 
-Par exemple, pour le back office, les domaines suivants correspondent aux pages du même nom \(an anglais\) dans l'interface :
+{% hint style="info" %}
+Veillez à conserver les variables (par exemple `{lastname}` ou `{shop_name}`) dans vos traductions. Elles seront remplacées par la bonne valeur lors de l'envoi de l'e-mail.
+{% endhint %}
 
-* _AdminCatalog, AdminModules, AdminDesign, AdminShipping, AdminPayment, AdminInternational, AdminShopParam_ et _AdminAdvParameters._
-* _AdminOrdersCustomers_ rassemble les expressions des menus “Commandes”, “Clients” and “Service client”.
+![](<../../../.gitbook/assets/image (52).png>)
 
-Chacun de ces domaines est encore divisé en trois sous-domaines, _Feature, Notification_ et _Help_, qui ont les significations suivantes :
+## Réinitialiser les traductions
 
-* _Feature_ : tout ce qui est propre à une fonctionnalité de l'interface. Si vous êtes dans la catégorie "Shipping", le domaine Admin.Shipping.Feature regroupera toutes les expressions dans le menu "Livraison", et qui sont propre à ces pages en particulier.
-* _Notification_ : tous les messages d'information, de succès, les notifications ou les erreurs spécifiques au domaine concerné.
-* _Help_ : tous les messages d'aide et d'accompagnement pour ce domaine précis.
+![](<../../../.gitbook/assets/image (56).png>)
 
-Et a contrario, certains domaines sont génériques et leurs chaînes sont transverses à toutes les pages du back office :
+Pour remplacer une traduction personnalisée par la traduction officielle de PrestaShop, cliquez sur le bouton "Réinitialiser" à côté de la chaîne. Si le champ est vide, cela signifie qu'aucune traduction officielle n'est disponible pour le moment. N'hésitez pas à [contribuer au projet de traduction](https://crowdin.com/project/prestashop-official) si vous souhaitez mettre votre traduction à la disposition d'autres marchands.
 
-* _AdminNavigation_ pour toutes les chaînes du menu, footer, et header du back-office.
-* _AdminActions_ rassemble tous les boutons ou liens sous forme de verbes d'actions que vous trouverez dans l'interface et qui sont génériques \("Annuler", "Enregistrer", "Supprimer", etc.\)
-  * _AdminNotifications_ contient tous les avertissements, messages d'erreurs ou de succès qui sont standards et applicables à toutes les pages du back-office \(par exemple "Mise à jour réussie"\).
-* _AdminGlobal_ englobe toutes les chaînes qui ne sont pas comprises dans les autres domaines, qui apparaissent dans plusieurs pages différentes du back-office et dans de nombreuses occurrences \("État", "Paramètres", "Activé", "Ventes", etc.\). 
+## Ajouter ou mettre à jour une langue&#x20;
 
-La même logique va s'appliquer pour les domaines du thème :
+![](<../../../.gitbook/assets/image (49).png>)
 
-* _ShopTheme_ et ses sous-niveaux \(Catalog, CustomerAccount, Checkout, Actions\) sont les chaînes du thème par défaut et de ses différentes sections fonctionnelles
-* _ShopForms_ regroupe les libellés des différentes formulaires présents dans le thème
-* _ShopNotification_ concerne tous les messages et notifications s'affichant sur votre boutique, que ce soit des erreurs ou succès.
+Pour ajouter ou mettre à jour une langue, sélectionnez la langue souhaitée dans la liste et cliquez sur le bouton "Ajouter ou mettre à jour la langue". Si vous avez ajouté une nouvelle langue, vous pouvez ensuite la gérer dans **Localisation > Langues**.
 
-## Modifier une traduction  <a id="Traductions-Modifierunetraduction.1"></a>
+## Exporter des traductions
 
-Quand vous ouvrez un domaine pour en voir les chaînes, vous pouvez modifier les traductions existantes, ou compléter celles qui seraient manquantes. Cliquer "Enregistrer" sauvegardera vos modifications. Cliquer "Réinitialiser" remplacera ce que vous avez pu rentrer par la traduction officielle de PrestaShop : cela restaurera la traduction initiale s'il y en avait une, ou supprimera la vôtre si vous en aviez ajouté une.
+![](<../../../.gitbook/assets/image (50).png>)
 
-Certaines chaînes ont une syntaxe particulière, qui contient des variables comme `%s`, `%d`, `%1$s`, `%2$d`, etc.
+Vous pouvez créer votre propre pack de langues à l'aide de cette fonctonnalité, soit pour faire une sauvegarde de vos traductions, soit pour les partager. Tout d'abord, sélectionnez la langue dans laquelle vous souhaitez exporter des traductions. Ensuite, sélectionnez le type de traductions que vous souhaitez :&#x20;
 
-Quand vous trouvez une chaîne avec une telle variable, cela signifie que PrestaShop la remplacera avec une valeur dynamique avant d'afficher la chaîne traduite. Par exemple, dans la chaîne "Your order on %s is complete.", `%s` sera remplacé par le nom de la boutique. C'est pourquoi vous devez conserver cette variable dans votre traduction finale. Par exemple, en français il faudra la traduire en "Votre commande sur %s a bien été enregistrée."
+* Traductions PrestaShop
+* Traductions thème
+* Traductions module installé
 
-Techniquement, les variables permettent d'afficher la chaîne dans son ensemble, d'éviter de la disperser en plein de champs différents.
+Chaque catégorie dispose d'une deuxième liste déroulante ou de cases à cocher pour affiner votre sélection. Une fois que vous avez terminé, cliquez sur le bouton "Exporter".
 
-Dans le cas d'une chaîne avec variable, vous devriez vous assurer que le contenu de cette variable se trouvera dans le bon flot de la phrase, et éviter les traductions littérales.
+## Copier les traductions d'une langue vers une autre&#x20;
 
-Les variables numérotées \(`%1$s`, `%2$d`, etc.\) permettent aux traducteurs de réordonner les variables au sein de la chaîne tout en maintenant les informations de chacune. Ainsi, le traducteur français pourra au choix traduire "Order \#%1$d from %2$s" en "Commande n°%1$s du %2$s" ou "Le %2$s, commande n°%1$s".
+![](<../../../.gitbook/assets/image (41).png>)
 
-![](../../../.gitbook/assets/64225471.png)
+Vous pouvez copier le contenu d'une langue vers une autre. C'est particulièrement utile lorsque vous souhaitez remplacer la langue d'un thème par la même langue en provenance d'un autre thème.&#x20;
 
-### Traduction des modules <a id="Traductions-Traductiondesmodules"></a>
+Sélectionnez la langue et le thème source, puis la langue et le thème de destination, et cliquez sur le bouton "Copier". Dans la plupart des cas, la langue doit rester la même dans les deux listes déroulantes.&#x20;
 
-Quand vous souhaitez traduire ou modifier le contenu d'un module précis, choisissez "Traduction des modules installés", puis sélectionnez le module qui vous intéresse. Une nouvelle page va s'ouvrir avec tout le contenu de ce module.
-
-En fonction de la version pour laquelle ce module a été conçu \(1.7 ou 1.6\), l'interface de traduction peut être différente. En effet, certains modules utilisent le système de traduction propre à la 1.7, tel que décrit dans cette page, alors que d'autres utilisent toujours le système de la version 1.6. Leur page de traduction aura une présentation différente. Au final, les fonctionnalités sont les mêmes, et vous pourrez traduire ou modifier votre module de la même façon.
-
-  
-**Traduction des modèles d'e-mails**
-
-La traduction des e-mails se fait un peu différemment des autres types de contenu.
-
-Les chaînes sont rassemblées en groupes, mais ce ne sont plus de simples champs texte. Chaque e-mail dispose de deux modèles : un au format HTML, avec une mise en page et de la couleur, et un au format texte brut. Tandis que la version texte brut peut être modifiée directement dans le champ textuel, la version HTML ne peut être modifiée qu'en cliquant sur le bouton "Modifier ce modèle d'e-mail" situé en bas de la prévisualisation. Ce clic remplace la prévisualisation par un champ Wysiwyg \(_what you see is what you get_\), avec un éditeur complet \(basé sur [TinyMCE](http://www.tinymce.com/)\). En plus de modifier le texte, vous pouvez retoucher la mise en page comme bon vous semble. Vous pouvez par exemple changer les couleurs afin de s'adapter au style de votre boutique.
-
-Notez que les modèles d'e-mails contiennent des variables, tels que `{lastname}` or `{shop_name}`, que PrestaShop remplace par la valeur réelle lors de l'envoi de l'e-mail. Assurez-vous de les conserver dans la traduction.
-
-![](../../../.gitbook/assets/52298361.png)
-
-## Ajouter / mettre à jour une langue <a id="Traductions-Ajouter/mettre&#xE0;jourunelangue"></a>
-
-Les traductions de PrestaShop sont disponibles en packs, qui combinent toutes les catégories de traduction en un fichier zip. Certains packs de langue sont disponibles gratuitement depuis les serveurs de PrestaShop. PrestaShop s'occupe de télécharger le pack de langue, le décompresser et créer les sous-dossiers nécessaires dans le dossier `/translation` de votre installation.
-
-![](../../../.gitbook/assets/64225472.png)
-
-Vous pouvez également mettre à jour les langues installées, depuis les serveurs de PrestaShop.
-
-## Exporter des traductions <a id="Traductions-Exporterdestraductions"></a>
-
-Vous pouvez créer votre pack de langue en utilisant cet outil, soit dans le but de faire une sauvegarde de vos personnalisations, ou afin de partager vos traductions avec une autre installation de PrestaShop – l'une des vôtres ou d'un autre utilisateur.
-
-![](../../../.gitbook/assets/64225473%20%281%29.png)
-
-Sélectionnez simplement la langue et le thème de la traduction que vous souhaitez exporter, et cliquez sur le bouton "Exporter". Notez que le pack contiendra le thème qui est censé fonctionner avec la traduction.
-
-## Copier <a id="Traductions-Copier"></a>
-
-Vous pouvez copier le contenu d'une langue vers une autre. C'est particulièrement utile quand vous souhaitez remplacer la langue d'un thème par celle d'un autre thème.
-
-![](../../../.gitbook/assets/64225473%20%281%29.png)
-
-Choisissez la langue et le thème sources, puis la langue et le thème de destination, enfin cliquez sur le bouton "Copier". Dans la plupart des cas, la langue devrait être la même dans les deux listes déroulantes.
-
-S'il y a déjà un dossier pour cette langue dans le thème de destination, il sera remplacé par les fichiers de la langue et du thème source. Vous préférerez peut-être créer d'abord une nouvelle langue pour le thème de destination, puis y copier la langue source.
-
+S'il existe déjà un dossier de langue pour cette langue dans le thème de destination, il sera écrasé par les fichiers de langue et de thème que vous copiez. Vous pouvez créer une nouvelle langue pour le thème de destination avant d'y copier la langue source.

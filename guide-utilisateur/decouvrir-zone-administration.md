@@ -10,11 +10,11 @@ Nous avons créé ce chapitre afin de vous aider lors de cette découverte de l'
 
 Prenez le temps d'appréhender le tableau de bord – c'est-à-dire, la première page que vous voyez en vous connectant au back office. Non seulement elle vous donne un résumé de tout ce que vous devez savoir sur votre boutique à un instant T, avec des liens vers les pages les plus utiles, mais elle vous donne aussi quelques conseils à propos de réglages auxquels vous devez faire attention en tant que nouvel utilisateur de PrestaShop.
 
-![](../.gitbook/assets/63406129%20%281%29.png)
+![](<../.gitbook/assets/63406129 (1).png>)
 
 ### La barre supérieure
 
-![](../.gitbook/assets/63406136%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](../.gitbook/assets/63406136.png)
 
 En haut de la page se trouve une barre sombre contenant une poignée de liens et informations :
 
@@ -26,7 +26,7 @@ En haut de la page se trouve une barre sombre contenant une poignée de liens et
   * **Commandes**. Cet encadré présente les nouvelles commandes depuis la dernière fois que vous avez cliqué sur cette icône. C'est là que vous pouvez afficher l'une des commandes en détail.
   * **Clients**. Cet encadré vous présente les nouveaux clients inscrits depuis la dernière fois que vous avez cliqué sur cette icône. C'est là que vous pouvez afficher la page d'info des clients.
   * **Messages**. Cet encadré vous présente les nouveaux messages reçus par le service clientèle depuis la dernière fois que vous avez cliqué sur cette icône. C'est là que vous pouvez afficher l'un des messages.
-* **Menu personnel \(votre photo\)**. Un simple menu rappelant le compte avec lequel vous êtes connecté, qui contient les liens suivants :
+* **Menu personnel (votre photo)**. Un simple menu rappelant le compte avec lequel vous êtes connecté, qui contient les liens suivants :
   * **Lien "Votre profil"**. Ouvre la page de préférence de votre compte utilisateur actuel, d'où vous pouvez régler certaines options, comme la langue du back-office ou votre mot de passe.
   * **Lien "Documentation".** Redirige vers le portail de documentation du site web de PrestaShop.
   * **Lien "Formation".** Redirige vers le portail de formation du site web de PrestaShop.
@@ -58,7 +58,7 @@ Cette section vous accompagne au quotidien, avec des pages essentielles comprena
 Cette deuxième section vous permet de personnaliser votre boutique et d'aller au delà de la configuration de base. Choisissez l'apparence de votre boutique, adaptez les méthodes de paiement à vos marchés cibles, visez l'international ou complétez votre boutique avec de nouvelles fonctionnalités !
 
 * **Modules**. Multipliez la puissance et l'utilité de votre boutique en ajoutant des modules, dont une centaine est déjà disponible dans l'installation par défaut, et de nombreux sont disponibles à l'achat sur la [marketplace Addons](https://addons.prestashop.com/fr/). C'est également dans ce menu que vous placerez les éléments de vos modules sur votre thème.
-* **Apparence**. C'est ici que vous pouvez gérer le thème de votre boutique, ainsi que les éléments qui viennent modifier l'aspect général de votre boutique \(pages CMS, liens et positions des modules\).
+* **Apparence**. C'est ici que vous pouvez gérer le thème de votre boutique, ainsi que les éléments qui viennent modifier l'aspect général de votre boutique (pages CMS, liens et positions des modules).
 * **Livraison**. Tout ce qui concerne l'expédition de vos colis, notamment les coûts de transport.
 * **Paiement**. Choisissez quels modes de paiement vos clients peuvent utiliser.
 * **International**. Vous aide à configurer votre boutique avec des éléments locaux et internationaux, tels que la langue et les traductions, la monnaie, les unités de mesure, les taxes et règles de taxes, et les entités géographiques.
@@ -80,16 +80,16 @@ Plus que de simples raccourcis, ils ouvrent de réelles fonctionnalités que vou
 
 Les boutons disponibles varient grandement en fonction du contexte. De fait, deux pages peuvent ne pas avoir le même jeu de boutons. Cela étant, il y en a certains que vous verrez souvent :
 
-* **Ajouter.** Ouvre la page de création pour le contenu en cours : nouveau produit, nouvelle catégorie, nouvelle commande, etc.
-* **Modules recommandés.**  Ouvre une fenêtre présentant les modules disponibles pour le contexte en cours. Par exemple, la page Transporteurs affiche les modules de la catégorie Addons "Livraison & Logistique". Cela se révèle très utile pour rapidement trouver un module à installer et à configurer qui correspond au mieux à vos besoins.
-* **Aide.** Ouvre la documentation en ligne pour la page en cours \("aide contextuelle"\).
+* **Ajouter. **Ouvre la page de création pour le contenu en cours : nouveau produit, nouvelle catégorie, nouvelle commande, etc.
+* **Modules recommandés. ** Ouvre une fenêtre présentant les modules disponibles pour le contexte en cours. Par exemple, la page Transporteurs affiche les modules de la catégorie Addons "Livraison & Logistique". Cela se révèle très utile pour rapidement trouver un module à installer et à configurer qui correspond au mieux à vos besoins.
+* **Aide.** Ouvre la documentation en ligne pour la page en cours ("aide contextuelle").
 
 La plupart des formulaires du back office est validée à l'aide des boutons en bas de l'écran :
 
 * **Enregistrer.** Enregistre le contenu de la page en cours et renvoie vers la liste d'éléments existants.
 * **Annuler.** Renvoie la liste des éléments existants.
 
-Les tableaux présentant des listes \(de produits, commandes, clients, etc.\) ont leur propres boutons pour gérer les éléments listés :
+Les tableaux présentant des listes (de produits, commandes, clients, etc.) ont leur propres boutons pour gérer les éléments listés :
 
 ![](../.gitbook/assets/39420040.png)
 
@@ -98,7 +98,7 @@ Les tableaux présentant des listes \(de produits, commandes, clients, etc.\) on
 * **Importer**. Vous amène sur la page d'options où vous pouvez importer vos fichiers CSV.
 * **Rafraîchir la liste**. Charge à nouveau la liste pour présenter les dernières modifications.
 * **Voir la requête SQL**. Vous fournit la requête SQL pour reproduire votre recherche ou filtre dans votre propre gestionnaire SQL.
-* **Exporter vers le gestionnaire SQL**. Ouvre le gestionnaire SQL de PrestaShop \(dans le menu "Paramètres avancés"\), grâce auquel vous pouvez faire des requêtes sur la base de données PrestaShop avec des instructions SQL \("`SELECT ... FROM ... WHERE ...`"\). Si votre liste d'éléments est filtrée \(par exemple, par nom\), alors la requête SQL par défaut le prendra en compte \(par exemple, "``WHERE 1  AND b.`name` LIKE '%robe%'``" pour une liste de produits\).
+* **Exporter vers le gestionnaire SQL**. Ouvre le gestionnaire SQL de PrestaShop (dans le menu "Paramètres avancés"), grâce auquel vous pouvez faire des requêtes sur la base de données PrestaShop avec des instructions SQL ("`SELECT ... FROM ... WHERE ...`"). Si votre liste d'éléments est filtrée (par exemple, par nom), alors la requête SQL par défaut le prendra en compte (par exemple, "``WHERE 1  AND b.`name` LIKE '%robe%'``" pour une liste de produits).
 
 ## L'aide contextuelle
 
@@ -129,17 +129,17 @@ En haut du tableau de bord se trouve une simple barre qui vous permet de choisir
 Trois jeux d'options sont disponibles :
 
 * Ce jour, ce mois, cette année.
-* Jour, mois ou année précédent\(e\).
-* Une date précise \(le bouton à droite, qui ouvre un sélecteur de date\).
+* Jour, mois ou année précédent(e).
+* Une date précise (le bouton à droite, qui ouvre un sélecteur de date).
 
 Le choix d'une option met à jour tous les blocs de contenu qui se trouvent sur le tableau de bord, afin que les données qu'ils affichent correspondent à cette période seule. Les blocs qui ne présentent pas de statistiques ne sont pas mis à jour.
 
-Pour choisir une période de temps, vous pouvez soit cliquer sur le premier puis le dernier jour de cette période dans le calendrier \(l'ordre des jours n'est pas important\), ou saisir les dates au format AAAA-MM-JJ dans les champs textuels. Cliquez sur "Enregistrer" pour voir le tableau de bord se mettre à jour en fonction de vos réglages.
+Pour choisir une période de temps, vous pouvez soit cliquer sur le premier puis le dernier jour de cette période dans le calendrier (l'ordre des jours n'est pas important), ou saisir les dates au format AAAA-MM-JJ dans les champs textuels. Cliquez sur "Enregistrer" pour voir le tableau de bord se mettre à jour en fonction de vos réglages.
 
 ![](../.gitbook/assets/52298139.png)
 
-Vous pouvez également comparer deux périodes de temps en cochant la case "Comparer avec". Sélectionnez la seconde période comme vous l'avez fait pour la première \(les deux peuvent se superposer\), puis cliquez sur "Enregistrer".  
-Lorsque vous comparez deux périodes, certains des blocs de contenu seront mis à jour pour indiquer l'évolution des données \(voir par exemple le bloc "Tableau de bord", qui présente les données du module Dashboard Trends\).
+Vous pouvez également comparer deux périodes de temps en cochant la case "Comparer avec". Sélectionnez la seconde période comme vous l'avez fait pour la première (les deux peuvent se superposer), puis cliquez sur "Enregistrer".\
+Lorsque vous comparez deux périodes, certains des blocs de contenu seront mis à jour pour indiquer l'évolution des données (voir par exemple le bloc "Tableau de bord", qui présente les données du module Dashboard Trends).
 
 ### La colonne de gauche
 
@@ -160,11 +160,18 @@ C'est dans la colonne centrale que l'appellation de "tableau de bord" prend tout
 
 Par défaut, il y a trois blocs de contenu dans cette colonne, qui sont gérés par des modules :
 
-* **Tableau de bord** \(module Dashboard Trends\). C'est le principal bloc d'information du tableau de bord. Avec ses graphiques variés, il vous aide vraiment à voir si la direction que prend votre boutique est la bonne ou non. Cliquez sur l'un des types de graphique pour l'afficher. Par ailleurs, lorsque vous comparez deux périodes de temps, il affiche l'évolution de chaque chiffre en pourcentage. Survolez le graphique avec votre souris pour en voir les détails.  ![](../.gitbook/assets/52298142.png) En cliquant sur son icône de configuration \(en haut à droite\), un panneau s'ouvre où vous pouvez configurer les divers frais de votre boutique \(frais bancaire, coût d'expédition, hébergement, etc.\) afin de mieux indiquer vos tendances.
-* **Votre prévision** \(module Dashboard Goals\). Ce bloc vous présente les objectifs que vous vous êtes fixés pour les mois à venir, et la manière dont votre boutique parvient à s'y comparer. Survolez le graphique avec votre souris pour en voir les détails.  ![](../.gitbook/assets/52298141.png) En fonction de vos résultats mensuels, vous devriez mettre à jour vos objectifs à venir. Vous pouvez configurer vos objectifs dans le formulaire de configuration du bloc \(en haut à droit du bloc\), et indiquer vos attentes mois après mois en termes de trafic, de taux de conversion, et de valeur panier moyenne. La colonne "Ventes" sera mise à jour en fonction des objectifs des autres colonnes \(par exemple, pour 1000 visiteurs avec un taux de conversion de 2% et un panier moyen de 10€, vous devriez obtenir 1000\*\(2/100\)\*10 = 200€\) Vous pouvez modifier la devise dans la page "Devises" du menu "Localisation".
-* **Produits et  ventes** \(module Dashboard Products\). Ce bloc vous présente un tableau des dernières commandes et un classement de vos produits : meilleures ventes, produits les plus vus, et meilleures recherches \(au sein de votre boutique, pas depuis les moteurs de recherche\). ![](../.gitbook/assets/52298143.png) Vous pouvez configurer le nombre d'élément à afficher pour chaque tableau en ouvrant le bloc de configuration du bloc.
+* **Tableau de bord** (module Dashboard Trends). C'est le principal bloc d'information du tableau de bord. Avec ses graphiques variés, il vous aide vraiment à voir si la direction que prend votre boutique est la bonne ou non. Cliquez sur l'un des types de graphique pour l'afficher. Par ailleurs, lorsque vous comparez deux périodes de temps, il affiche l'évolution de chaque chiffre en pourcentage. Survolez le graphique avec votre souris pour en voir les détails.\
+  \
+  ![](../.gitbook/assets/52298142.png)\
+  En cliquant sur son icône de configuration (en haut à droite), un panneau s'ouvre où vous pouvez configurer les divers frais de votre boutique (frais bancaire, coût d'expédition, hébergement, etc.) afin de mieux indiquer vos tendances.
+* **Votre prévision** (module Dashboard Goals). Ce bloc vous présente les objectifs que vous vous êtes fixés pour les mois à venir, et la manière dont votre boutique parvient à s'y comparer. Survolez le graphique avec votre souris pour en voir les détails.\
+  \
+  ![](../.gitbook/assets/52298141.png)\
+  En fonction de vos résultats mensuels, vous devriez mettre à jour vos objectifs à venir. Vous pouvez configurer vos objectifs dans le formulaire de configuration du bloc (en haut à droit du bloc), et indiquer vos attentes mois après mois en termes de trafic, de taux de conversion, et de valeur panier moyenne. La colonne "Ventes" sera mise à jour en fonction des objectifs des autres colonnes (par exemple, pour 1000 visiteurs avec un taux de conversion de 2% et un panier moyen de 10€, vous devriez obtenir 1000\*(2/100)\*10 = 200€) Vous pouvez modifier la devise dans la page "Devises" du menu "Localisation".
+* **Produits et  ventes** (module Dashboard Products). Ce bloc vous présente un tableau des dernières commandes et un classement de vos produits : meilleures ventes, produits les plus vus, et meilleures recherches (au sein de votre boutique, pas depuis les moteurs de recherche).\
+  ![](../.gitbook/assets/52298143.png)\
+  Vous pouvez configurer le nombre d'élément à afficher pour chaque tableau en ouvrant le bloc de configuration du bloc.
 
 ### La colonne de droite
 
-Cette dernière colonne est informative : elle vous donne des nouvelles de [PrestaShop.com](http://PrestaShop.com), des notifications quand une nouvelle version de PrestaShop est disponible, et des liens utiles.
-
+Cette dernière colonne est informative : elle vous donne des nouvelles de [PrestaShop.com](http://prestashop.com), des notifications quand une nouvelle version de PrestaShop est disponible, et des liens utiles.

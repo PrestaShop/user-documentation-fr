@@ -4,9 +4,9 @@ Ce tableau présente la liste de tous les derniers changements de stock effectu�
 
 ![](../../../../.gitbook/assets/56688689.png)
 
-## Vue d'ensemble des mouvements <a id="Mouvementsdestock-Vued&apos;ensembledesmouvements"></a>
+## Vue d'ensemble des mouvements <a href="mouvementsdestock-vuedensembledesmouvements" id="mouvementsdestock-vuedensembledesmouvements"></a>
 
-### Structure <a id="Mouvementsdestock-Structure"></a>
+### Structure <a href="mouvementsdestock-structure" id="mouvementsdestock-structure"></a>
 
 L'affichage est le même que celui de la gestion des stocks, sauf qu'ici chaque ligne correspond à un changement dans la quantité physique d'un produit ou d'une combinaison. Le tableau présente les colonnes suivantes :
 
@@ -18,26 +18,26 @@ L'affichage est le même que celui de la gestion des stocks, sauf qu'ici chaque 
 * La date et l'heure, soit l'horodatage exact du changement effectué.
 * L'employé, soit le nom de la personne responsable du changement.
 
-  
+\
 Par défaut, les mouvements de stock s'affichent selon un ordre descendant, c'est-à-dire que le mouvement le plus récent est placé en haut de la liste.
 
-### Les types de mouvements de stock <a id="Mouvementsdestock-Lestypesdemouvementsdestock"></a>
+### Les types de mouvements de stock <a href="mouvementsdestock-lestypesdemouvementsdestock" id="mouvementsdestock-lestypesdemouvementsdestock"></a>
 
 Comme sur la version 1.7.2.0, trois types de mouvements se distinguent selon les situations suivantes :
 
 * L'édition manuelle par un employé, lorsque par exemple vous modifiez la quantité d'un produit dans le tableau de gestion des stocks.
-* La commande d'un client, lorsqu'une commande passe d'un statut de type "non expédiée" à un autre statut de type "expédiée" \(et vice-versa\). Par exemple, lorsque vous expédiez une commande qui était en cours de traitement, cela crée un mouvement de stock puisque la quantité physique des articles expédiés quitte littéralement l'entrepôt.
+* La commande d'un client, lorsqu'une commande passe d'un statut de type "non expédiée" à un autre statut de type "expédiée" (et vice-versa). Par exemple, lorsque vous expédiez une commande qui était en cours de traitement, cela crée un mouvement de stock puisque la quantité physique des articles expédiés quitte littéralement l'entrepôt.
 * Les produits retournés, lorsque votre stock récupère un article précédemment expédié mais ayant fait l'objet d'un retour.
 
 Dans les deux derniers cas, le type de mouvement renseigné dans le tableau devient un hyperlien qui renvoie vers la commande du client afin d'avoir plus de contexte et d'éviter la vérification supplémentaire de l'horodatage entre les mouvements de stock et le tableau des commandes.
 
-## Options de recherche et de filtre <a id="Mouvementsdestock-Optionsderechercheetdefiltre"></a>
+## Options de recherche et de filtre <a href="mouvementsdestock-optionsderechercheetdefiltre" id="mouvementsdestock-optionsderechercheetdefiltre"></a>
 
-### La barre de recherche <a id="Mouvementsdestock-Labarrederecherche"></a>
+### La barre de recherche <a href="mouvementsdestock-labarrederecherche" id="mouvementsdestock-labarrederecherche"></a>
 
 La recherche se fait de la même façon que dans l'onglet "[Stock](stocks.md)".
 
-### Les filtres avancés <a id="Mouvementsdestock-Lesfiltresavanc&#xE9;s"></a>
+### Les filtres avancés <a href="mouvementsdestock-lesfiltresavances" id="mouvementsdestock-lesfiltresavances"></a>
 
 Dans l'onglet "Mouvement", les filtres avancés sont :
 
@@ -48,4 +48,3 @@ Dans l'onglet "Mouvement", les filtres avancés sont :
 * un filtre statut.
 
 ![](../../../../.gitbook/assets/56688707.png)
-

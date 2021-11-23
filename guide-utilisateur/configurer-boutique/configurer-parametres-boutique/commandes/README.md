@@ -4,4 +4,3 @@ Les paramètres de commande sont divisées en deux onglets. Le premier regroupe 
 
 * [Préférences des commandes](preferences-commandes.md)
 * [États de commandes](etats-commandes.md)
-

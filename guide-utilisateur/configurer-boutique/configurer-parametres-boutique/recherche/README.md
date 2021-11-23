@@ -6,4 +6,3 @@ Ce chapitre contient les sections suivantes :
 
 * [Préférences de recherche](preferences-recherche.md)
 * [Mots-clés](mots-cles.md)
-

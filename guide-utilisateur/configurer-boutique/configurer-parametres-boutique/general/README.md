@@ -4,4 +4,3 @@ En plus des paramètres généraux de la boutique, cette page comprend aussi les
 
 * [Paramètres généraux](parametres-generaux.md)
 * [Maintenance de la boutique](maintenance.md)
-

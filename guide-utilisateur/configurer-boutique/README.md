@@ -6,4 +6,3 @@ Ce chapitre contient les sections suivantes :
 
 * [Configurer les paramètres de votre boutique](configurer-parametres-boutique/)
 * [Configurer les paramètres avancés](parametres-avances/)
-

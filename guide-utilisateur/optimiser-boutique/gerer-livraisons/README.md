@@ -6,11 +6,10 @@ Le prix de livraison est calculé à l'aide d'une méthode parmi les deux dispon
 
 PrestaShop base ses calculs de frais de port sur un système de tranches de poids ou de tranches de prix. Ce système ne peut fonctionner que dans l'un OU l'autre des cas, pas dans les deux à la fois.
 
-Les réglages du transport fonctionnent de concert avec les réglages locaux de votre installation PrestaShop, via le menu "International". C'est ici que vous pourrez modifier les zones géographiques, les pays, les devises et autres, grâces aux pages "Localisation" et "Zones géographiques", entre autres.  
+Les réglages du transport fonctionnent de concert avec les réglages locaux de votre installation PrestaShop, via le menu "International". C'est ici que vous pourrez modifier les zones géographiques, les pays, les devises et autres, grâces aux pages "Localisation" et "Zones géographiques", entre autres.\
 Ainsi, parcourez en profondeur le menu "International". Par exemple, pour créer un transporteur complet dans PrestaShop, vous devez clairement définir vos zones géographiques ; cela se fait dans l'onglet "Zones" de la page "Zones géographiques".
 
 Ce chapitre contient les sections suivantes :
 
 * [Gérer les transporteurs](gerer-transporteurs.md)
 * [Préférences de livraison](preferences-livraison.md)
-

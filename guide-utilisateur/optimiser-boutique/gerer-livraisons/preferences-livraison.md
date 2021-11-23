@@ -17,5 +17,5 @@ La section "Options des transporteurs" vous donne accès à trois réglages, qui
 * **Tri par défaut des transporteurs**. Quand les clients se voient présenter un choix de transporteurs, vous pouvez choisir de trier la liste soit en fonction des frais de port, soit de leur position dans la liste ci-dessus.
 * **Ordre par défaut des transporteurs**. Ce réglage indique l'ordre dans lequel les transporteurs sont triés :
   * Si les réglages sont sur "Prix" et "Croissant", alors les transporteurs seront affichés du moins cher au plus cher.
-  * Si les réglages sont sur "Position" et "Décroissant", alors les transporteurs seront affichés depuis celui en haut de la liste, jusqu'à celui tout en bas.  
-
+  * Si les réglages sont sur "Position" et "Décroissant", alors les transporteurs seront affichés depuis celui en haut de la liste, jusqu'à celui tout en bas.\
+    \

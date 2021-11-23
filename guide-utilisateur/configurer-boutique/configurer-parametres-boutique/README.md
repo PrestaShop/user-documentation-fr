@@ -11,4 +11,3 @@ Les paramètres comprennent les sections suivantes :
 * [Gestion des contacts](gestion-contacts.md)
 * [Trafic et SEO](trafic/)
 * [Recherche](recherche/)
-

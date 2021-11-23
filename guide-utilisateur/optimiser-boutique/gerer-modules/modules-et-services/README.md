@@ -13,4 +13,3 @@ Suivez les liens pour plus de détails sur ces trois onglets :
 * [Découvrir la sélection de modules](selection-modules.md)
 * [Modules installés](modules-installes.md)
 * [Notifications des modules](notifications-modules.md)
-

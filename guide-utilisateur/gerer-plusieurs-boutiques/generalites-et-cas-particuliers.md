@@ -57,7 +57,7 @@ Ainsi, il est possible de :
 
 Lorsque vous affichez la liste de pages de contenu dans le contexte "Toutes les boutiques", toutes les pages sont affichées. De la même manière, lorsque vous vous trouvez dans un contexte de groupe de boutiques, les pages de toutes les boutiques de ce groupe sont affichées.
 
-Si une page est créée dans un contexte de groupe de boutiques, toutes les boutiques de ce groupe afficheront cette page, et pourtant celle-ci sera unique : la modifier pour une boutique fera qu'elle sera modifiée pour toutes les boutiques de ce groupe.  
+Si une page est créée dans un contexte de groupe de boutiques, toutes les boutiques de ce groupe afficheront cette page, et pourtant celle-ci sera unique : la modifier pour une boutique fera qu'elle sera modifiée pour toutes les boutiques de ce groupe.\
 Sur la page de création, une section apparaît avec une liste, indiquant lesquelles seront touchées.
 
 ## Gérer les promotions en mode multiboutique
@@ -67,4 +67,3 @@ Lors de la création de promotions panier ou catalogue dans un contexte multibou
 ## Multiboutique et webservice
 
 L'accès au webservice est lui aussi entièrement paramétrable au niveau de la boutique ou du groupe de boutiques. Lors de la création d'une clé pour le webservice vous pouvez choisir de l'associer soit à toutes les boutiques, soit à des groupes de boutiques, soit à des boutiques individuelles.
-

@@ -17,7 +17,7 @@ Le profil SuperAdmin ne peut pas être supprimé, juste renommé.
 
 Il doit y avoir au moins une personne de l'équipe qui a le profil SuperAdmin.
 
-## Ajouter un nouveau profil <a id="Profilsdesemploy&#xE9;s-Ajouterunnouveauprofil"></a>
+## Ajouter un nouveau profil <a href="profilsdesemployes-ajouterunnouveauprofil" id="profilsdesemployes-ajouterunnouveauprofil"></a>
 
 Vous pouvez ajouter autant de profils que nécessaires.
 
@@ -25,5 +25,4 @@ Vous pouvez ajouter autant de profils que nécessaires.
 
 Ajouter un profil est assez simple : cliquez sur le bouton "Ajouter un profil", donnez-lui un nom unique, et enregistrez.
 
-La partie la plus complexe vient au moment de configurer les droits d'accès du nouveau profil. Tout se passe dans la page "Permissions" \(voir ci-dessous\).
-
+La partie la plus complexe vient au moment de configurer les droits d'accès du nouveau profil. Tout se passe dans la page "Permissions" (voir ci-dessous).

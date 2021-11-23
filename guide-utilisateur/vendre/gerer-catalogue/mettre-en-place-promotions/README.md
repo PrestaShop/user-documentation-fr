@@ -12,10 +12,11 @@ Ces deux objectifs peuvent être atteints avec les promotions personnalisées, e
 Les règles de promotions peuvent prendre deux formes :
 
 * **Règles paniers**. Ces règles vous permettent de créer des bons de réduction par utilisateur, et bien plus encore.
-* **Règles de prix catalogue**. Vous permet de mettre en place des réductions de prix par catégorie, marque, fournisseur, attribut ou caractéristique.  Par exemple, vous pouvez créer une règle qui spécifiera que les clients espagnols appartenant au groupe "Bons clients" ont droit à 10% de réduction sur la catégorie "Matériel électronique" et tous les produits Sony pendant la première semaine du mois de juillet.
+* **Règles de prix catalogue**. Vous permet de mettre en place des réductions de prix par catégorie, marque, fournisseur, attribut ou caractéristique.\
+  \
+  Par exemple, vous pouvez créer une règle qui spécifiera que les clients espagnols appartenant au groupe "Bons clients" ont droit à 10% de réduction sur la catégorie "Matériel électronique" et tous les produits Sony pendant la première semaine du mois de juillet.
 
 Ce chapitre contient les sections suivantes :
 
 * [Règles paniers](regles-paniers.md)
 * [Règles de prix catalogue](regles-de-prix.md)
-

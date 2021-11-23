@@ -9,4 +9,3 @@ La transformation de votre installation PrestaShop à boutique unique en une ins
 3. Enregistrez votre changement.
 
 Le menu "Paramètres avancés" aura maintenant une nouvelle page "Multiboutique", qui est expliquée en détail dans le chapitre "Gérer plusieurs boutiques" de ce guide.
-

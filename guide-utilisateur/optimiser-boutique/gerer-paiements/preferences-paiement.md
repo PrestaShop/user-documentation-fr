@@ -2,7 +2,7 @@
 
 Les préférences de paiement vous permettent de définir quel mode de paiement doit être proposé à vos clients en fonction de la devise, du pays, du groupe client ou du transporteur utilisé. Prenez soin de bien paramétrer ces options, si vous souhaitez éviter les mauvaises surprises avec vos paiements !
 
-## Restrictions des modules de paiement par rapport aux devises <a id="Preferencesdepaiement-Restrictionsdesmodulesdepaiementparrapportauxdevises"></a>
+## Restrictions des modules de paiement par rapport aux devises <a href="preferencesdepaiement-restrictionsdesmodulesdepaiementparrapportauxdevises" id="preferencesdepaiement-restrictionsdesmodulesdepaiementparrapportauxdevises"></a>
 
 En fonction de la méthode de paiement, les options proposées à un client peuvent changer. Vous pouvez limiter le choix des méthodes de paiement disponibles en fonction des devises disponibles : vous pourriez préférer que les clients puissent payer avec n'importe quelle devise avec PayPal, mais que ceux utilisant Skrill ne puissent utiliser que le dollar, par exemple.
 
@@ -25,7 +25,7 @@ Le client peut configurer sa devise à l'aide du menu déroulant au haut de chaq
 
 Si vous modifiez la devise par défaut après avoir configuré vos premiers produits, vous devrez remettre en place les prix de tous les produits. Vous devez vous décider sur la devise par défaut avant de créer les premiers produits.
 
-## Restrictions des modules de paiement par rapport aux groupes <a id="Preferencesdepaiement-Restrictionsdesmodulesdepaiementparrapportauxgroupes"></a>
+## Restrictions des modules de paiement par rapport aux groupes <a href="preferencesdepaiement-restrictionsdesmodulesdepaiementparrapportauxgroupes" id="preferencesdepaiement-restrictionsdesmodulesdepaiementparrapportauxgroupes"></a>
 
 Vous pouvez limiter le choix des modules de paiement en fonction de certains groupes de clients.
 
@@ -33,7 +33,7 @@ Vous pouvez limiter le choix des modules de paiement en fonction de certains gro
 
 Par exemple, disons que vous préférez que les clients non-professionnels payent par PayPal, Skrill et Hipay, et que les professionnels ne payent que par virement bancaire. En fonction du type de client et de vos choix, les clients ne pourront payer qu'avec les méthodes de paiement que vous avez choisies pour eux.
 
-## Restrictions des modules de paiement par rapport aux pays <a id="Preferencesdepaiement-Restrictionsdesmodulesdepaiementparrapportauxpays"></a>
+## Restrictions des modules de paiement par rapport aux pays <a href="preferencesdepaiement-restrictionsdesmodulesdepaiementparrapportauxpays" id="preferencesdepaiement-restrictionsdesmodulesdepaiementparrapportauxpays"></a>
 
 Vous pouvez limiter le choix des méthodes de paiement en fonction du pays d'origine de votre client. Par exemple vous pouvez décider qu'en France, en Espagne et en Allemagne, vous acceptez toutes les méthodes de paiement ; tandis qu'en Italie, au Royaume-Uni ou en Suisse, les clients ne pourront payer que par virement bancaire.
 
@@ -49,9 +49,8 @@ Ici encore, tout comme la restriction par devise, les options disponibles varien
 
 Trouvez le pays que vous recherchez dans la liste alphabétique, puis cochez les cases pour sélectionner ou non les méthodes de paiement que vous souhaitez rendre disponibles aux clients du pays en question. Une fois que tous les paramètres seront configurés, cliquez sur le bouton "Enregistrer", situé en bas de la page. Par défaut, tous les modules de paiement installés sont configurés pour le pays de la boutique.
 
-## Restrictions des modules de paiement par rapport aux transporteurs <a id="Preferencesdepaiement-Restrictionsdesmodulesdepaiementparrapportauxtransporteurs"></a>
+## Restrictions des modules de paiement par rapport aux transporteurs <a href="preferencesdepaiement-restrictionsdesmodulesdepaiementparrapportauxtransporteurs" id="preferencesdepaiement-restrictionsdesmodulesdepaiementparrapportauxtransporteurs"></a>
 
 Vous pouvez limiter le choix des méthodes de paiement en fonction de certains transporteurs.
 
 ![](../../../.gitbook/assets/64225421.png)
-

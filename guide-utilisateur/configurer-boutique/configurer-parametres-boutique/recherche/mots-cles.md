@@ -10,11 +10,11 @@ Pour travailler votre référencement par produit, ouvrez l'onglet "Référencem
 
 Vous avez deux moyens de mettre en place cette fonctionnalité.
 
-## Première solution : lors de la création du produit <a id="Mots-cl&#xE9;s-Premi&#xE8;resolution:lorsdelacr&#xE9;ationduproduit"></a>
+## Première solution : lors de la création du produit <a href="mots-cles-premieresolution-lorsdelacreationduproduit" id="mots-cles-premieresolution-lorsdelacreationduproduit"></a>
 
-Vous pouvez directement associer plusieurs mots-clés à votre produit dans le champ "Mots-clés" de l'onglet "Options", tandis que vous créez un produit. 
+Vous pouvez directement associer plusieurs mots-clés à votre produit dans le champ "Mots-clés" de l'onglet "Options", tandis que vous créez un produit.&#x20;
 
-## Deuxième solution : créer et gérer les mots-clés <a id="Mots-cl&#xE9;s-Deuxi&#xE8;mesolution:cr&#xE9;eretg&#xE9;rerlesmots-cl&#xE9;s"></a>
+## Deuxième solution : créer et gérer les mots-clés <a href="mots-cles-deuxiemesolution-creeretgererlesmots-cles" id="mots-cles-deuxiemesolution-creeretgererlesmots-cles"></a>
 
 La page "Mots-clés" du menu "Recherche" vous permet de créer de nouveaux mots-clés, et de gérer ceux déjà en place. Une fois que vous avez indiqué des mots-clés pour chacun de vos produits, vous aurez alors une liste importante de mots-clés.
 
@@ -30,8 +30,7 @@ Après avoir enregistrez la page, le mot-clé nommé sera appliqué à tous les 
 
 Pour ajouter le même mot-clé pour une autre langue, il suffit de répéter l'opération, mais cette fois, en changeant la langue.
 
-Après avoir enregistré le mot-clé, vous êtes redirigé vers la liste des mots-clés, d'où vous pouvez les modifier ou les supprimer, ou même en supprimer plusieurs d'un coup en utilisant le bouton en bas de la liste.  
+Après avoir enregistré le mot-clé, vous êtes redirigé vers la liste des mots-clés, d'où vous pouvez les modifier ou les supprimer, ou même en supprimer plusieurs d'un coup en utilisant le bouton en bas de la liste.\
 A côté des icônes d'édition et de suppression, un nombre indique combien de produits utilisent ce mot-clé.
 
 A partir de maintenant, lorsque vos clients lanceront une recherche sur votre site, les résultats qu'ils recevront dépendront aussi des mots-clés que vous avez associés à ces produits.
-

@@ -1,26 +1,26 @@
 # Etre conforme au RGPD
 
-## Introduction <a id="EtreconformeauRGPD-Introduction"></a>
+## Introduction <a href="etreconformeaurgpd-introduction" id="etreconformeaurgpd-introduction"></a>
 
-Le Règlement Général sur la Protection des Données \(RGPD\), entré en vigueur le 25 mai 2018, encadre l’utilisation qui est faite des données personnelles des utilisateurs dans l’Union européenne. Il s’applique à tout [traitement de données à caractère personnel](https://addons.prestashop.com/fr/modules-prestashop-gratuits/31944-livre-blanc-rgpd.html) \(ex : collecte, conservation, extraction, utilisation, destruction, etc.\), automatisé ou non.
+Le Règlement Général sur la Protection des Données (RGPD), entré en vigueur le 25 mai 2018, encadre l’utilisation qui est faite des données personnelles des utilisateurs dans l’Union européenne. Il s’applique à tout [traitement de données à caractère personnel](https://addons.prestashop.com/fr/modules-prestashop-gratuits/31944-livre-blanc-rgpd.html) (ex : collecte, conservation, extraction, utilisation, destruction, etc.), automatisé ou non.
 
-## Pourquoi le RGPD est important <a id="EtreconformeauRGPD-PourquoileRGPDestimportant"></a>
+## Pourquoi le RGPD est important <a href="etreconformeaurgpd-pourquoilergpdestimportant" id="etreconformeaurgpd-pourquoilergpdestimportant"></a>
 
 Sachant cela et le fait que vous avez une activité e-commerce, vous traitez des données personnelles. En outre, le RGPD n’affecte pas seulement les entreprises européennes mais aussi les entreprises situées en dehors de l’Europe qui collectent des données de citoyens européens. Inutile de dire qu’aucun marchand ne peut ignorer ce règlement ; la conformité de votre activité est donc essentielle.
 
-##  Principales caractéristiques <a id="EtreconformeauRGPD-Principalescaract&#xE9;ristiques"></a>
+## &#x20;Principales caractéristiques <a href="etreconformeaurgpd-principalescaracteristiques" id="etreconformeaurgpd-principalescaracteristiques"></a>
 
 Le module RGPD est disponible directement depuis votre back office et vise à protéger les données personnelles des utilisateurs. Ils doivent avoir le droit d’accéder à leurs données personnelles et le droit à leur portabilité, le droit d’obtenir la rectification et/ou l’effacement de leurs données ainsi que le droit de retirer leur consentement lorsque celui-ci leur a été demandé.
 
-Ce module vous permet également de conserver un journal de bord de l’ensemble des activités de vos utilisateurs concernant leurs données personnelles \(notamment l’accessibilité, le consentement et l’effacement des données\). Vous serez ainsi capable de démontrer que vous respectez vos obligations au regard du règlement.Attention, l'article 83 du RGPD prévoit des sanctions jusqu’à 20 millions d’euros ou, dans le cas d’une entreprise, jusqu’à 4% du CA annuel mondial total de l’exercice précédent.
+Ce module vous permet également de conserver un journal de bord de l’ensemble des activités de vos utilisateurs concernant leurs données personnelles (notamment l’accessibilité, le consentement et l’effacement des données). Vous serez ainsi capable de démontrer que vous respectez vos obligations au regard du règlement.Attention, l'article 83 du RGPD prévoit des sanctions jusqu’à 20 millions d’euros ou, dans le cas d’une entreprise, jusqu’à 4% du CA annuel mondial total de l’exercice précédent.
 
-### Configurer le module RGPD <a id="EtreconformeauRGPD-ConfigurerlemoduleRGPD"></a>
+### Configurer le module RGPD <a href="etreconformeaurgpd-configurerlemodulergpd" id="etreconformeaurgpd-configurerlemodulergpd"></a>
 
-#### Démarrage <a id="EtreconformeauRGPD-D&#xE9;marrage"></a>
+#### Démarrage <a href="etreconformeaurgpd-demarrage" id="etreconformeaurgpd-demarrage"></a>
 
-Recherchez le module RPGD puis cliquez sur Configurer. Cet onglet permettra de vous familiariser avec le Règlement Général sur la Protection des Données \(RGPD\) et avec notre module. Vous y trouverez les informations générales concernant ce règlement européen \(notre livre blanc, vidéo, article, etc.\), ainsi que le guide d’utilisation de notre module en PDF téléchargeable pour vous aider dans les différents éléments de sa configuration.
+Recherchez le module RPGD puis cliquez sur Configurer. Cet onglet permettra de vous familiariser avec le Règlement Général sur la Protection des Données (RGPD) et avec notre module. Vous y trouverez les informations générales concernant ce règlement européen (notre livre blanc, vidéo, article, etc.), ainsi que le guide d’utilisation de notre module en PDF téléchargeable pour vous aider dans les différents éléments de sa configuration.
 
-#### Gestion des données personnelles <a id="EtreconformeauRGPD-Gestiondesdonn&#xE9;espersonnelles"></a>
+#### Gestion des données personnelles <a href="etreconformeaurgpd-gestiondesdonneespersonnelles" id="etreconformeaurgpd-gestiondesdonneespersonnelles"></a>
 
 Dans cet onglet, vous trouverez tout d’abord la liste des modules installés sur votre boutique qui sont en conformité avec le RGPD.
 
@@ -41,9 +41,9 @@ Pour plus de détails sur ces données, vous serez redirigés vers la partie cli
 
 À noter : ce module permet également de supprimer les comptes invités. Le marchand doit alors renseigner l’adresse mail ou le numéro de téléphone exacts pour voir tous les détails des comptes invités et ensuite pouvoir supprimer les données associées.
 
-Une fois les données de l’utilisateur supprimées, celui-ci n’existe plus \(compte client et adresse supprimés de votre base\) mais les factures sont toujours visibles dans la commande. Seules ses données personnelles sont effacées. Ses paniers abandonnés sont transférés sur un compte anonyme et ses commandes, donc, ne sont plus associées à aucun compte client.
+Une fois les données de l’utilisateur supprimées, celui-ci n’existe plus (compte client et adresse supprimés de votre base) mais les factures sont toujours visibles dans la commande. Seules ses données personnelles sont effacées. Ses paniers abandonnés sont transférés sur un compte anonyme et ses commandes, donc, ne sont plus associées à aucun compte client.
 
-#### Personnalisation des cases d’obtention de consentement <a id="EtreconformeauRGPD-Personnalisationdescasesd&#x2019;obtentiondeconsentement"></a>
+#### Personnalisation des cases d’obtention de consentement <a href="etreconformeaurgpd-personnalisationdescasesdobtentiondeconsentement" id="etreconformeaurgpd-personnalisationdescasesdobtentiondeconsentement"></a>
 
 Cet onglet vous permettra de personnaliser les cases à cocher d’obtention de consentement et les messages correspondants dans les différents formulaires de votre boutique.
 
@@ -58,17 +58,16 @@ Nous vous recommandons de remplir vos messages de demande de consentement dans t
 
 En fonction des modules installés sur votre boutique, s’ils ont réalisé la mise à jour de conformité au RGPD, les champs de texte correspondants seront affichés sur cette interface pour que vous puissiez personnaliser vos messages de demande de consentement.
 
-#### Suivi des activités des clients <a id="EtreconformeauRGPD-Suividesactivit&#xE9;sdesclients"></a>
+#### Suivi des activités des clients <a href="etreconformeaurgpd-suividesactivitesdesclients" id="etreconformeaurgpd-suividesactivitesdesclients"></a>
 
-Dans cet onglet, vous pouvez visualiser toutes les actions de vos clients liées à leurs données personnelles \(notamment pour l’accessibilité, le consentement et l’effacement de données\).
+Dans cet onglet, vous pouvez visualiser toutes les actions de vos clients liées à leurs données personnelles (notamment pour l’accessibilité, le consentement et l’effacement de données).
 
 Dans ce tableau récapitulatif, vous trouverez les informations ci-dessous :
 
-*  Nom/Prénom du client ou ID client
+* &#x20;Nom/Prénom du client ou ID client
 * Type de demande : accessibilité, consentement ou effacement des données
 * Date et heure de l’action
 
-#### Aide <a id="EtreconformeauRGPD-Aide"></a>
+#### Aide <a href="etreconformeaurgpd-aide" id="etreconformeaurgpd-aide"></a>
 
 Vous trouverez dans cet onglet la liste des questions les plus fréquentes de nos clients marchands et les réponses de nos experts Modules et RGPD à ces questions.
-

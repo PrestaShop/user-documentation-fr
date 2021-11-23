@@ -9,4 +9,3 @@ Ce chapitre contient les sections suivantes :
 * [Gérer les clients](gerer-clients/)
 * [Gérer le service client](gerer-service-client/)
 * [Comprendre les statistiques](comprendre-statistiques.md)
-

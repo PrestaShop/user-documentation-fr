@@ -15,7 +15,7 @@ Celle-ci vous donne un bon aperçu de l'ensemble de vos clients, avec quelques d
 * **Lettre d'informations**. Indique si le client est inscrit à votre newsletter ou non. Vous pouvez le désinscrire en cliquant sur la coche verte.
 * **Offres partenaires**. Indique si le client accepte de recevoir des messages de vos partenaires ou non. Vous pouvez le désinscrire en cliquant sur la coche verte. **N'inscrivez pas vos clients à ces messages sans leur accord, car cela peut être considéré comme du spam**.
 * Inscription et dernière visite peuvent se révéler utile pour trier les comptes.
-* **Actions**. Vous pouvez modifier le compte d'un utilisateur, simplement afficher ses données \(dont ses messages, commandes, adresse, bons de réduction, etc.\), ou le supprimer définitivement.
+* **Actions**. Vous pouvez modifier le compte d'un utilisateur, simplement afficher ses données (dont ses messages, commandes, adresse, bons de réduction, etc.), ou le supprimer définitivement.
 
 Lors de sa première installation avec des données de démonstration, PrestaShop crée un utilisateur par défaut, nommé John Doe.
 
@@ -30,10 +30,10 @@ Pour vous connecter à votre boutique avec ce compte, utilisez ces identifiants 
 
 Sous la liste des clients se trouve le bouton "Définir les champs requis pour cette section". Il ouvre un formulaire que vous pouvez utiliser pour indiquer si un champ de la base de données est nécessaire ou non, en cochant les cases appropriées : ainsi, vous pouvez rendre le champ "offres partenaires" obligatoire lorsqu'un visiteur crée un compte utilisateur sur votre boutique.
 
-Vous pouvez exporter une liste de vos clients avec le bouton "Exporter" situé en haut.  
+Vous pouvez exporter une liste de vos clients avec le bouton "Exporter" situé en haut.\
 Vous pouvez également importer des clients en utiliser le bouton "Import". Il vous faudra un fichier CSV au format suivant :
 
-```text
+```
 ID;Title;Last name;First Name;Email address;Age;Enabled;News.;Opt.;Registration;Last visit;
 2;1;Gorred;Francis;francis@example.com;-;1;0;0;2013-07-04 15:20:02;2013-07-04 15:18:50;
 1;1;DOE;John;pub@prestashop.com;43;1;1;1;2013-07-02 17:36:07;2013-07-03 16:04:15;
@@ -41,7 +41,7 @@ ID;Title;Last name;First Name;Email address;Age;Enabled;News.;Opt.;Registration;
 
 Plus d'informations sont disponibles dans le page "Import" du menu "Paramètres avancés".
 
-## Créer un nouveau compte d'utilisateur <a id="Vosclients-Cr&#xE9;erunnouveaucompted&apos;utilisateur"></a>
+## Créer un nouveau compte d'utilisateur <a href="vosclients-creerunnouveaucomptedutilisateur" id="vosclients-creerunnouveaucomptedutilisateur"></a>
 
 Pour créer vous-même un nouvel utilisateur, cliquez sur le bouton "Ajouter un nouveau client". Le formulaire s'ouvre.
 
@@ -68,14 +68,14 @@ Si vos clients sont surtout des sociétés, vous devriez activer le mode B2B afi
 Le mode B2B ajoute des champs propres aux sociétés :
 
 * **Société**. Le nom de la société.
-* **SIRET**. Son numéro SIRET \(seulement pour la France\).
-* **APE**.  Son code d'activité principale \(_Activité principale exercée_ - seulement pour la France\).
+* **SIRET**. Son numéro SIRET (seulement pour la France).
+* **APE**.  Son code d'activité principale (_Activité principale exercée_ - seulement pour la France).
 * **Site web**. Son adresse web.
 * **Encours autorisé**. Le montant de l'encours autorisé pour cette société.
-* **Délai de paiement maximum \(en jours\)**. Le délai autorisé avant règlement des factures.
+* **Délai de paiement maximum (en jours)**. Le délai autorisé avant règlement des factures.
 * **Niveau de risque**. Votre estimation du risque de cette société : aucun, faible, moyen, élevé.
 
-## Afficher les informations relatives à un client <a id="Vosclients-Afficherlesinformationsrelatives&#xE0;unclient"></a>
+## Afficher les informations relatives à un client <a href="vosclients-afficherlesinformationsrelativesaunclient" id="vosclients-afficherlesinformationsrelativesaunclient"></a>
 
 Dans le cas où vous voudriez avoir plus d'informations sur un client donné, vous pouvez cliquer sur le bouton "Afficher", situé à la fin de sa ligne dans la liste des clients. Une nouvelle page s'ouvre.
 
@@ -85,17 +85,19 @@ Les sections de cette page vous présentent les données clé de cet utilisateur
 
 * **Informations sur le client**, son nom et prénom, e-mail, genre, date d'inscription, date de la dernière visite.
 * Information par rapport à sa souscription à la newsletter de la boutique et souscription à des publicités d'entreprises partenaires, son âge, date de sa dernière mise à jour, compte actif ou non.
-* **Note privée** de la part des employés de la boutique \(vous ou votre équipe\).
-* **Messages** envoyés par l'utilisateur à l'équipe \(via le service après-vente\).
+* **Note privée** de la part des employés de la boutique (vous ou votre équipe).
+* **Messages** envoyés par l'utilisateur à l'équipe (via le service après-vente).
 * Ses **bons de réduction** disponibles.
 * Sa **dernière connexion**.
 * Les **groupes** auxquels le client appartient.
-* Les **paniers** que le client a créé \(mais pas forcément validé\) depuis son inscription. Quand votre client est sur votre site, vous pouvez voir ce qu'il ajoute à son panier en temps réel.
+* Les **paniers** que le client a créé (mais pas forcément validé) depuis son inscription. Quand votre client est sur votre site, vous pouvez voir ce qu'il ajoute à son panier en temps réel.
 * **Résumé des achats** déjà effectués par le client. Montant dépensé, type de paiement, état des commandes. Pour plus d'informations sur chaque commande, cliquez sur le numéro de commande.
 * Résumé des **produits qui ont été visualisés** par un client. Entre autres choses, cela vous permet de savoir quand un client aime beaucoup un certain produit, et donc par exemple de lui créer une réduction pour sa 10e commande. En cliquant sur le produit, vous êtes renvoyé vers la fiche produit.
-* Ses différentes adresses.  
+* Ses différentes adresses.\
+  \
 
-## Chercher un client <a id="Vosclients-Chercherunclient"></a>
+
+## Chercher un client <a href="vosclients-chercherunclient" id="vosclients-chercherunclient"></a>
 
 Vous avez deux manières de chercher un client dans votre boutique PrestaShop.
 
@@ -119,4 +121,3 @@ Les résultats, s'il y en a, sont affichés ensuite : la liste vous donne l'ID d
 En effet, vous pouvez remplir les champs en haut de la liste, afin de filtrer le contenu en fonction des critères suivants : ID, titre de civilité, prénom, nom, adresse e-mail, âge, état du compte, inscription à la newsletter, inscription aux promotions partenaires, date d'inscription, et date de dernière connexion. Saisissez vos critères puis cliquez sur le bouton "Filtre" situé du côté droit du tableau. Vous pouvez ensuite trier la liste en fonction de chaque colonne.
 
 Cliquez sur le bouton "Réinitialiser" pour revenir à la liste complète.
-

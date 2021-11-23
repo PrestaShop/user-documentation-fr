@@ -6,4 +6,3 @@ Ce chapitre contient les sections suivantes :
 
 * [Gestionnaire SQL](gestionnaire-sql.md)
 * [Sauvegarde BDD](sauvegarde-bdd.md)
-

@@ -12,4 +12,3 @@ Parcourir les paramètres avancés c'est un peu comme regarder sous le capot d'u
 * [Paramètres de log](logs.md)
 * [Paramètres du service web](service-web.md)
 * [Multiboutique](multiboutique.md)
-

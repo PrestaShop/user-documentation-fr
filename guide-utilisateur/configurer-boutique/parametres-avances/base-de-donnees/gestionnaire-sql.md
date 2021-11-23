@@ -4,14 +4,14 @@ Le SQL Manager est une fonctionnalité complexe, destinée aux personnes techniq
 
 ![](../../../../.gitbook/assets/23789877.png)
 
-Cet outil vous permet de lancer des requêtes SQL directement sur la base de données de PrestaShop, et les enregistrer pour les réutiliser quand vous le souhaitez. En effet, il donne accès au contenu de sa base de données de plusieurs manières, mais vous pourriez avoir besoin de plus de détail, ou plus simplement d'un rendu plus brut que ce que donne l'interface de PrestaShop. Grâce au SQL Manager, vous pouvez lancer des requêtes complexes qui utilisent les données de la manière dont VOUS le souhaitez.  
+Cet outil vous permet de lancer des requêtes SQL directement sur la base de données de PrestaShop, et les enregistrer pour les réutiliser quand vous le souhaitez. En effet, il donne accès au contenu de sa base de données de plusieurs manières, mais vous pourriez avoir besoin de plus de détail, ou plus simplement d'un rendu plus brut que ce que donne l'interface de PrestaShop. Grâce au SQL Manager, vous pouvez lancer des requêtes complexes qui utilisent les données de la manière dont VOUS le souhaitez.\
 Par exemple, à l'aide de cet outil et de votre connaissance de SQL, vous pouvez créer une requête réutilisable vous donnant une liste à jour des clients qui ont souscrit à votre newsletter, ou obtenir une liste de produits en format HTML ou CSV.
 
-Pour des raisons de sécurité, certaines requêtes ne sont pas autorisées : UPDATE, DELETE, CREATE TABLE, DROP... Pour résumer, vous ne pouvez que lire les données \(requête SELECT\).
+Pour des raisons de sécurité, certaines requêtes ne sont pas autorisées : UPDATE, DELETE, CREATE TABLE, DROP... Pour résumer, vous ne pouvez que lire les données (requête SELECT).
 
-Par ailleurs, les clés sécurisées et mots de passe sont cachés \(\*\*\*\*\*\*\*\*\*\*\*\).
+Par ailleurs, les clés sécurisées et mots de passe sont cachés (\*\*\*\*\*\*\*\*\*\*\*).
 
-## Créer une nouvelle requête <a id="GestionnaireSQL-Cr&#xE9;erunenouvellerequ&#xEA;te"></a>
+## Créer une nouvelle requête <a href="gestionnairesql-creerunenouvellerequete" id="gestionnairesql-creerunenouvellerequete"></a>
 
 Comme d'habitude, le bouton "Ajouter une requête SQL" vous mène au formulaire de création. Il dispose de deux champs :
 
@@ -26,7 +26,7 @@ Par ailleurs, la section "Liste des tables MySQL" vous aide à explorer la base 
 
 En enregistrant ce formulaire, vous revenez à la page principale, avec la liste des requêtes.
 
-## Lancer une requête <a id="GestionnaireSQL-Lancerunerequ&#xEA;te"></a>
+## Lancer une requête <a href="gestionnairesql-lancerunerequete" id="gestionnairesql-lancerunerequete"></a>
 
 Chaque requête enregistrée dans le tableau dispose de quatre icônes à la fin de sa ligne :
 
@@ -35,11 +35,11 @@ Chaque requête enregistrée dans le tableau dispose de quatre icônes à la fin
 
 **Modifier**. Vous pouvez modifier une requête aussi souvent que nécessaire, afin de l'affiner et d'obtenir de meilleurs résultats.
 
-**Supprimer**. Une fois qu'une requête ne vous est plus utile \(ou simplement si elle ne marche pas\), vous pouvez l'effacer en cliquant sur cette icône et en confirmant votre choix.
+**Supprimer**. Une fois qu'une requête ne vous est plus utile (ou simplement si elle ne marche pas), vous pouvez l'effacer en cliquant sur cette icône et en confirmant votre choix.
 
 ![](../../../../.gitbook/assets/23789884.png)
 
-## Paramètres <a id="GestionnaireSQL-Param&#xE8;tres"></a>
+## Paramètres <a href="gestionnairesql-parametres" id="gestionnairesql-parametres"></a>
 
 Il n'y a qu'un seul réglage à l'heure actuelle :
 
@@ -47,27 +47,27 @@ Il n'y a qu'un seul réglage à l'heure actuelle :
 
 ![](../../../../.gitbook/assets/23789885.png)
 
-## Quelques exemples de requêtes. <a id="GestionnaireSQL-Quelquesexemplesderequ&#xEA;tes."></a>
+## Quelques exemples de requêtes. <a href="gestionnairesql-quelquesexemplesderequetes." id="gestionnairesql-quelquesexemplesderequetes."></a>
 
 Les possibilités sont infinies, mais voici quelques exemples pour vous aider à créer vos propres requêtes.
 
-### Lister les adresses e-mail de tous les clients. <a id="GestionnaireSQL-Listerlesadressese-maildetouslesclients."></a>
+### Lister les adresses e-mail de tous les clients. <a href="gestionnairesql-listerlesadressese-maildetouslesclients." id="gestionnairesql-listerlesadressese-maildetouslesclients."></a>
 
-```text
+```
 SELECT email FROM ps_customer
 ```
 
-### Liste les adresses e-mail de tous les clients qui sont inscrits à votre newsletter <a id="GestionnaireSQL-Listelesadressese-maildetouslesclientsquisontinscrits&#xE0;votrenewsletter"></a>
+### Liste les adresses e-mail de tous les clients qui sont inscrits à votre newsletter <a href="gestionnairesql-listelesadressese-maildetouslesclientsquisontinscritsavotrenewsletter" id="gestionnairesql-listelesadressese-maildetouslesclientsquisontinscritsavotrenewsletter"></a>
 
-```text
+```
 SELECT email
 FROM ps_customer
 WHERE newsletter = 1
 ```
 
-### Lister tous les produits activés et ayant une description en français <a id="GestionnaireSQL-Listertouslesproduitsactiv&#xE9;setayantunedescriptionenfran&#xE7;ais"></a>
+### Lister tous les produits activés et ayant une description en français <a href="gestionnairesql-listertouslesproduitsactivesetayantunedescriptionenfrancais" id="gestionnairesql-listertouslesproduitsactivesetayantunedescriptionenfrancais"></a>
 
-```text
+```
 SELECT p.id_product, pl.name, pl.link_rewrite, pl.description
 FROM ps_product p
 LEFT JOIN ps_product_lang pl ON (p.id_product = pl.id_product)
@@ -75,9 +75,9 @@ WHERE p.active = 1
 AND pl.id_lang = 4
 ```
 
-### Lister toutes les commandes, en donnant le transporteur, la devise, le paiement, le prix total et la date <a id="GestionnaireSQL-Listertouteslescommandes,endonnantletransporteur,ladevise,lepaiement,leprixtotaletladate"></a>
+### Lister toutes les commandes, en donnant le transporteur, la devise, le paiement, le prix total et la date <a href="gestionnairesql-listertouteslescommandes-endonnantletransporteur-ladevise-lepaiement-leprixtotaletla" id="gestionnairesql-listertouteslescommandes-endonnantletransporteur-ladevise-lepaiement-leprixtotaletla"></a>
 
-```text
+```
 SELECT o.`id_order` AS `id`,
 	CONCAT(LEFT(c.`firstname`, 1), '. ', c.`lastname`) AS `Customer`,
 	ca.`name` AS `Carrier`,
@@ -89,4 +89,3 @@ LEFT JOIN `ps_customer` c ON (o.`id_customer` = c.`id_customer`)
 LEFT JOIN `ps_carrier` ca ON (o.id_carrier = ca.id_carrier)
 LEFT JOIN `ps_currency` cu ON (o.`id_currency` = cu.`id_currency`)
 ```
-

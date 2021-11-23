@@ -7,4 +7,3 @@ Ce chapitre contient les sections suivantes :
 * [Le service client](service-client.md)
 * [Messages prédéfinis](messages-predefinis.md)
 * [Retours produits](retours-produits.md)
-

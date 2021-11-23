@@ -1,8 +1,8 @@
 # Gestion des contacts
 
-Votre boutique offre plusieurs points de contact à vos clients, que ce soit via le formulaire de contact, ou la liste de vos boutiques physiques \(si vous en avez\). Ces pages vous permettent de gérer toutes vos informations de contact.
+Votre boutique offre plusieurs points de contact à vos clients, que ce soit via le formulaire de contact, ou la liste de vos boutiques physiques (si vous en avez). Ces pages vous permettent de gérer toutes vos informations de contact.
 
-## Vos contacts 
+## Vos contacts&#x20;
 
 La page "Nous contacter" de votre boutique contient un formulaire de contact pour que vos clients puissent vous envoyer des messages facilement. En fonction du type de demande adressée, ces messages peuvent être envoyés à différents interlocuteurs, pour que la bonne personne parmi votre équipe traite ces demandes.
 
@@ -19,7 +19,7 @@ Cliquez sur "Ajouter un contact" pour accéder au formulaire de contact :
 * **Titre**. Le nom du contact : soit le nom d'une personne, soit le nom du service lui-même. Vous pouvez également choisir d'utiliser une phrase, comme "J'ai un problème avec ma commande", "Je veux renvoyer un produit" ou "Proposition de partenariat", car ce titre est visible par vos clients sur le formulaire.
 * **Adresse e-mail**. L'adresse peut être la même que celle d'un autre contact. Qui plus est, tous les contacts peuvent avoir la même adresse si vous n'avez pas vraiment d'équipe – les clients ne le sauront jamais, mais avoir de nombreux contacts peut les aider à avoir confiance en votre boutique, car cela signifie que de nombreuses personnes y travaillent.
 * **Enregistrer les messages ?**. Indiquez si les messages doivent être enregistrés dans l'outil de gestion SAV, ou juste être envoyés par e-mail. Si cette option est désactivée, PrestaShop ne vous aidera pas à gérer les messages pour ce contact. Cela peut se révéler utile pour un contact comme "Proposition de partenariat", car vous pourriez préférer que ces messages arrivent directement dans votre boite e-mail sans être lisible par toute votre équipe.
-* **Description**. Choisissez une description courte, ne dépassant pas la ligne, car elle peut être affichée au client sur le formulaire de contact \(en fonction de votre thème\).
+* **Description**. Choisissez une description courte, ne dépassant pas la ligne, car elle peut être affichée au client sur le formulaire de contact (en fonction de votre thème).
 
 ![](../../../.gitbook/assets/52298403.png)
 
@@ -27,7 +27,7 @@ Cliquez sur "Ajouter un contact" pour accéder au formulaire de contact :
 
 Pour contacter la bonne équipe d'employés depuis votre front-office, le client doit cliquer soit sur le lien "Contactez-nous" en haut de la page, ou le lien "Nous contacter" en bas de la page. Le formulaire de contact s'ouvre alors.
 
-![](../../../.gitbook/assets/52298404%20%281%29.png)
+![](../../../.gitbook/assets/52298404.png)
 
 Le client peut ensuite choisir le service à contacter, saisir son adresse e-mail puis son message. Un menu déroulant lui permet d'indiquer la commande dont il est en train de parler, et même le produit dont il parle.
 
@@ -35,7 +35,7 @@ Le module "Coordonnées" permet d'afficher vos coordonnées dans le footer de vo
 
 ## Coordonnées et magasins
 
-PrestaShop vous permet de lister vos magasins physiques, avec des informations de contact détaillées, via la page "Magasins" de votre boutique \(accessible via le footer\).
+PrestaShop vous permet de lister vos magasins physiques, avec des informations de contact détaillées, via la page "Magasins" de votre boutique (accessible via le footer).
 
 De toute évidence, cette fonctionnalité n'est réellement utile que si vous avez des magasins physiques, où les clients peuvent acheter vos produits.
 
@@ -58,7 +58,7 @@ Si jamais vous aviez besoin de recréer cette page par la suite, vous pouvez le 
 
 ### Liste des magasins
 
-Vous pouvez choisir la manière dont ces magasins sont affichés. Les clients pourront y accéder par le biais du lien "Magasins" \(en fonction du thème\).
+Vous pouvez choisir la manière dont ces magasins sont affichés. Les clients pourront y accéder par le biais du lien "Magasins" (en fonction du thème).
 
 ![](../../../.gitbook/assets/52298409.png)
 
@@ -82,7 +82,7 @@ Faites en sorte d'ajouter une photo du magasin, car elle aidera vos clients à l
 
 Enfin, les heures d'ouverture sont une information essentielle d'un magasin physique, et vous devriez être aussi précis que possible.
 
-## Coordonnées <a id="Coordonn&#xE9;esetmagasins-Coordonn&#xE9;es"></a>
+## Coordonnées <a href="coordonneesetmagasins-coordonnees" id="coordonneesetmagasins-coordonnees"></a>
 
 Cette section vous permet de donner plus de détails sur votre société plutôt que sur un magasin en particulier. Vous devriez remplir tous les champs avec les informations sur votre siège social, car c'est très certainement l'adresse à laquelle les clients écriront, voire se rendront.
 
@@ -92,8 +92,8 @@ La plupart de ces informations sont évidentes, mais certains champs doivent êt
 
 * **Téléphone**. Utilisez le numéro de contact de votre boutique. Si vous préféreriez que les clients ne vous appellent pas, ne mettez rien dans ce champ.
 * **Adresse e-mail de la boutique**. L'adresse officielle de votre société. Utilisez l'adresse générale de contact de votre société, celle qui envoie des e-mails à vos clients.
-* **Immatriculation**. Donnez le numéro d'enregistrement légal de votre société, qui dépend du système légal de votre pays \(SIRET en France, Duns number aux USA, CNPJ au Brésil, etc.\). Cela prouve que vous êtes une société officiellement déclarée, ce qui vous permet de gagner la confiance de vos clients.
-* **Adresse du magasin**, **Code postal**, **Ville**, **État**, **Pays**. Utilisez l'adresse de contact officielle de votre société. L'option "État" n'apparaît que si le pays sélectionné a des états dans votre base de données \(par le biais de la page "États" du menu "Localisation".
+* **Immatriculation**. Donnez le numéro d'enregistrement légal de votre société, qui dépend du système légal de votre pays (SIRET en France, Duns number aux USA, CNPJ au Brésil, etc.).\
+  Cela prouve que vous êtes une société officiellement déclarée, ce qui vous permet de gagner la confiance de vos clients.
+* **Adresse du magasin**, **Code postal**, **Ville**, **État**,** Pays**. Utilisez l'adresse de contact officielle de votre société. L'option "État" n'apparaît que si le pays sélectionné a des états dans votre base de données (par le biais de la page "États" du menu "Localisation".
 * **Téléphone**. Le numéro de contact officiel de votre société. Si vous préférez que les utilisateurs ne vous contactent pas, ne mettez rien ici.
 * **Fax**. Le numéro de fax officiel de votre société.
-

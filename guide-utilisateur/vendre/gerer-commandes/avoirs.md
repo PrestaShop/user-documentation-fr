@@ -4,7 +4,7 @@ Suite à votre acceptation d'un retour produit demandé, vous devriez recevoir u
 
 ![](../../../.gitbook/assets/52298162.png)
 
-## Configuration des avoirs <a id="Avoirs-Configurationdesavoirs"></a>
+## Configuration des avoirs <a href="avoirs-configurationdesavoirs" id="avoirs-configurationdesavoirs"></a>
 
 ![](../../../.gitbook/assets/52298163.png)
 
@@ -14,9 +14,9 @@ Il n'y a qu'une option sur la page :
 
 N'oubliez d'enregistrer vos modifications.
 
-## Créer un avoir <a id="Avoirs-Cr&#xE9;erunavoir"></a>
+## Créer un avoir <a href="avoirs-creerunavoir" id="avoirs-creerunavoir"></a>
 
-Dans la liste de vos commandes \(page "Commandes"\), cliquez sur la commande contenant le produit qui vous a été renvoyé pour avoir plus de détails – cela ne fonctionne que si vous avez déjà indiqué que le client peut vous renvoyer des produits.
+Dans la liste de vos commandes (page "Commandes"), cliquez sur la commande contenant le produit qui vous a été renvoyé pour avoir plus de détails – cela ne fonctionne que si vous avez déjà indiqué que le client peut vous renvoyer des produits.
 
 En dessous du tableau "Produits" :
 
@@ -34,5 +34,4 @@ L'avoir est désormais créé et disponible dans les détails de la commande, ai
 
 Si vous avez créé un bon de réduction, il le verra dans la section "Bons de réduction" dans son compte utilisateur. S'il clique dessus, la page dédiée apparaîtra.
 
-Le montant des articles renvoyés est ajouté au bon de réduction. Le client peut utiliser différents codes de réduction \(à gauche de la rangée\) la prochaine fois qu'il passe une commande.
-
+Le montant des articles renvoyés est ajouté au bon de réduction. Le client peut utiliser différents codes de réduction (à gauche de la rangée) la prochaine fois qu'il passe une commande.

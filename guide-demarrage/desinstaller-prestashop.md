@@ -7,6 +7,5 @@ PrestaShop se désinstalle très facilement :
 
 
 
-Vous perdrez toutes les informations enregistrées dans votre boutique : clients, commandes, factures, produits, etc.  
+Vous perdrez toutes les informations enregistrées dans votre boutique : clients, commandes, factures, produits, etc.\
 Cette perte de données est irréversible si vous n’avez pas effectué les bonnes sauvegardes.
-
