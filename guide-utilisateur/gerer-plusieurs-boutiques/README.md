@@ -7,7 +7,7 @@ Cette fonctionnalité est particulièrement utile si vous vous trouvez dans l'un
 *   **Vous souhaitez définir un nom de domaine différent pour chacune de vos boutiques. **
 
     ** **
-*   **Vous souhaitez avoir une version B2B et B2C de votre boutique. µ**
+*   **Vous souhaitez avoir une version B2B et B2C de votre boutique. **
 
     ** **
 *   **Vous souhaitez que vos boutiques aient leur propre mise en page et image de marque. **
