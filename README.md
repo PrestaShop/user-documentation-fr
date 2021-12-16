@@ -1,6 +1,6 @@
 # Contribuer à la documentation
 
-Tout comme le logiciel PrestaShop, la documentation est ouverte à tous pour des suggestions, des idées, et des modifications. Tout le monde est bienvenu, et même encouragé, à contribuer à la traduction, à la mise à jour, et à l'écriture de la documentation utilisateur 1.7.&#x20;
+Tout comme le logiciel PrestaShop, la [documentation](https://docs.prestashop-project.org) est ouverte à tous pour des suggestions, des idées, et des modifications. Tout le monde est bienvenu, et même encouragé, à contribuer à la traduction, à la mise à jour, et à l'écriture de la documentation utilisateur 1.7.&#x20;
 
 ![](.gitbook/assets/build-puffin-writing.png)
 
