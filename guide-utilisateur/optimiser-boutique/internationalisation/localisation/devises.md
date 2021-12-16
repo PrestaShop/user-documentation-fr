@@ -48,13 +48,13 @@ Vous pourriez avoir besoin d’ajouter une devise qui n’est incluse dans aucun
 
 ![](https://lh6.googleusercontent.com/YsBSIKAepm2BxMC0g-yudl-7QDDMFWnkW6YF95\_U3rR2O5IGJDJuNC4byWmbcs4KzG0MqI-Ti2jnBX6QBLJN-r8qOUKrQuHgtU2uL5q5GraNXcof4RdDdlXh\_H-dKhaMhOPHqooH)
 
-* **Nom de la devise. **Entrez le nom de la devise.
+* **Nom de la devise.** Entrez le nom de la devise.
 * **Code ISO.** Entrer le code ISO 4217. Voir [Wikipedia ](https://fr.wikipedia.org/wiki/ISO\_4217#Liste\_tri%C3%A9e\_par\_nom\_d%E2%80%99unit%C3%A9\_mon%C3%A9taire)pour plus d’informations. Vous trouverez aussi les codes ISO non officiels ou ceux de devises alternatives comme le Bitcoin.
-* **Taux de change. **Ce taux est défini en fonction de la devise par défaut de votre boutique. Par exemple, si votre devise par défaut est l’euro et votre devise choisie est le dollar, tapez “1.20” (1€ = $1.20).&#x20;
+* **Taux de change.** Ce taux est défini en fonction de la devise par défaut de votre boutique. Par exemple, si votre devise par défaut est l’euro et votre devise choisie est le dollar, tapez “1.20” (1€ = $1.20).&#x20;
 * **Décimales.** Nombre de chiffres après la virgule pour les prix sur votre boutique.&#x20;
-* **État. **Vous pouvez désactiver une devise à n’importe quel moment, à la fois sur la page d’édition et depuis la liste des devises sur la page “Devises”. Lorsque vous créez une nouvelle devise en utilisant le formulaire de création, cette dernière est désactivée par défaut.&#x20;
+* **État.** Vous pouvez désactiver une devise à n’importe quel moment, à la fois sur la page d’édition et depuis la liste des devises sur la page “Devises”. Lorsque vous créez une nouvelle devise en utilisant le formulaire de création, cette dernière est désactivée par défaut.&#x20;
 
-## **Modifier le symbole et le format **
+## **Modifier le symbole et le format**&#x20;
 
 Vous pouvez modifier le format et le symbole de chaque devise en fonction des langues installées sur votre boutique (qu’elles soient activées ou non).
 

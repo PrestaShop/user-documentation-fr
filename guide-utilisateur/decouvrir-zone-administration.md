@@ -80,8 +80,8 @@ Plus que de simples raccourcis, ils ouvrent de réelles fonctionnalités que vou
 
 Les boutons disponibles varient grandement en fonction du contexte. De fait, deux pages peuvent ne pas avoir le même jeu de boutons. Cela étant, il y en a certains que vous verrez souvent :
 
-* **Ajouter. **Ouvre la page de création pour le contenu en cours : nouveau produit, nouvelle catégorie, nouvelle commande, etc.
-* **Modules recommandés. ** Ouvre une fenêtre présentant les modules disponibles pour le contexte en cours. Par exemple, la page Transporteurs affiche les modules de la catégorie Addons "Livraison & Logistique". Cela se révèle très utile pour rapidement trouver un module à installer et à configurer qui correspond au mieux à vos besoins.
+* **Ajouter.** Ouvre la page de création pour le contenu en cours : nouveau produit, nouvelle catégorie, nouvelle commande, etc.
+* **Modules recommandés.** Ouvre une fenêtre présentant les modules disponibles pour le contexte en cours. Par exemple, la page Transporteurs affiche les modules de la catégorie Addons "Livraison & Logistique". Cela se révèle très utile pour rapidement trouver un module à installer et à configurer qui correspond au mieux à vos besoins.
 * **Aide.** Ouvre la documentation en ligne pour la page en cours ("aide contextuelle").
 
 La plupart des formulaires du back office est validée à l'aide des boutons en bas de l'écran :

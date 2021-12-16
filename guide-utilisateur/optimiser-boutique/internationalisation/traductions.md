@@ -6,7 +6,7 @@ Les traductions officielles de PrestaShop proviennent de Crowdin, une plateforme
 Si vous souhaitez contribuer à la traduction de PrestaShop en votre langue, n'hésitez pas à [rejoindre la communauté sur Crowdin](https://crowdin.com/project/prestashop-official).
 {% endhint %}
 
-Sur la page** International > Traductions**, vous pouvez adapter ces traductions officielles à vos besoins. Par exemple, vous pouvez changer la formulation choisie par les traducteurs pour quelque chose de moins formel et personnaliser le texte pour mieux convenir à votre public et rendre votre boutique encore plus unique.
+Sur la page **International > Traductions**, vous pouvez adapter ces traductions officielles à vos besoins. Par exemple, vous pouvez changer la formulation choisie par les traducteurs pour quelque chose de moins formel et personnaliser le texte pour mieux convenir à votre public et rendre votre boutique encore plus unique.
 
 ## Sélectionner le type de traduction à modifier
 

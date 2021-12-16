@@ -14,20 +14,20 @@ Ce chapitre contient les sections suivantes :
 
 Pour créer un produit, cliquez sur  "Nouveau produit" dans la page "Catalogue" (ou appuyez sur CTRL + P). Vous arriverez sur ce qu'on appelle la page produit, qui vous permet de créer des produits ou de modifier les produits existant.
 
-### Onglets <a href="gererlesproduits-onglets" id="gererlesproduits-onglets"></a>
+### Onglets <a href="#gererlesproduits-onglets" id="gererlesproduits-onglets"></a>
 
 Dans PrestaShop 1.7, la page produit contient plusieurs onglets :
 
-* **Essentiel **: il permet de créer un produit rapidement et simplement. Toutefois, si vous devez ajouter d'autres informations à votre produit, vous pouvez le faire grâce aux autres onglets.
-* **Quantités**, **Déclinaisons** ou** Produit virtuel **: il permet de définir les quantités de produit et les options liées au stock. Lorsque votre produit contient des déclinaisons, il est renommé "Déclinaisons". Vous pouvez y gérer les déclinaisons à partir de cet onglet. Si vous créez un produit virtuel, c'est là que vous chargerez l'éventuel fichier associé.
-* **Livraison **: cet onglet contient les informations susceptibles d'avoir une incidence sur la livraison du produit.
-* **Prix **: permet d'affiner vos prix à l'aide de tarifs spéciaux ou de prix à l'unité. D'autres options de tarification existent.
-* **Référencement - SEO **: permet de gérer la méta description ou l'URL du produit pour vous assurer qu'il est correctement optimisé pour les moteurs de recherche.
-* **Options **:  contient des fonctionnalités supplémentaires qui permettent de gérer la visibilité de vos produits, leurs références, de joindre des fichiers ou de lier à des fournisseurs. Cet onglet permet également de configurer la personnalisation.
+* **Essentiel** : il permet de créer un produit rapidement et simplement. Toutefois, si vous devez ajouter d'autres informations à votre produit, vous pouvez le faire grâce aux autres onglets.
+* **Quantités**, **Déclinaisons** ou **Produit virtuel** : il permet de définir les quantités de produit et les options liées au stock. Lorsque votre produit contient des déclinaisons, il est renommé "Déclinaisons". Vous pouvez y gérer les déclinaisons à partir de cet onglet. Si vous créez un produit virtuel, c'est là que vous chargerez l'éventuel fichier associé.
+* **Livraison** : cet onglet contient les informations susceptibles d'avoir une incidence sur la livraison du produit.
+* **Prix** : permet d'affiner vos prix à l'aide de tarifs spéciaux ou de prix à l'unité. D'autres options de tarification existent.
+* **Référencement - SEO** : permet de gérer la méta description ou l'URL du produit pour vous assurer qu'il est correctement optimisé pour les moteurs de recherche.
+* **Options** :  contient des fonctionnalités supplémentaires qui permettent de gérer la visibilité de vos produits, leurs références, de joindre des fichiers ou de lier à des fournisseurs. Cet onglet permet également de configurer la personnalisation.
 
 ![](../../../.gitbook/assets/52298179.png)
 
-### Nom de produit <a href="gererlesproduits-nomdeproduit" id="gererlesproduits-nomdeproduit"></a>
+### Nom de produit <a href="#gererlesproduits-nomdeproduit" id="gererlesproduits-nomdeproduit"></a>
 
 Le premier champ à remplir est le nom de produit. Il s'affiche dans les résultats du moteur de recherche et dans l'URL de votre fiche produit par défaut. A côté du nom du produit, un sélecteur de langue vous permet de choisir dans quelle langue vous souhaitez créer ou éditer l'ensemble de la fiche produit.
 
@@ -37,11 +37,11 @@ Vous devez nommer le produit dans la langue par défaut afin de pouvoir l'enregi
 
 Assurez-vous de traduire les champs dans toutes les langues de votre boutique. Pour cela, cliquez sur le sélecteur de langue en regard du champ du type de produit et choisissez la langue dans laquelle vous souhaitez modifier le produit.
 
-### Type de produit <a href="gererlesproduits-typedeproduit" id="gererlesproduits-typedeproduit"></a>
+### Type de produit <a href="#gererlesproduits-typedeproduit" id="gererlesproduits-typedeproduit"></a>
 
 Ce deuxième élément est essentiel : indiquez si le produit est un pack (une combinaison d'au moins deux produits existants), un produit virtuel (fichier téléchargeable, service, etc.) ou simplement un produit classique, envoyé par courrier. Pour l'instant, nous nous contenterons d'explorer les produits standards, sans déclinaisons. Nous aborderons les produits avec déclinaisons, les packs et les produits virtuels ultérieurement.&#x20;
 
-### Langue <a href="gererlesproduits-langue" id="gererlesproduits-langue"></a>
+### Langue <a href="#gererlesproduits-langue" id="gererlesproduits-langue"></a>
 
 Vous avez peut-être activé plusieurs langues pour votre boutique PrestaShop. Si vous souhaitez vendre auprès de clients à l'étranger, vous devez traduire l'ensemble de votre contenu (description de produit, légendes, etc.) dans ces langues.
 
@@ -51,7 +51,7 @@ Par défaut, la page produit s'affiche dans la langue par défaut de votre bouti
 
 &#x20;Pour ajouter des langues à votre boutique, rendez-vous dans la section International. Vous pouvez soit ajouter une langue dans "Traductions", soit ajouter un pack de localisation dans "Localisation". Pour plus d'informations, consultez la [documentation de la section internationale](http://doc.prestashop.com/display/PS17/Going+International).&#x20;
 
-### Boutons globaux <a href="gererlesproduits-boutonsglobaux" id="gererlesproduits-boutonsglobaux"></a>
+### Boutons globaux <a href="#gererlesproduits-boutonsglobaux" id="gererlesproduits-boutonsglobaux"></a>
 
 ![](../../../.gitbook/assets/52298181.png)
 
@@ -63,10 +63,10 @@ Par défaut, la page produit s'affiche dans la langue par défaut de votre bouti
 
 Plusieurs actions sont possibles en bas de page :
 
-* **Supprimer** (icône de poubelle). Supprime** **le produit et toutes ses données, y compris ses images, déclinaisons, fonctionnalités, etc.
-* **Visualiser. **Affiche la fiche de ce produit telle qu'elle apparaît(ra) dans votre boutique. C'est non seulement pratique, mais cela fonctionne aussi avec les produits désactivés.
+* **Supprimer** (icône de poubelle). Supprime **** le produit et toutes ses données, y compris ses images, déclinaisons, fonctionnalités, etc.
+* **Visualiser.** Affiche la fiche de ce produit telle qu'elle apparaît(ra) dans votre boutique. C'est non seulement pratique, mais cela fonctionne aussi avec les produits désactivés.
 * **Mettre en ligne/hors ligne.** Active ou désactive votre produit. Par défaut, il est désactivé afin que vos clients ne le voient pas dans votre boutique tant qu'il n'est pas fini.
-* **Enregistrer. **Ce bouton enregistre toutes les modifications que vous avez apportées à n'importe quel des onglets du produit, mais vous laisse sur la page du produit en cours de création. C'est particulièrement utile si vous souhaitez changer d'onglet sans perdre les modifications apportées à l'onglet en cours, ou si vous voulez appliquer vos modifications immédiatement.
+* **Enregistrer.** Ce bouton enregistre toutes les modifications que vous avez apportées à n'importe quel des onglets du produit, mais vous laisse sur la page du produit en cours de création. C'est particulièrement utile si vous souhaitez changer d'onglet sans perdre les modifications apportées à l'onglet en cours, ou si vous voulez appliquer vos modifications immédiatement.
 * **Dupliquer**. Crée une copie exacte du produit en cours. C'est particulièrement utile si vous souhaitez utiliser le produit en cours comme base pour un nouveau produit, sans devoir tout recréer à la main. Par exemple, deux produits peuvent être très différents, mais avoir les mêmes associations de produits, les mêmes transporteurs, ou le même fournisseur.\
   \
 
@@ -76,7 +76,7 @@ Ne dupliquez pas trop !
 Si vous souhaitez créer différentes versions d'un même produit, du fait de leurs différences en termes de couleur, de capacité, de taille, etc., alors vous devez mettre en place des déclinaisons de produit plutôt que de dupliquer le produit X fois. Voir l'onglet "Déclinaisons", qui est expliqué dans la section "Ajouter des déclinaisons de produit" de ce chapitre.
 
 * **Accéder au catalogue**. Ce bouton enregistre toutes les modifications apportées à n'importe lequel des onglets du produit, puis vous ramène à la liste des produits.
-* **Ajouter un nouveau produit. **Enregistre les modifications apportées  à toutes les données du produit actuel et ouvre une page pour créer un nouveau produit.
+* **Ajouter un nouveau produit.** Enregistre les modifications apportées  à toutes les données du produit actuel et ouvre une page pour créer un nouveau produit.
 * ![](../../../.gitbook/assets/64225373.png)
 
 Raccourcis clavier
@@ -94,13 +94,13 @@ Certains raccourcis clavier ont été ajoutés dans PrestaShop 1.7. Ils vous per
 
 Complètement revue avec la version 1.7 de PrestaShop, la page produit permet de créer facilement et rapidement un produit.
 
-### Essentiel <a href="gererlesproduits-essentiel" id="gererlesproduits-essentiel"></a>
+### Essentiel <a href="#gererlesproduits-essentiel" id="gererlesproduits-essentiel"></a>
 
 ![](../../../.gitbook/assets/52298183.png)
 
 L'onglet "Essentiel" contient les principales options nécessaires à la création d'un produit de base : quelques clics suffisent pour créer un produit. Vous pouvez accéder à d'autres onglets pour compléter votre produit.
 
-#### Images <a href="gererlesproduits-images" id="gererlesproduits-images"></a>
+#### Images <a href="#gererlesproduits-images" id="gererlesproduits-images"></a>
 
 \
 La section "Image" est située dans la partie supérieure gauche de l'onglet "Essentiel". Elle permet de charger toutes les images relatives au produit, y compris l'ensemble de ses déclinaisons (couleur, taille, forme, etc.).
@@ -111,7 +111,7 @@ Faites glisser vos images directement à partir de votre dossier ou cliquez sur 
 
 ![](../../../.gitbook/assets/64225375.png)
 
-#### **Image de couverture** <a href="gererlesproduits-imagedecouverture" id="gererlesproduits-imagedecouverture"></a>
+#### **Image de couverture** <a href="#gererlesproduits-imagedecouverture" id="gererlesproduits-imagedecouverture"></a>
 
 Les images chargées s'affichent sous forme de miniatures : la première sera l'image de couverture. Cette image de couverture sera celle par défaut sur la fiche produit de votre boutique.
 
@@ -122,30 +122,30 @@ Vous pouvez changer l'image de couverture en cliquant sur la miniature de l'imag
 * **Zoom.** Affiche l'image en taille réelle dans le cas où vous souhaitiez voir le produit de plus près.
 * **Légende.** Chaque image peut comporter une légende décrivant brièvement l'image (et le produit). C'est notamment important pour le SEO puisque la légende est considérée comme l'attribut alt de l'image, et dès lors favorise votre résultat dans les moteurs de recherche. Si vous avez plusieurs langues disponibles, n'oubliez pas de traduire les légendes !
 
-#### Tri des images <a href="gererlesproduits-tridesimages" id="gererlesproduits-tridesimages"></a>
+#### Tri des images <a href="#gererlesproduits-tridesimages" id="gererlesproduits-tridesimages"></a>
 
 Une fois que vous avez chargé toutes les images du produit, vous pouvez modifier leur ordre en glissant-déposant chaque image. Vous pouvez également ajouter des images en cliquant sur l'icône "+" ou en les faisant glisser dans l'encadré.
 
 ![](<../../../.gitbook/assets/52298186 (1).gif>)
 
-#### Récapitulatif et description <a href="gererlesproduits-recapitulatifetdescription" id="gererlesproduits-recapitulatifetdescription"></a>
+#### Récapitulatif et description <a href="#gererlesproduits-recapitulatifetdescription" id="gererlesproduits-recapitulatifetdescription"></a>
 
 La description de votre produit est essentielle, tant pour le client (plus il dispose d'informations, mieux c'est) que pour les moteurs de recherche (cela permet à votre boutique d'apparaître dans plus de résultats de recherche).
 
 En bas de l'écran, les deux champs de description ont des finalités différentes :
 
 * Le champ **"Résumé"** vous permet de rédiger une rapide description qui apparaîtra dans les moteurs de recherche et dans le descriptif du produit. Ce champ est limité à 400 caractères par défaut : si vous dépassez cette limite PrestaShop affichera un avertissement en rouge.
-* Le champ **"Description" **vous permet d'écrire une description complète de votre produit, qui apparaîtra directement sur la page produit. L'éditeur de texte vous donne accès à un grand nombre d'options pour créer une description visuellement agréable (police, taille, couleur, etc.). Si le second champ n'est pas limité en caractères, évitez cependant de trop en mettre : efforcez-vous de ne mettre que les informations essentielles de manière convaincante, et votre produit en sortira grandi.
+* Le champ **"Description"** vous permet d'écrire une description complète de votre produit, qui apparaîtra directement sur la page produit. L'éditeur de texte vous donne accès à un grand nombre d'options pour créer une description visuellement agréable (police, taille, couleur, etc.). Si le second champ n'est pas limité en caractères, évitez cependant de trop en mettre : efforcez-vous de ne mettre que les informations essentielles de manière convaincante, et votre produit en sortira grandi.
 
-#### ![](<../../../.gitbook/assets/52298186 (1).gif>) <a href="gererlesproduits" id="gererlesproduits"></a>
+#### ![](<../../../.gitbook/assets/52298186 (1).gif>) <a href="#gererlesproduits" id="gererlesproduits"></a>
 
-#### Caractéristiques <a href="gererlesproduits-caracteristiques" id="gererlesproduits-caracteristiques"></a>
+#### Caractéristiques <a href="#gererlesproduits-caracteristiques" id="gererlesproduits-caracteristiques"></a>
 
 Plusieurs options sont disponibles en-dessous des descriptions de produit. L'option "Ajouter une caractéristique" permet de spécifier les caractéristiques de vos produits (poids, matériau, pays d'origine, etc.). Quand vous créez des caractéristiques et des valeurs (par exemple, laine et microfibre), vous les assignez aux produits lorsque c'est approprié. Cela signifie que vous n'avez pas à remplir les champs de caractéristiques pour chacun de vos produits mais simplement à remplir les valeurs requises et à les appliquer plus tard.
 
 Notez que **contrairement aux déclinaisons, ces valeurs ne changent pas et sont valables pour le produit en général** (cela signifie que toutes les déclinaisons partagent les mêmes caractéristiques).
 
-#### Créer une caractéristique <a href="gererlesproduits-creerunecaracteristique" id="gererlesproduits-creerunecaracteristique"></a>
+#### Créer une caractéristique <a href="#gererlesproduits-creerunecaracteristique" id="gererlesproduits-creerunecaracteristique"></a>
 
 Avant d'ajouter une caractéristique au produit, vous devez en créer une à usage global au sein de votre boutique. Vous pouvez soit aller sur la page "Attributs et Caractéristiques" du menu "Catalogue".
 
@@ -153,7 +153,7 @@ La création de caractéristiques et de valeurs de caractéristique est expliqu�
 
 ![](../../../.gitbook/assets/52298188.png)
 
-#### **Attribuer une valeur à une caractéristique** <a href="gererlesproduits-attribuerunevaleuraunecaracteristique" id="gererlesproduits-attribuerunevaleuraunecaracteristique"></a>
+#### **Attribuer une valeur à une caractéristique** <a href="#gererlesproduits-attribuerunevaleuraunecaracteristique" id="gererlesproduits-attribuerunevaleuraunecaracteristique"></a>
 
 Nous allons partir du principe que vous avez déjà configuré toutes vos caractéristiques et vos valeurs de caractéristique.
 
@@ -163,7 +163,7 @@ Si des valeurs prédéfinies sont disponibles, elles apparaîtront dans une list
 
 Souvenez-vous : si une caractéristique n'a pas de valeur assignée, elle ne sera pas prise en compte pour ce produit et ne sera pas visible sur votre boutique.
 
-#### **Marque ** <a href="gererlesproduits-marque" id="gererlesproduits-marque"></a>
+#### **Marque**  <a href="#gererlesproduits-marque" id="gererlesproduits-marque"></a>
 
 Vous pouvez créer une marque de la même manière qu'une caractéristique. Cliquez sur "Ajouter une marque" et sélectionnez une marque dans le menu déroulant.
 
@@ -173,7 +173,7 @@ Un produit ne peut être associé qu'à une seule marque.
 
 ![](../../../.gitbook/assets/52298189.png)
 
-#### **Produit associé** <a href="gererlesproduits-produitassocie" id="gererlesproduits-produitassocie"></a>
+#### **Produit associé** <a href="#gererlesproduits-produitassocie" id="gererlesproduits-produitassocie"></a>
 
 Le champ "Ajouter un produit associé" permet de choisir les produits pertinents à associer au produit, pour les suggérer à vos clients lorsqu'ils consultent la fiche produit (en fonction du thème que vous utilisez). Cliquez sur "Ajouter un produit associé", saisissez les premières lettres du produit et sélectionnez-le. Le produit est ajouté en dessous du champ.
 
@@ -183,7 +183,7 @@ Vous pouvez associer un produit à autant de produits que nécessaire. Cliquez s
 
 Les associations sont unilatérales : le produit associé ne proposera pas d'association au produit en cours dans la page de configuration.
 
-#### Déclinaisons <a href="gererlesproduits-declinaisons" id="gererlesproduits-declinaisons"></a>
+#### Déclinaisons <a href="#gererlesproduits-declinaisons" id="gererlesproduits-declinaisons"></a>
 
 ![](../../../.gitbook/assets/52298191.png)
 
@@ -199,7 +199,7 @@ La création d'attribut se fait dans la page "Attributs et Caractéristiques" du
 \
 Pour plus d'informations sur les Déclinaisons, veuillez lire la section dédiée à la fin de chapitre.
 
-#### Quantité <a href="gererlesproduits-quantite" id="gererlesproduits-quantite"></a>
+#### Quantité <a href="#gererlesproduits-quantite" id="gererlesproduits-quantite"></a>
 
 Indiquez quelle quantité de ce produit est disponible à la vente.
 
@@ -207,7 +207,7 @@ Cette option n'apparait pas si vous êtes en train de créer un produit avec dé
 
 D'autres options liées aux quantités existent dans l'onglet "Quantités".
 
-#### Prix <a href="gererlesproduits-prix" id="gererlesproduits-prix"></a>
+#### Prix <a href="#gererlesproduits-prix" id="gererlesproduits-prix"></a>
 
 ![](../../../.gitbook/assets/52298192.png)
 
@@ -221,7 +221,7 @@ Davantage de réglages liés aux prix sont disponibles dans l'onglet "Prix". Que
 
 La création de taxe se passe dans la page "Taxes" du menu "International".
 
-#### Catégories <a href="gererlesproduits-categories" id="gererlesproduits-categories"></a>
+#### Catégories <a href="#gererlesproduits-categories" id="gererlesproduits-categories"></a>
 
 ![](../../../.gitbook/assets/51185100.png)
 
@@ -258,22 +258,22 @@ Une nouvelle catégorie n'apparaît pas automatiquement dans le menu de votre bo
 
 Ne vous arrêtez pas là pour autant, les autres onglets contiennent de nombreuses options qui rendront votre produit encore plus intéressant pour vos visiteurs !
 
-### **Quantités** <a href="gererlesproduits-quantites" id="gererlesproduits-quantites"></a>
+### **Quantités** <a href="#gererlesproduits-quantites" id="gererlesproduits-quantites"></a>
 
 Les quantités de produit sont gérées depuis un même onglet. PrestaShop utilisera ces informations pour déterminer à quel moment un produit est hors stock ou indisponible.
 
 ![](../../../.gitbook/assets/57606478.png)
 
-#### Produit standard  <a href="gererlesproduits-produitstandard" id="gererlesproduits-produitstandard"></a>
+#### Produit standard  <a href="#gererlesproduits-produitstandard" id="gererlesproduits-produitstandard"></a>
 
 Pour un produit standard, vous n'avez que quatre champs :
 
-* **Quantité. **Définissez le nombre de produits à vendre. La valeur est la même que pour "Essentiel".
+* **Quantité.** Définissez le nombre de produits à vendre. La valeur est la même que pour "Essentiel".
 * **Emplacement du stock.** Nous savons qu'il est important pour un marchand de perdre le moins de temps possible à chercher un produit. D'où ce champ.
 * **Quantité minimum pour la vente**. Vous pourriez préférer vendre ce produit par lots. Utilisez ce champ pour définir le nombre d'éléments à vendre par lots. Cela signifie que les clients pourront acheter ce produit uniquement lorsqu'ils atteignent la quantité minimum définie.
 * **Alertes de stock.** Vous avez également la possibilité de créer une alerte quand le niveau de votre stock baisse. Indiquer un seuil et cocher la case "M'envoyer un email quand la quantité est en dessous ou égale à ce niveau" pour permettre à tous les utilisateurs ayant accès à la page des stocks de recevoir une alerte. Les permissions sont modifiables dans [Paramètres avancés > Equipe](http://doc.prestashop.com/display/PS17/Equipe).
 
-#### Produit avec déclinaisons <a href="gererlesproduits-produitavecdeclinaisons" id="gererlesproduits-produitavecdeclinaisons"></a>
+#### Produit avec déclinaisons <a href="#gererlesproduits-produitavecdeclinaisons" id="gererlesproduits-produitavecdeclinaisons"></a>
 
 Le fonctionnement des produits avec déclinaisons est très simple : la page présente un tableau de toutes les déclinaisons du produit en cours (si aucune déclinaison n'existe, le tableau contient une seule ligne). C'est une manière de définir le stock d'origine pour toutes les déclinaisons.
 
@@ -281,9 +281,9 @@ Pour plus d'informations sur les déclinaisons de produit, consultez la section 
 
 &#x20;Les packs et les produits virtuels ont une gestion des stocks différente, vous trouverez la section dédiée à la fin de ce chapitre.
 
-#### Préférences de disponibilité <a href="gererlesproduits-preferencesdedisponibilite" id="gererlesproduits-preferencesdedisponibilite"></a>
+#### Préférences de disponibilité <a href="#gererlesproduits-preferencesdedisponibilite" id="gererlesproduits-preferencesdedisponibilite"></a>
 
-**Comportement en cas de rupture de stock **
+**Comportement en cas de rupture de stock**&#x20;
 
 L'option "Comportement en cas de rupture de stock" vous permet de définir le comportement de PrestaShop lorsque le produit est en rupture de stock :&#x20;
 
@@ -299,7 +299,7 @@ L'option "Comportement en cas de rupture de stock" vous permet de définir le co
 
 Vous pouvez également configurer le réglage global à appliquer à tous les produits. Le réglage par défaut consiste à refuser les commandes, mais vous pouvez le modifier dans la page de préférences "Produits" (option "Autoriser la commande de produits en rupture de stock").
 
-### **Livraison** <a href="gererlesproduits-livraison" id="gererlesproduits-livraison"></a>
+### **Livraison** <a href="#gererlesproduits-livraison" id="gererlesproduits-livraison"></a>
 
 L'onglet "Livraison" permet de donner des détails précieux sur l'envoi de votre produit. Il n'est pas disponible pour les produits virtuels.
 
@@ -315,11 +315,11 @@ L'onglet "Livraison" permet de donner des détails précieux sur l'envoi de votr
 * **Frais de port supplémentaires**. Une indication qui peut vous être très utile dans le cas de produits particulièrement délicats ou compliqués à emballer, ou ceux très lourds.
 * **Transporteurs**. Vous pouvez choisir de n'autoriser ce produit à être expédié que par une sélection de transporteurs. Si aucun transporteur n'est sélectionné, alors tous les transporteurs seront considérés comme disponibles pour les clients.
 
-### **Prix** <a href="gererlesproduits-prix.1" id="gererlesproduits-prix.1"></a>
+### **Prix** <a href="#gererlesproduits-prix.1" id="gererlesproduits-prix.1"></a>
 
 L'onglet "Prix" permet d'affiner votre stratégie de tarification, en utilisant des prix alternatifs (prix à l'unité) ou en créant des règles de prix spécifiques au produit.
 
-#### **Prix de vente** <a href="gererlesproduits-prixdevente" id="gererlesproduits-prixdevente"></a>
+#### **Prix de vente** <a href="#gererlesproduits-prixdevente" id="gererlesproduits-prixdevente"></a>
 
 Définissez le prix de vente du produit.
 
@@ -332,13 +332,13 @@ Définissez le prix de vente du produit.
 
 Vous pouvez remplir le champ  "Prix - montant HT" et choisir la règle de taxe à appliquer, et le prix de détail TTC sera calculé automatiquement. L'opération opposée est aussi possible.
 
-#### Prix d'achat <a href="gererlesproduits-prixdachat" id="gererlesproduits-prixdachat"></a>
+#### Prix d'achat <a href="#gererlesproduits-prixdachat" id="gererlesproduits-prixdachat"></a>
 
 Entrez le prix que vous avez payé pour le produit (le prix d'achat ou de fabrication du produit). Vous pourrez le comparer à votre prix de vente pour calculer facilement le profit.
 
 Le prix d'achat doit être inférieur au prix de vente.
 
-#### Prix spécifiques : gérer les réductions <a href="gererlesproduits-prixspecifiques-gererlesreductions" id="gererlesproduits-prixspecifiques-gererlesreductions"></a>
+#### Prix spécifiques : gérer les réductions <a href="#gererlesproduits-prixspecifiques-gererlesreductions" id="gererlesproduits-prixspecifiques-gererlesreductions"></a>
 
 Vous pouvez modifier le prix final de vente d'un produit en fonction de la quantité qu'achète un client, de son groupe de client, de son pays, etc. Pour ce faire, passez par la section "Prix spécifiques" de l'onglet "Prix". Cliquez sur "Ajouter un prix spécifique" pour faire apparaître un formulaire.
 
@@ -360,7 +360,7 @@ Si vous souhaitez le supprimer, cliquez sur l'icône "poubelle" dans le tableau.
 
 Si vous souhaitez construire des promotions plus complexes, découvrez le menu "Règle de prix" en lisant le chapitre "Mettre en place des promotions" de ce guide.
 
-#### **Gérer les priorités de prix** <a href="gererlesproduits-gererlesprioritesdeprix" id="gererlesproduits-gererlesprioritesdeprix"></a>
+#### **Gérer les priorités de prix** <a href="#gererlesproduits-gererlesprioritesdeprix" id="gererlesproduits-gererlesprioritesdeprix"></a>
 
 Un client peut correspondre à plusieurs prix et plusieurs règles de réduction, même si vous avez pris le temps de créer des règles très précises, avec des groupes personnalisés et même des boutiques créées spécifiquement (dans un contexte multiboutique). PrestaShop vous permet donc en plus de définir des règles de priorités afin de n'appliquer qu'une seule règle de réduction pour ces clients. Vous pourriez par exemple vouloir que le groupe soit plus important que la monnaie utilisée.
 
@@ -377,7 +377,7 @@ L'ordre d'importance par défaut est :
 
 La case à cocher "Appliquer à tous les produits" vous permet de mettre à jour les réglages de tous les produits. Si la case à cocher reste vide, vos modifications ne s'appliqueront alors qu'au produit en cours.
 
-### Améliorer la position de votre produit dans les moteurs de recherche (Référencement - SEO) <a href="gererlesproduits-ameliorerlapositiondevotreproduitdanslesmoteursderecherche-referencement-seo" id="gererlesproduits-ameliorerlapositiondevotreproduitdanslesmoteursderecherche-referencement-seo"></a>
+### Améliorer la position de votre produit dans les moteurs de recherche (Référencement - SEO) <a href="#gererlesproduits-ameliorerlapositiondevotreproduitdanslesmoteursderecherche-referencement-seo" id="gererlesproduits-ameliorerlapositiondevotreproduitdanslesmoteursderecherche-referencement-seo"></a>
 
 Pour améliorer votre liste de produits et augmenter la visibilité de votre boutique, nous vous suggérons de remplir soigneusement les différents champs SEO : balises, méta descriptions, mots-clés et URL simplifiée...
 
@@ -389,7 +389,7 @@ Pour accéder à ces informations, ouvrez l'onglet "Référencement - SEO" à ga
 
 ![](../../../.gitbook/assets/57606474.png)
 
-#### Référencement <a href="gererlesproduits-referencement" id="gererlesproduits-referencement"></a>
+#### Référencement <a href="#gererlesproduits-referencement" id="gererlesproduits-referencement"></a>
 
 Les champs de cette page vous permettent d'optimiser directement la visibilité de votre catalogue sur les moteurs de recherche.
 
@@ -413,21 +413,21 @@ Les URL simplifiées ne fonctionnent que si la réécriture d'URL est activée. 
 
 Vous en apprendrez plus sur cette page dans le chapitre "Trafic et SEO" de ce guide.
 
-#### Page de redirection <a href="gererlesproduits-pagederedirection" id="gererlesproduits-pagederedirection"></a>
+#### Page de redirection <a href="#gererlesproduits-pagederedirection" id="gererlesproduits-pagederedirection"></a>
 
 Quand votre produit est désactivé, sa fiche produit n'est plus disponible sur votre boutique. Vous devez alors décider quoi afficher à vos visiteurs à la place :
 
 * **Pas de redirection (404).** Cela affichera une page "Erreur 404 - page non trouvée".
-* **Redirection permanente (301). **Cela redirigera de façon permanente vos visiteurs vers une autre page produit ou catégorie. L'URL actuelle de votre fiche produit ne sera plus indexée par les moteurs de recherche : elle sera remplacée par l'URL de la fiche produit ou catégorie de votre choix. Choisissez quel produit ou catégorie vous souhaitez donc afficher à la place. Rappelez-vous, ce choix est définitif, aussi assurez-vous que vous n'aurez plus besoin de cette URL avant d'activer cette redirection !
+* **Redirection permanente (301).** Cela redirigera de façon permanente vos visiteurs vers une autre page produit ou catégorie. L'URL actuelle de votre fiche produit ne sera plus indexée par les moteurs de recherche : elle sera remplacée par l'URL de la fiche produit ou catégorie de votre choix. Choisissez quel produit ou catégorie vous souhaitez donc afficher à la place. Rappelez-vous, ce choix est définitif, aussi assurez-vous que vous n'aurez plus besoin de cette URL avant d'activer cette redirection !
 * **Redirection temporaire (302).** C'est une redirection temporaire vers une autre fiche produit ou catégorie. Choisissez quelle fiche produit ou catégorie vous souhaitez afficher à la place. Les moteurs de recherche indexeront toujours l'URL de votre fiche produit, aussi vous la réutilisez plus tard, si vous souhaitez réactiver le produit par la suite, par exemple.
 
 Dans le cas où vous souhaiteriez afficher une page catégorie, sélectionnez bien la catégorie vers laquelle vous voulez rediriger vos visiteurs.
 
-### **Options** <a href="gererlesproduits-options" id="gererlesproduits-options"></a>
+### **Options** <a href="#gererlesproduits-options" id="gererlesproduits-options"></a>
 
 L'onglet "Options" propose des réglages supplémentaires pour gérer vos différentes références, vos fournisseurs, la personnalisation de produits, la visibilité et les fichiers joints.
 
-#### **Visibilité** <a href="gererlesproduits-visibilite" id="gererlesproduits-visibilite"></a>
+#### **Visibilité** <a href="#gererlesproduits-visibilite" id="gererlesproduits-visibilite"></a>
 
 Vous pouvez rendre le produit uniquement accessible par certains chemins :
 
@@ -442,7 +442,7 @@ Vous pouvez rendre le produit uniquement accessible par certains chemins :
 * **Afficher le prix**. Si l'option "disponible à la vente" ci-dessus est activée, vous pouvez choisir d'afficher le prix malgré tout, même si les clients ne pourront pas acheter le produit.
 * **Exclusivité web (non vendu en magasin)**. Si votre société dispose de magasins en dur, cette option peut s'avérer très utile : elle signale au client que le produit ne peut être acheté qu'en ligne, ce qui évitera la venue en magasin de clients qui vérifient le prix en ligne puis font le trajet pour éviter les frais de port.
 
-#### Mots-clés <a href="gererlesproduits-mots-cles" id="gererlesproduits-mots-cles"></a>
+#### Mots-clés <a href="#gererlesproduits-mots-cles" id="gererlesproduits-mots-cles"></a>
 
 Les mots-clés sont des termes ou expressions qui permettent à vos clients de facilement trouver ce qu'ils cherchent sur votre site. Quand ils utilisent la barre de recherche pour explorer votre catalogue, ils taperont des mots-clés spécifiques. Choisissez les mots-clés les plus adaptés à votre produit, tels que les clients les taperont pour y accéder.
 
@@ -456,7 +456,7 @@ All the tags can be seen in the "Search" page, under the "Shop Parameters" menu.
 
 Les mots-clés sont différents des meta mots-clés : ils n'ont aucune incidence sur votre référencement.
 
-#### Condition & Références <a href="gererlesproduits-condition-and-references" id="gererlesproduits-condition-and-references"></a>
+#### Condition & Références <a href="#gererlesproduits-condition-and-references" id="gererlesproduits-condition-and-references"></a>
 
 **Condition**. Toutes les boutiques en ligne ne font pas que vendre des produits neufs, et certaines marketplace demandent cette information. Cette option vous permet d'indiquer l'état du produit.
 
@@ -473,7 +473,7 @@ Les mots-clés sont différents des meta mots-clés : ils n'ont aucune incidence
 
 
 
-#### Personnalisation <a href="gererlesproduits-personnalisation" id="gererlesproduits-personnalisation"></a>
+#### Personnalisation <a href="#gererlesproduits-personnalisation" id="gererlesproduits-personnalisation"></a>
 
 Votre boutique en ligne PrestaShop offre à vos clients la possibilité de personnaliser les produits qu'ils vont acheter.
 
@@ -528,7 +528,7 @@ Il peut ensuite parcourir la commande, qui indiquera les images et textes dans l
 
 Le reste du processus de commande et de livraison se déroule comme d'habitude.
 
-#### Joindre un fichier <a href="gererlesproduits-joindreunfichier" id="gererlesproduits-joindreunfichier"></a>
+#### Joindre un fichier <a href="#gererlesproduits-joindreunfichier" id="gererlesproduits-joindreunfichier"></a>
 
 PrestaShop vous permet de mettre certains fichiers à disposition de vos clients avant qu'ils ne passent commande. Tout se passe dans l'onglet "Documents joints" à gauche.
 
@@ -557,7 +557,7 @@ Si vous souhaitez supprimer le fichier de la fiche produit, vous pouvez le dés�
 
 Vous pouvez consulter tous les documents joints de votre boutique, en ajouter d'autres ou en enlever, en vous rendant sur la page "Documents joints" du menu "Catalogue". Elle permet par ailleurs d'utiliser les fichiers que vous avez attaché à un produit pour un autre produit : si vous avez besoin d'appliquer à de nombreux produits un fichier déjà associé à un autre produit, vous n'aurez ainsi qu'à le mettre en ligne une fois.
 
-#### Fournisseurs <a href="gererlesproduits-fournisseurs" id="gererlesproduits-fournisseurs"></a>
+#### Fournisseurs <a href="#gererlesproduits-fournisseurs" id="gererlesproduits-fournisseurs"></a>
 
 Indiquer le fournisseur du produit n'est pas vraiment important pour vos clients (beaucoup moins que peut l'être sa marque, le plus souvent). Pourtant, cela peut se révéler un élément essentiel de votre propre gestion interne, notamment pour la gestion de votre stock: il vous suffit de savoir à qui vous avez acheté le produit. Le fournisseur du produit en cours doit être défini dans la section "Fournisseurs".
 
@@ -594,9 +594,9 @@ La création d'attributs s'effectue dans la page "Attributs produit" du menu "Ca
 
 Le choix du mode d'association des attributs de votre produit vous appartient. PrestaShop vous propose deux méthodes pour y parvenir.&#x20;
 
-### Ajout de déclinaisons <a href="gererlesproduits-ajoutdedeclinaisons" id="gererlesproduits-ajoutdedeclinaisons"></a>
+### Ajout de déclinaisons <a href="#gererlesproduits-ajoutdedeclinaisons" id="gererlesproduits-ajoutdedeclinaisons"></a>
 
-#### Méthode manuelle <a href="gererlesproduits-methodemanuelle" id="gererlesproduits-methodemanuelle"></a>
+#### Méthode manuelle <a href="#gererlesproduits-methodemanuelle" id="gererlesproduits-methodemanuelle"></a>
 
 Cette méthode vous permet de créer des associations l'une après l'autre. Par conséquent,elle est réservée aux produits ayant peu de déclinaisons ou aux produits ayant des déclinaisons spécifiques qui ne peuvent pas être créés à l'aide de la méthode automatique (voir section suivante).
 
@@ -618,7 +618,7 @@ Vous pouvez supprimer une paire attribut-valeur en cochant la case correspondant
 
 ![](../../../.gitbook/assets/52298201.gif)
 
-#### Méthode automatique <a href="gererlesproduits-methodeautomatique" id="gererlesproduits-methodeautomatique"></a>
+#### Méthode automatique <a href="#gererlesproduits-methodeautomatique" id="gererlesproduits-methodeautomatique"></a>
 
 Si vous avez trop de versions de produits différents, vous pouvez utiliser le générateur de déclinaisons de produits. Cet outil permet de générer automatiquement toutes les déclinaisons et les éventualités.
 
@@ -632,13 +632,13 @@ Voici ce que vous devriez faire :
 
 Si vous n'avez qu'une déclinaison, vous pouvez modifier sa quantité directement dans le tableau, modifiez-la (en cliquant sur l'icône de crayon à papier) ou supprimez-la (à l'aide de l'icône de poubelle).
 
-### Gestion des déclinaisons <a href="gererlesproduits-gestiondesdeclinaisons" id="gererlesproduits-gestiondesdeclinaisons"></a>
+### Gestion des déclinaisons <a href="#gererlesproduits-gestiondesdeclinaisons" id="gererlesproduits-gestiondesdeclinaisons"></a>
 
-#### Déclinaison par défaut <a href="gererlesproduits-declinaisonpardefaut" id="gererlesproduits-declinaisonpardefaut"></a>
+#### Déclinaison par défaut <a href="#gererlesproduits-declinaisonpardefaut" id="gererlesproduits-declinaisonpardefaut"></a>
 
 Lorsque plusieurs déclinaisons sont disponibles, choisissez une déclinaison par défaut, il s'agit de la déclinaison que verront vos clients en arrivant sur la fiche produit. S'ils souhaitent acheter une autre déclinaison, ils devront la sélectionner eux-mêmes (en modifiant la couleur, la taille ou tout autre attribut).
 
-#### Modification d'une déclinaison <a href="gererlesproduits-modificationdunedeclinaison" id="gererlesproduits-modificationdunedeclinaison"></a>
+#### Modification d'une déclinaison <a href="#gererlesproduits-modificationdunedeclinaison" id="gererlesproduits-modificationdunedeclinaison"></a>
 
 Vous pouvez gérer chaque déclinaison de manière plus détaillée en cliquant sur l'icône de modification. Cela ouvrir une petite fenêtre qui vous permettra de modifier les informations relatives à cette déclinaison.
 
@@ -658,7 +658,7 @@ Une fois que aurez terminé de modifier une déclinaison, vous pouvez soit :
 * revenir à la combinaison précédente ou à passer à la suivante en cliquant sur "Préc. déclinaison" ou "Déclinaison suivante"
 * revenir au produit en cliquant "Retour au produit" en bas de page
 
-#### Actions groupées <a href="gererlesproduits-actionsgroupees" id="gererlesproduits-actionsgroupees"></a>
+#### Actions groupées <a href="#gererlesproduits-actionsgroupees" id="gererlesproduits-actionsgroupees"></a>
 
 Vous pouvez modifier les détails pour une ou plusieurs combinaisons à la fois.
 
@@ -671,7 +671,7 @@ Si vous souhaitez supprimer toutes les déclinaisons sélectionnées, cliquez su
 
 Une fois tous les détails de déclinaison définis, enregistrez les modifications de votre produit à l'aide du bouton "Enregistrer et rester". Votre déclinaison apparaîtra dans la liste des attributs en bas de l'écran.
 
-### Création d'un produit virtuel <a href="gererlesproduits-creationdunproduitvirtuel" id="gererlesproduits-creationdunproduitvirtuel"></a>
+### Création d'un produit virtuel <a href="#gererlesproduits-creationdunproduitvirtuel" id="gererlesproduits-creationdunproduitvirtuel"></a>
 
 Votre boutique peut inclure des produits virtuels (partiellement ou exclusivement) c'est-à-dire, des produits qui ne sont pas livrés mais plutôt téléchargés : des tickets de spectacle, des ebooks, des fichiers PDF, des services en temps-réel... PrestaShop vous aide à créer un produit virtuel.
 
@@ -695,7 +695,7 @@ Lorsque vous cliquez sur "Oui", PrestaShop ouvre un nouveau formulaire dans l'on
 
 ![](../../../.gitbook/assets/52298204.png)
 
-* **Fichier. **Cliquez sur le bouton "Parcourir" pour trouver le fichier sur votre disque dur. Dès que vous avez sélectionné un fichier, le téléchargement commence.
+* **Fichier.** Cliquez sur le bouton "Parcourir" pour trouver le fichier sur votre disque dur. Dès que vous avez sélectionné un fichier, le téléchargement commence.
 
 La taille maximale d'envoi de fichier dépend de la configuration de votre serveur, ne peut pas être augmentée par PrestaShop.
 
@@ -718,7 +718,7 @@ Si vous vendez des images en haute résolution, le fait de les mettre en ligne �
 
 Une fois que vous avez défini l'onglet "Produit virtuel", vous pouvez modifier tous les autres onglets disponibles comme s'il s'agissait d'un produit ordinaire.
 
-### Créer un pack de produits <a href="gererlesproduits-creerunpackdeproduits" id="gererlesproduits-creerunpackdeproduits"></a>
+### Créer un pack de produits <a href="#gererlesproduits-creerunpackdeproduits" id="gererlesproduits-creerunpackdeproduits"></a>
 
 Vous pourriez souhaiter vendre un pack de produits composé de plusieurs articles. Par exemple : un pack ordinateur "démarrage", comprenant la machine, un écran et une imprimante. PrestaShop vous facilite la création d'un tel pack à partir des produits enregistrés dans votre catalogue.
 
@@ -740,7 +740,7 @@ Cette action a deux conséquences :
 * Dans "Essentiel", vous pouvez maintenant choisir les produits à inclure au pack.
 * Dans "Quantités", vous pouvez sélectionner la manière dont les stocks seront gérés.
 
-### Ajouter des produits à votre pack <a href="gererlesproduits-ajouterdesproduitsavotrepack" id="gererlesproduits-ajouterdesproduitsavotrepack"></a>
+### Ajouter des produits à votre pack <a href="#gererlesproduits-ajouterdesproduitsavotrepack" id="gererlesproduits-ajouterdesproduitsavotrepack"></a>
 
 * Le premier champ permet de rechercher des produits déjà enregistrés dans votre boutique.
 * Le deuxième permet d'indiquer la quantité de produits choisis à ajouter au pack.
@@ -752,7 +752,7 @@ Vous pouvez ajouter autant de produits que vous le souhaitez au pack.
 
 Vous pouvez supprimer un produit du pack en cliquant sur l'icône de poubelle au survol.
 
-### Gérer les quantités de pack <a href="gererlesproduits-gererlesquantitesdepack" id="gererlesproduits-gererlesquantitesdepack"></a>
+### Gérer les quantités de pack <a href="#gererlesproduits-gererlesquantitesdepack" id="gererlesproduits-gererlesquantitesdepack"></a>
 
 Lorsque vous créez un pack de produits, PrestaShop doit savoir comment gérer le stock. Dans l'onglet "Quantités", sous "Quantités de pack", choisissez l'une des options suivantes :
 

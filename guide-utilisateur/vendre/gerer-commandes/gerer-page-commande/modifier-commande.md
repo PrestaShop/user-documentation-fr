@@ -39,7 +39,7 @@ Afin d'avoir un meilleur aperçu de l'activité de la commande, chaque changemen
 
 Vous pouvez obtenir de nombreux documents PDF à partir de la page commande. Lorsqu'ils sont disponibles, ils sont répertoriés dans l'onglet Documents de la section administrative.&#x20;
 
-* **Imprimer/télécharger la commande **
+* **Imprimer/télécharger la commande**&#x20;
 
 Vous pouvez imprimer ou télécharger la commande au format PDF en cliquant sur le bouton "Imprimer la commande" en haut de la page.&#x20;
 
@@ -53,7 +53,7 @@ Vous pouvez télécharger la facture en cliquant sur le bouton "Voir la facture"
 Voici un conseil pour les commerçants les plus à l'aise en informatique : Vous pouvez personnaliser la présentation de la facture ! Les fichiers modèles PDF se trouvent dans le dossier /pdf. Ces fichiers .tpl sont en fait des fichiers HTML avec des balises Smarty pour les données dynamiques. Vous pouvez modifier la présentation de la facture en éditant le fichier nommé "invoice.tpl".&#x20;
 {% endhint %}
 
-* **Télécharger le bon de livraison **
+* **Télécharger le bon de livraison**&#x20;
 
 Si l'état de la commande est en cours de préparation, un bon de livraison au format PDF est automatiquement généré. Vous pouvez le télécharger à partir de l'onglet Documents ou cliquer sur le bouton "Afficher le bon de livraison" en haut de la page.
 
@@ -153,7 +153,7 @@ Dans la section Client de la page commande, vous pouvez ajouter un commentaire p
 
 ### Attacher un message à la commande :e-mail:&#x20;
 
-Vous pourriez avoir besoin d'envoyer un message à votre client pour le tenir informé de l'avancement de sa commande ou lui faire part d'un imprévu. **La communication est la clé d'une bonne expérience client ! **Et la bonne nouvelle, c'est que vous pouvez le faire très facilement à partir de la page de commande :&#x20;
+Vous pourriez avoir besoin d'envoyer un message à votre client pour le tenir informé de l'avancement de sa commande ou lui faire part d'un imprévu. **La communication est la clé d'une bonne expérience client !** Et la bonne nouvelle, c'est que vous pouvez le faire très facilement à partir de la page de commande :&#x20;
 
 Écrivez votre message dans le champ message et envoyez-le.&#x20;
 

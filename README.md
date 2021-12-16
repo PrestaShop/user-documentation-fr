@@ -1,75 +1,59 @@
-# Documentation française - PrestaShop 1.7
+# Contribuer à la documentation
 
-## About the user documentation
+Tout comme le logiciel PrestaShop, la documentation est ouverte à tous pour des suggestions, des idées, et des modifications. Tout le monde est bienvenu, et même encouragé, à contribuer à la traduction, à la mise à jour, et à l'écriture de la documentation utilisateur 1.7.&#x20;
 
-Here is the [repository](https://github.com/PrestaShop/user-documentation-fr) where you will find the French documentation on how to create, maintain, and make the most of a PrestaShop online store.
+![](.gitbook/assets/build-puffin-writing.png)
 
-It hosts the 1.7 documentation on how to install PrestaShop and use each page of the back office. This documentation is also available in 6 other languages.
+GitBook et GitHub sont synchronisés : si vous modifiez le contenu de n'importe quelle page sur GitBook, vos modifications seront automatiquement poussées vers le repository GitHub. Inversement, les changements apportés sur GitHub seront pris en compte sur GitBook.
 
-Here are the links to the 5 other repositories:
+Par conséquent, les deux interfaces sont ouvertes à la contribution.
 
-[English](https://github.com/PrestaShop/user-documentation-en)
+### Contribuer via GitBook ![](<.gitbook/assets/image (46).png>)
 
-[Spanish](https://github.com/PrestaShop/user-documentation-es)
+Gitbook est un outil permettant d'écrire de la documentation. Il fonctionne comme un éditeur de texte et est sûrement la meilleure solution si vous n'êtes pas vraiment technophile. Pour contribuer à la documentation de PrestaShop en utilisant GitBook, veuillez nous envoyer un e-mail à **documentation@prestashop.com** avec une petite présentation de vous-même :&#x20;
 
-[Italian](https://github.com/PrestaShop/user-documentation-it)
+Êtes-vous un marchand ? Dans quelle langue souhaitez-vous traduire, mettre à jour ou écrire la documentation ? Qu'est-ce qui vous motive à participer à ce projet ?&#x20;
 
-[Dutch](https://github.com/PrestaShop/user-documentation-nl)
+Le Product Content Manager  vous accueillera et vous donnera accès à la documentation en tant qu'éditeur. Vous devrez alors vous connecter avec un compte Gmail, GitHub, ou GitBook. Cliquez ici pour [créer un compte GitBook](https://app.gitbook.com).
 
-[Farsi](https://github.com/PrestaShop/user-documentation-fa)
+### Contribuer via GitHub ![](<.gitbook/assets/image (54).png>)
 
-This repository is synchronized with GitBook, a tool that allows creating modern and intuitive documentation pages. You can find the PrestaShop French documentation [here](https://prestashop.gitbook.io/documentation-en-francais-pour-prestashop-1-7/).
+Chaque documentation est synchronisée avec un repository sur GitHub. Les deux interfaces sont ouvertes aux contributions. Cliquez sur votre langue pour visiter le repository correspondant : [anglais](https://github.com/PrestaShop/user-documentation-en), [français](https://github.com/PrestaShop/user-documentation-fr), [espagnol](https://github.com/PrestaShop/user-documentation-es), [italien](./#contribuer-via-gitbook), [néerlandais](https://github.com/PrestaShop/user-documentation-nl), [farsi](https://github.com/PrestaShop/user-documentation-fa).&#x20;
 
-Consequently, both interfaces (GitBook and GitHub) are open to contributions.
+#### Ouvrir une issue
 
-By saying that this repository is synchronized with GitBook’s documentation, it means that edited contents are updated in real-time in GitHub and GitBook. If you change the content of any page on GitBook, your edits will be pushed to this repository. Conversely, commits pushed to this repository are imported on GitBook.
+Une idée, une suggestion ? Faites-le savoir à la communauté en soumettant une [nouvelle issue](./#contribuer-via-gitbook) ! Il s'agit d'un gestionnaire de tickets pour la documentation utilisateur et c'est le meilleur endroit pour faire une suggestion ou proposer une amélioration. Pour cela, il vous suffit d'avoir un compte GitHub.&#x20;
 
-## ‌Contribution
+#### Modifier un fichier&#x20;
 
-![](<.gitbook/assets/improve the documentation (1).png>)
+Cette option est particulièrement adaptée si vous êtes un utilisateur novice de GitHub.&#x20;
 
-### If you want to work using GitHub and edit a file
+1. Créez votre compte GitHub, si vous n'en avez pas déjà un.&#x20;
+2. Sélectionnez le fichier que vous souhaitez modifier.&#x20;
+3. Cliquez sur le bouton "Edit" et effectuez vos modifications dans l'éditeur.&#x20;
+4. Une fois que vous avez terminé, allez en bas de la page, entrez un nom et une description et cliquez sur "Create a new branch for this commit and start a pull request".&#x20;
+5. Enfin, cliquez sur "Propose file change". GitHub créera automatiquement une nouvelle branche et un nouveau fork sur votre propre compte GitHub, puis suggérera une pull request pour ce repository.&#x20;
+6. Une fois la pull request soumise, attendez que le Product Content Manager revienne vers vous.&#x20;
 
-This option is particularly adapted if you are not used to working on GitHub yet.
+{% hint style="warning" %}
+Merci de ne pas merger vos changements directement sur la branche master. Il est important de créer une pull request afin que votre proposition puisse être relue au préalable.&#x20;
+{% endhint %}
 
-1. Create your GitHub account, if you do not have one already.
-2. Browse to the target file.
-3. Click the "Edit" button and make your changes in the editor.‌
-4. Once you are done, go to the bottom of the page, enter a name and a description and click on "Create a new branch for this commit and start a pull request."
-5. Finally, click on "Propose file change". GitHub will automatically create a new fork and branch on your own GitHub account, then suggest a pull request to this repository. &#x20;
-6. Once the pull request is submitted, just wait for the product content manager to come back to you.
+#### Forker le projet&#x20;
 
-Please do not commit your changes directly. It is important to create a pull request so that your work can be proofread.
+Cette option est particulièrement adaptée si vous êtes déjà habitué à GitHub.&#x20;
 
-### If you feel comfortable working with Git and forking the project
+1. Créez votre compte GitHub, si vous n'en avez pas déjà un.&#x20;
+2. Forkez le repository de la langue de votre choix sur votre compte GitHub.&#x20;
+3. Clonez votre fork sur votre machine locale.&#x20;
+4. Créez une branche dans votre clone local pour vos modifications.&#x20;
+5. Modifiez les fichiers dans votre branche.&#x20;
+6. Poussez la branche modifiée vers votre fork dans votre compte GitHub.
+7. Créez une pull request pour vos modifications. Si vous avez besoin d'aide pour créer une pull request, consultez la [page d'aide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) réalisée par GitHub.
+8. Attendez que le Product Content Manager intègre vos modifications ou laisse un commentaire avec les ajustements possibles.&#x20;
 
-This option is particularly adapted if you already work on GitHub or if you feel comfortable doing so.
-
-1. Create your GitHub account, if you do not have one already.
-2. Fork this repository to your Github account.
-3. Clone your fork to your local machine.
-4. Create a branch in your local clone for your changes.
-5. Change the files in your branch.
-6. Push the changed branch to your fork in your GitHub account.
-7. Create a pull request for your changes. If you need help to make a pull request, read the GitHub help page about[ creating pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-8. Wait for the product content manager to either include your change in the codebase or comment on possible adjustments.
-
-### If you want to submit an issue using GitHub
-
-An idea, a suggestion? Let the community know by [submitting a new issue](https://github.com/PrestaShop/user-documentation-fr/issues)!
-
-This is a ticket-tracker for the user documentation repository and it is the best place to write a suggestion or request an improvement. For that, you will just need a GitHub account.
-
-### If you want to contribute using Gitbook
-
-‌Gitbook is a tool to build documentation. It works like a text editor and might be easier to use if you are not tech-savvy. To contribute to the PrestaShop documentation using GitBook, please send us an email to documentation@prestashop.com with a little introduction of yourself:
-
-Are you a merchant? In which language would you like to translate, update, or write? What motivates you to participate in this project?
-
-PrestaShop's Product Content Manager will onboard you and will give you access to the documentation as a writer. You will have to log in with either a Gmail, GitHub, or GitBook account. Click here to[ create a GitBook account](https://app.gitbook.com/join).
-
-Once you have chosen the way to contribute that suits you best, you are ready to participate in the PrestaShop open source project. Thank you for your contribution!
+Une fois que vous avez choisi la façon de contribuer qui vous convient le mieux, vous êtes prêt à participer au projet open source PrestaShop. Merci pour votre contribution !
 
 ## License
 
-Content from this documentation is licensed under the[ Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Le contenu de cette documentation est sous la licence[ Creative Commons Attribution-ShareAlike 4.0 International.](https://creativecommons.org/licenses/by-sa/4.0/)

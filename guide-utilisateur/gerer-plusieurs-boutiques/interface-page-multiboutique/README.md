@@ -1,16 +1,16 @@
 # Interface de la page multiboutique
 
-## La page Multiboutique <a href="interfacedelapagemultiboutique-linterfacemultiboutique" id="interfacedelapagemultiboutique-linterfacemultiboutique"></a>
+## La page Multiboutique <a href="#interfacedelapagemultiboutique-linterfacemultiboutique" id="interfacedelapagemultiboutique-linterfacemultiboutique"></a>
 
 ### Comprendre l'organisation de la page Multiboutique
 
-Lorsque la fonctionnalité multiboutique est activée, une nouvelle page est disponible dans le menu **Paramètres Avancés: **la page Multiboutique.&#x20;
+Lorsque la fonctionnalité multiboutique est activée, une nouvelle page est disponible dans le menu **Paramètres Avancés:** la page Multiboutique.&#x20;
 
 Cette page est divisée en 3 sections :
 
-* **L'arbre multiboutique **: L'arbre multiboutique vous donne un aperçu de vos boutiques organisées en différents groupes.
-* **Multiboutique : **Ce tableau liste tous les groupes que vous avez créés, qu'ils soient activés ou non.
-* **Options multiboutiques : **Dans cette section, vous pouvez sélectionner la boutique par défaut.
+* **L'arbre multiboutique** : L'arbre multiboutique vous donne un aperçu de vos boutiques organisées en différents groupes.
+* **Multiboutique :** Ce tableau liste tous les groupes que vous avez créés, qu'ils soient activés ou non.
+* **Options multiboutiques :** Dans cette section, vous pouvez sélectionner la boutique par défaut.
 
 ## Travailler dans des contextes différents
 
@@ -23,8 +23,8 @@ Pour la version 1.7.8.0, PrestaShop et la communauté open source ont travaillé
 Lorsque la fonctionnalité multiboutique est activée, vous pouvez appliquer des modifications à tous les magasins, à un groupe de magasins ou à un magasin spécifique, en fonction du contexte sélectionné dans le sélecteur déroulant ou dans l'en-tête (à partir de la 1.7.8.0).
 
 * **Toutes les boutiques :** Les changements s'appliqueront à toutes vos boutiques.
-* **Groupe X : **Les changements s'appliqueront uniquement aux boutiques du groupe X.
-* **Boutique Y : **Les changements s'appliqueront uniquement à la boutique Y.
+* **Groupe X :** Les changements s'appliqueront uniquement aux boutiques du groupe X.
+* **Boutique Y :** Les changements s'appliqueront uniquement à la boutique Y.
 
 #### Le menu déroulant (anciennes versions et pages non mises à jour)
 
@@ -41,7 +41,7 @@ A partir de la version 1.7.8.0, l'interface multiboutique évolue et le menu dé
 
 
 {% hint style="success" %}
-La couleur des boutiques et des groupes de boutiques peut être modifée sur la page **Paramètres Avancés > Multiboutique. **Ainsi, la couleur** **change en fonction du contexte dans lequel vous vous trouvez et vous pouvez savoir en un coup d'oeil sur quelles boutiques vous êtes en train de travailer.
+La couleur des boutiques et des groupes de boutiques peut être modifée sur la page **Paramètres Avancés > Multiboutique.** Ainsi, la couleur **** change en fonction du contexte dans lequel vous vous trouvez et vous pouvez savoir en un coup d'oeil sur quelles boutiques vous êtes en train de travailer.
 {% endhint %}
 
 ### Appliquer des modifications à une boutique ou un groupe de boutiques&#x20;
@@ -90,7 +90,7 @@ Grâce à la liste déroulante des paramètres spécifiques, si vous apportez de
 
 ![](<../../../.gitbook/assets/image (55).png>)
 
-**Personnalisé :** Le paramètre a été modifié dans une boutique.** **
+**Personnalisé :** Le paramètre a été modifié dans une boutique. ****&#x20;
 
-**Hérité : **Le paramètre est réglé de la même manière pour toutes les boutiques.
+**Hérité :** Le paramètre est réglé de la même manière pour toutes les boutiques.
 

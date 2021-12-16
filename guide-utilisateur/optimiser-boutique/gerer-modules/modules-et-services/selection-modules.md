@@ -84,7 +84,7 @@ Si les informations de base sont insuffisantes, cliquez sur  "En savoir plus" po
 * **Bénéfices.** Ce que le module apportera à votre boutique.
 * **Caractéristiques**. Caractéristiques à attendre du module.
 * **Vidéo de démo** (facultatif). Une brève vidéo de présentation du module.
-* **Changelog **(facultatif). Une liste des nouveautés de la dernière version du module, avec ce qui a été amélioré ou ajouté.
+* **Changelog** (facultatif). Une liste des nouveautés de la dernière version du module, avec ce qui a été amélioré ou ajouté.
 
 ![](../../../../.gitbook/assets/51185197.png)
 

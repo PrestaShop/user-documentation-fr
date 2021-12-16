@@ -15,7 +15,7 @@ La page produit expérimentale est disponible sur PrestaShop 1.7.8. Cette page b
 
 Pour activer la page produit expériementale dans votre back-office, activez la fonctionnalité sur la page **Paramètres avancés > Fonctionnalités expérimentales** et enregistrez.
 
-![](<../../../.gitbook/assets/image (46).png>)
+![](<../../../.gitbook/assets/image (46) (1).png>)
 
 Ensuite, allez dans **Catalogue > Produits**. Vous devriez remarquer quelques changements, notamment un nouveau bouton : "Nouveau produit sur la page expérimentale". Cliquez dessus pour ouvrir la page produit expérimentale.&#x20;
 

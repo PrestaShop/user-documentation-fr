@@ -14,7 +14,7 @@ description: >-
 
 Divisée en **6 sections**, la page vous donne accès à tous les détails d'une commande.
 
-:arrow\_up:En** haut de la page**, se trouve un **résumé rapide de la commande** contenant :
+:arrow\_up:En **haut de la page**, se trouve un **résumé rapide de la commande** contenant :
 
 * la référence de la commande&#x20;
 * le nom du client&#x20;
@@ -31,7 +31,7 @@ Divisée en **6 sections**, la page vous donne accès à tous les détails d'une
 
 ![](<../../../../.gitbook/assets/image (2).png>)
 
-:arrow\_down\_small:Juste **en dessous de la section Produits**, il y a une **section administrative **qui contient quatre onglets qui vous donnent accès à :
+:arrow\_down\_small:Juste **en dessous de la section Produits**, il y a une **section administrative** qui contient quatre onglets qui vous donnent accès à :
 
 * l'état et l'historique de la commande
 * les documents liés à la commande (ex : facture, bon de livraison, etc.)&#x20;

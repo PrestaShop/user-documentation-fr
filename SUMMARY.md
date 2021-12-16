@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Documentation française - PrestaShop 1.7](README.md)
+* [Contribuer à la documentation](README.md)
 * [Guide de démarrage PrestaShop 1.7](guide-demarrage/README.md)
   * [Ce dont vous avez besoin](guide-demarrage/ce-dont-vous-avez-besoin.md)
   * [Installer PrestaShop](guide-demarrage/installer-prestashop.md)

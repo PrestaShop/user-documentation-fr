@@ -21,7 +21,7 @@ La liste des états de retour présente moins d'informations, car ces états son
 
 ![](<../../../../.gitbook/assets/52298376 (1).png>)
 
-## Créer un nouvel état <a href="id-etatsdecommandes-creerunnouveletat" id="id-etatsdecommandes-creerunnouveletat"></a>
+## Créer un nouvel état <a href="#id-etatsdecommandes-creerunnouveletat" id="id-etatsdecommandes-creerunnouveletat"></a>
 
 Vous pouvez bien sûr créer un nouvel état, en cliquant sur le bouton "Ajouter un nouvel état de commande".
 
@@ -45,12 +45,12 @@ Remplissez le formulaire :
   * **Cacher cet état dans la commande pour les clients**. Permet de créer des états internes, réservés à vous et votre équipe. Les clients ne verront jamais cet état dans leur page de commande.
   * **Envoyer un e-mail au client lorsque la commande est changée à cet état**. Si l'option est activée, un menu déroulant apparaît pour vous permettre de choisir un modèle d'e-mail à utiliser.
   * **Joindre la facture PDF à l'e-mail.** Envoie un e-mail au client avec en pièce-jointe la facture au format PDF.
-  * **Joindre le bon de livraison PDF à l'e-mail. **Envoie un e-mail au client avec en pièce-jointe le bon de livraison au format PDF.
+  * **Joindre le bon de livraison PDF à l'e-mail.** Envoie un e-mail au client avec en pièce-jointe le bon de livraison au format PDF.
   * **Marquer la commande associée comme expédiée**. Soyez prudent : une fois qu'une commande est marquée comme étant livrée, elle ne peut pas revenir en arrière.
   * **Marquer la commande associée comme payé**. Même chose ici : une fois qu'une commande est marquée comme étant payée, elle ne peut pas revenir en arrière.
   * **Afficher le PDF de bon de livraison**. Vous donne accès au bon de livraison, prêt à être imprimé.
 
-## Créer un nouvel état de retour <a href="id-etatsdecommandes-creerunnouveletatderetour" id="id-etatsdecommandes-creerunnouveletatderetour"></a>
+## Créer un nouvel état de retour <a href="#id-etatsdecommandes-creerunnouveletatderetour" id="id-etatsdecommandes-creerunnouveletatderetour"></a>
 
 Vous pouvez créer un nouvel état de retour avec le bouton "Ajouter un nouvel état de retour produit" situé en haut. Le formulaire de création s'ouvre.
 

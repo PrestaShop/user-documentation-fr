@@ -18,7 +18,7 @@ Pour procéder à un remboursement standard, suivez les étapes :
 
 * Cliquez sur le bouton "Remboursement standard"
 
-_Une nouvelle colonne apparaît dans le tableau des produits, intitulée "Remboursement standard". _
+_Une nouvelle colonne apparaît dans le tableau des produits, intitulée "Remboursement standard"._&#x20;
 
 * Définissez le montant et la quantité pour chacun des produits que vous souhaitez rembourser
 * Choisissez l'une des options de remboursement \
@@ -37,7 +37,7 @@ Pour procéder à un remboursement partiel, suivez les étapes :&#x20;
 
 * Cliquez sur le bouton "Remboursement partiel"
 
-_Une nouvelle colonne apparaît dans le tableau des produits, intitulée "Remboursement partiel". _
+_Une nouvelle colonne apparaît dans le tableau des produits, intitulée "Remboursement partiel"._&#x20;
 
 * Fixez le montant et la quantité pour chacun des produits que vous souhaitez rembourser&#x20;
 * Choisissez l'une des options de remboursement\

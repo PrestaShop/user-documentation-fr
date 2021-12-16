@@ -4,7 +4,7 @@ Vous pouvez installer, configurer et mettre à jour chacun de vos modules instal
 
 ![](../../../../.gitbook/assets/51185201.png)
 
-## La liste des modules <a href="modulesinstalles-lalistedesmodules" id="modulesinstalles-lalistedesmodules"></a>
+## La liste des modules <a href="#modulesinstalles-lalistedesmodules" id="modulesinstalles-lalistedesmodules"></a>
 
 Cette liste vous permet de trouver rapidement le module que vous souhaitez configurer ou pour lequel vous souhaitez modifier des paramètres.
 
@@ -22,7 +22,7 @@ Si vous souhaitez trouver un module rapidement, vous pouvez rechercher un module
 * **Sélecteurs de tri**. La liste est automatiquement actualisée lorsque vous faites une sélection et affiche des modules en fonction de tous les paramètres en cours.
   * **Catégories**. Sur la gauche, vous trouverez une liste des catégories existantes, et le nombre de modules concernés entre parenthèse. Cliquez sur la catégorie pour afficher les modules qui y sont rattachés.
   * **Afficher tous les modules.** Permet faire la distinction entre modules activés et modules désactivés. Seuls les modules activés peuvent être configurés, voilà pourquoi ce sélecteur est important.
-  * **Dernière utilisation. ** Si vous utilisez souvent le même module, cette option vous permettra de trouver facilement les derniers modules sur lesquels vous avez travaillé.
+  * **Dernière utilisation.** Si vous utilisez souvent le même module, cette option vous permettra de trouver facilement les derniers modules sur lesquels vous avez travaillé.
   * **Nom**. Trie les modules par ordre alphabétique, de A à Z.
 
 Les modules peuvent avoir l'un des 4 états suivants :
@@ -41,8 +41,8 @@ La différence se tient dans ce que la désactivation du module conserve la conf
 De fait, vous ne devriez ne désinstaller un module que si vous ne vous souciez plus de ses données ou si vous êtes certain que vous n'en aurez plus besoin. Dans le cas où vous ne voudriez même pas du module sur votre boutique, vous pouvez même cliquer sur le lien "Supprimer".
 
 \
-Effectuer des actions sur les modules <a href="modulesinstalles-effectuerdesactionssurlesmodules" id="modulesinstalles-effectuerdesactionssurlesmodules"></a>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Effectuer des actions sur les modules <a href="#modulesinstalles-effectuerdesactionssurlesmodules" id="modulesinstalles-effectuerdesactionssurlesmodules"></a>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Voici les actions disponibles, en fonction de l'état du module :
 
@@ -62,9 +62,9 @@ Voici les actions disponibles, en fonction de l'état du module :
 
 Ces actions peuvent être effectuées individuellement sur chaque module ou en masse, grâce au menu  "Actions groupées" à droite.
 
-### Désinstallation d'un module <a href="modulesinstalles-desinstallationdunmodule" id="modulesinstalles-desinstallationdunmodule"></a>
+### Désinstallation d'un module <a href="#modulesinstalles-desinstallationdunmodule" id="modulesinstalles-desinstallationdunmodule"></a>
 
-**Ne supprimez pas les modules en les plaçant directement dans la corbeille à l'aide de votre client FTP ! **Laissez PrestaShop s'en charger.
+**Ne supprimez pas les modules en les plaçant directement dans la corbeille à l'aide de votre client FTP !** Laissez PrestaShop s'en charger.
 
 Quand vous souhaitez arrêter d'utiliser un module temporairement tout en conservant sa configuration, vous pouvez simplement le désactiver. Il vous suffit de cliquer sur le lien "Désactiver". Les actions deviendront "Activer" et "Supprimer" mais le bouton "Désinstaller" reste visible.
 

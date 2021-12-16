@@ -36,10 +36,10 @@ La partie supérieure de l'en-tête contient :
 
 ![Partie supérieure de l'en-tête ](<../.gitbook/assets/image (18).png>)
 
-* **Un lien vers la page de contact **
-* **Un sélecteur de langues : **si plus d'une langue est disponible sur la boutique, le client peut choisir en quelle langue il souhaite naviguer.
-* **Un sélecteur de devises : **si plus d'une devise est disponible sur la boutique, le client peut choisir en quelle devise il souhaite voir s'afficher les prix des produits. Cela peut s'avérer très pratique au moment de comparer les prix avec d'autres boutiques à l'international.&#x20;
-* **Un lien vers la page d'authentification : **une fois connecté, le client a accès à son compte et un lien "Déconnexion" apparaît à côté de son nom.&#x20;
+* **Un lien vers la page de contact**&#x20;
+* **Un sélecteur de langues :** si plus d'une langue est disponible sur la boutique, le client peut choisir en quelle langue il souhaite naviguer.
+* **Un sélecteur de devises :** si plus d'une devise est disponible sur la boutique, le client peut choisir en quelle devise il souhaite voir s'afficher les prix des produits. Cela peut s'avérer très pratique au moment de comparer les prix avec d'autres boutiques à l'international.&#x20;
+* **Un lien vers la page d'authentification :** une fois connecté, le client a accès à son compte et un lien "Déconnexion" apparaît à côté de son nom.&#x20;
 * **Un lien vers le panier du client :** en un coup d'oeil, le client peut savoir combien d'articles il y a dans son panier. Il peut également cliquer sur le bouton "Panier" pour accéder au contenu du panier et finaliser sa commande.&#x20;
 
 La partie inférieure de l'en-tête, plus large, contient :
@@ -72,7 +72,7 @@ Le pied de page est divisé en deux parties.
 
 ![](<../.gitbook/assets/image (22).png>)
 
-:arrow\_right:La partie supérieure du pied de page contient un** bloc d'inscription à la newsletter** de votre boutique, permettant aux clients de recevoir des offres spéciales. Ce formulaire d'abonnement est géré par le module "Inscription à la newsletter".&#x20;
+:arrow\_right:La partie supérieure du pied de page contient un **bloc d'inscription à la newsletter** de votre boutique, permettant aux clients de recevoir des offres spéciales. Ce formulaire d'abonnement est géré par le module "Inscription à la newsletter".&#x20;
 
 ![Bloc d'inscription à la newsletter ](<../.gitbook/assets/image (21).png>)
 
@@ -105,7 +105,7 @@ Veuillez noter que l'envoi de la newsletter est de votre ressort. Grâce au modu
 {% endtab %}
 
 {% tab title="VOTRE COMPTE" %}
-**Le bloc "Votre compte" redirige vers les pages principales du compte client (ou la page d'authentification, si le client n'est pas connecté) :  **
+**Le bloc "Votre compte" redirige vers les pages principales du compte client (ou la page d'authentification, si le client n'est pas connecté) :** &#x20;
 
 * Informations personnelles&#x20;
 * Retours produits
@@ -189,7 +189,7 @@ En dessous du bouton d'ajout au panier, des éléments de réassurance permetten
 
 Enfin, en bas à droite de la page, un bloc affiche deux onglets :
 
-**Description : **ici apparaît une description complète du produit, telle qu'elle a été saisie dans la fiche produit du back-office.
+**Description :** ici apparaît une description complète du produit, telle qu'elle a été saisie dans la fiche produit du back-office.
 
 **Détails du produit :** cet onglet n'apparaît que si des caractéristiques ont été associées au produit depuis le back-office, par exemple la marque ou la composition.
 
@@ -207,7 +207,7 @@ Un résumé du contenu du panier s'affiche. Après avoir vérifié que le conten
 
 Une fois le panier rempli de tous les articles souhaités et le processus de commande enclenché, le client devra valider une suite d'étapes jusqu'à la validation de sa commande.
 
-PrestaShop fait le nécessaire pour que le processus d'achat soit** rapide et efficace**. Ce dernier se déroule en 5 étapes :
+PrestaShop fait le nécessaire pour que le processus d'achat soit **rapide et efficace**. Ce dernier se déroule en 5 étapes :
 
 1. **Informations personnelles** : si le client n'est pas connecté, il peut choisir de commander en tant qu'invité, de se créer un compte ou de se connecter. \
 

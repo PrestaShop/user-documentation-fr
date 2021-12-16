@@ -27,7 +27,7 @@ Tout d'abord, vous devez mettre en place les informations générales :
 * **Image de la catégorie**. Cliquez sur le bouton "Ajouter un fichier" pour mettre en ligne une image représentative de la catégorie, à partir de votre ordinateur. Elle s'affiche sur la page de la catégorie.
 * **Miniature de la catégorie.** Affiche sur la page de la catégorie parente une petite image représentant cette catégorie-ci, si votre thème le permet.
 * **Miniatures du menu.** Cette image apparaîtra en miniature dans le menu, pour représenter cette catégorie, si votre thème le permet.
-* **Prévisualisation SEO. **_Nouveauté depuis la 1.7.6 !_ Affiche en direct le résultat de vos paramétrages SEO, comme un moteur de recherche le ferait dans les listes des moteurs de recherche.
+* **Prévisualisation SEO.** _Nouveauté depuis la 1.7.6 !_ Affiche en direct le résultat de vos paramétrages SEO, comme un moteur de recherche le ferait dans les listes des moteurs de recherche.
 
 ![](<../../../.gitbook/assets/64225647 (1).gif>)
 
@@ -47,13 +47,13 @@ Une fois que vous avez terminé de configurer votre catégorie, enregistrez-la e
 
 Une nouvelle catégorie n'apparaît pas automatiquement dans le menu de votre boutique. Pour **ajouter une catégorie à votre menu**, vous devez paramétrer le module "Menu principal" (si vous utilisez le thème par défaut), ou tout autre module que vous avez pour gérer votre menu.
 
-## Parcourir et modifier les catégories <a href="gererlescategories-parcouriretmodifierlescategories" id="gererlescategories-parcouriretmodifierlescategories"></a>
+## Parcourir et modifier les catégories <a href="#gererlescategories-parcouriretmodifierlescategories" id="gererlescategories-parcouriretmodifierlescategories"></a>
 
 Le bouton "Modifier" vous permet de modifier la catégorie parente de la sous-catégorie actuellement affichée. Cela signifie que lorsque vous affichez les sous-catégories principales, un clic sur le bouton "Modifier" vous permettra de modifier la catégorie "Accueil".
 
 Vous pouvez cliquer sur n'importe quelle catégorie de la liste : cela ouvrira la catégorie, et affichera toutes ses sous-catégories. Dans les faits, cela changera le contexte de l'interface : un clic sur le bouton "Modifier" vous fera modifier la catégorie parente, et un clic sur le bouton "Ajouter" ouvrira le formulaire de création avec l'option "Catégorie parente" réglée sur la catégorie parente en cours.
 
-## Importer et exporter des catégories <a href="gererlescategories-importeretexporterdescategories" id="gererlescategories-importeretexporterdescategories"></a>
+## Importer et exporter des catégories <a href="#gererlescategories-importeretexporterdescategories" id="gererlescategories-importeretexporterdescategories"></a>
 
 Outre les boutons "Ajouter" et "Modifier", la liste des catégories présente également deux boutons :
 
@@ -69,7 +69,7 @@ Outre les boutons "Ajouter" et "Modifier", la liste des catégories présente é
 
 Notez que l'identifiant de la catégorie est son ID, pas son nom. Vous trouverez plus de possibilités dans la page "Import" du menu "Paramètres avancés".
 
-## Ajouter des produits à une catégorie <a href="gererlescategories-ajouterdesproduitsaunecategorie" id="gererlescategories-ajouterdesproduitsaunecategorie"></a>
+## Ajouter des produits à une catégorie <a href="#gererlescategories-ajouterdesproduitsaunecategorie" id="gererlescategories-ajouterdesproduitsaunecategorie"></a>
 
 Pour ajouter des produits à une catégorie, vous devez ouvrir la page de configuration du produit et vous rendre dans la section "Catégories" de l'onglet "Essentiel". C'est ici que vous établirez les catégories auxquelles le produit appartient.
 

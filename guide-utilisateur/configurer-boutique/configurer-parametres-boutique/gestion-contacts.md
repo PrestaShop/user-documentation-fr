@@ -82,7 +82,7 @@ Faites en sorte d'ajouter une photo du magasin, car elle aidera vos clients à l
 
 Enfin, les heures d'ouverture sont une information essentielle d'un magasin physique, et vous devriez être aussi précis que possible.
 
-## Coordonnées <a href="coordonneesetmagasins-coordonnees" id="coordonneesetmagasins-coordonnees"></a>
+## Coordonnées <a href="#coordonneesetmagasins-coordonnees" id="coordonneesetmagasins-coordonnees"></a>
 
 Cette section vous permet de donner plus de détails sur votre société plutôt que sur un magasin en particulier. Vous devriez remplir tous les champs avec les informations sur votre siège social, car c'est très certainement l'adresse à laquelle les clients écriront, voire se rendront.
 
@@ -94,6 +94,6 @@ La plupart de ces informations sont évidentes, mais certains champs doivent êt
 * **Adresse e-mail de la boutique**. L'adresse officielle de votre société. Utilisez l'adresse générale de contact de votre société, celle qui envoie des e-mails à vos clients.
 * **Immatriculation**. Donnez le numéro d'enregistrement légal de votre société, qui dépend du système légal de votre pays (SIRET en France, Duns number aux USA, CNPJ au Brésil, etc.).\
   Cela prouve que vous êtes une société officiellement déclarée, ce qui vous permet de gagner la confiance de vos clients.
-* **Adresse du magasin**, **Code postal**, **Ville**, **État**,** Pays**. Utilisez l'adresse de contact officielle de votre société. L'option "État" n'apparaît que si le pays sélectionné a des états dans votre base de données (par le biais de la page "États" du menu "Localisation".
+* **Adresse du magasin**, **Code postal**, **Ville**, **État**, **Pays**. Utilisez l'adresse de contact officielle de votre société. L'option "État" n'apparaît que si le pays sélectionné a des états dans votre base de données (par le biais de la page "États" du menu "Localisation".
 * **Téléphone**. Le numéro de contact officiel de votre société. Si vous préférez que les utilisateurs ne vous contactent pas, ne mettez rien ici.
 * **Fax**. Le numéro de fax officiel de votre société.
