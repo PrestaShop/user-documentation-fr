@@ -12,6 +12,18 @@ Cette page est divisée en 3 sections :
 * **Multiboutique :** Ce tableau liste tous les groupes que vous avez créés, qu'ils soient activés ou non.
 * **Options multiboutiques :** Dans cette section, vous pouvez sélectionner la boutique par défaut.
 
+{% content-ref url="ajouter-nouvelle-boutique.md" %}
+[ajouter-nouvelle-boutique.md](ajouter-nouvelle-boutique.md)
+{% endcontent-ref %}
+
+{% content-ref url="ajouter-groupe-boutiques.md" %}
+[ajouter-groupe-boutiques.md](ajouter-groupe-boutiques.md)
+{% endcontent-ref %}
+
+{% content-ref url="mettre-en-place-url-boutique.md" %}
+[mettre-en-place-url-boutique.md](mettre-en-place-url-boutique.md)
+{% endcontent-ref %}
+
 ## Travailler dans des contextes différents
 
 {% hint style="info" %}
@@ -80,7 +92,7 @@ Par exemple, dans la capture d'écran ci-dessous, la case à côté du paramètr
 Pour l'instant, cette fonctionnalité n'est disponible que sur la page **Paramètres de la boutique > Paramètres généraux > Maintenance.**
 {% endhint %}
 
-## Garder la trace des modifications apportées à une seule boutique
+### Garder la trace des modifications apportées à une seule boutique
 
 #### La liste déroulante des paramètres spécifiques (à partir de la 1.7.8.0)
 

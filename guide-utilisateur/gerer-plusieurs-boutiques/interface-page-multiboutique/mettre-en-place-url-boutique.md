@@ -1,42 +1,70 @@
 # Mettre en place l'URL d'une boutique
 
-Chaque boutique peut avoir sa propre adresse – ou même plusieurs adresses – totalement indépendantes de la boutique principale (qui est celle que vous avez installée en premier). Vous devez définir au moins une adresse pour chaque boutique.
+## Composition de l'URL d'une boutique
 
-**Deux boutiques ne peuvent pas partager la même adresse**. Si vous essayez de donner à une boutique une adresse déjà utilisée par une autre boutique, PrestaShop affichera une erreur. \
-D'un autre côté, vous pouvez avoir autant de boutiques que vous le souhaitez sur un même domaine :
+![](<../../../.gitbook/assets/httpswww.mystore.comwomen (6).png>)
 
-*   dans des sous-dossiers : [`http://www.example.com/hommes/`](http://www.example.com/hommes/), [`http://www.example.com/femmes/`](http://www.example.com/femmes/), [`http://www.example.com/enfants/`](http://www.example.com/enfants/), [`http://www.example.com/animaux/`](http://www.example.com/animaux/), etc.
+## Avoir deux boutiques sur le même nom de domaine
 
-    Dans le cas de boutiques dans des sous-dossiers, faites en sorte de créer deux URL pour chaque boutique : l'une avec le "www.", l'autre sans !
+Deux boutiques ne peuvent pas partager la même URL.&#x20;
 
-    Par exemple : [`http://www.example.com/hommes/`](http://www.example.com/hommes/) et [`http://example.com/hommes/`](http://example.com/hommes/)
+Cependant, vous pouvez avoir autant de boutiques que vous le souhaitez sur le même nom de domaine en utilisant dessous-dossiers ou des sous-domaines.
 
-    Sans quoi les clients qui tenteront d'accéder à une boutique seconde dans le "www." dans l'URL seront redirigés vers votre boutique principale.
-* dans des sous-domaines : `http://hommes`.[example.com/](http://example.com), `http://femmes`.[example.com/](http://example.com), `http://enfants`.[example.com/](http://example.com), `http://animaux`.[example.com/](http://example.com), etc.\
-  \
+### Utiliser des sous-dossiers&#x20;
+
+![](<../../../.gitbook/assets/httpswww.mystore.comwomen (7).png>)
+
+Si vous choisissez d'utiliser des sous-dossiers pour héberger plusieurs boutiques sur le même nom de domaine, assurez-vous de créer 2 URLs pour chaque boutique : une avec "www." et une sans.&#x20;
+
+Sinon, les clients essayant d'accéder à votre boutique secondaire sans le "www." dans l'URL seront redirigés vers votre boutique principale.&#x20;
+
+### Utiliser des sous-domaines
+
+![](<../../../.gitbook/assets/httpswww.mystore.comwomen (8).png>)
+
+{% hint style="success" %}
+Vous n'avez pas besoin de créer des sous-domaines ou des sous-fichiers manuellement. PrestaShop créera automatiquement le chemin sur votre serveur.
+{% endhint %}
+
+### Utiliser un nom de domaine différent
+
+Dans le cas où vous souhaitez utiliser un nom de domaine différent pour votre boutique supplémentaire plutôt qu'un sous-domaine ou un sous-dossier, vous devez configurer votre domaine pour qu'il pointe vers le dossier où se trouve PrestaShop. La réécriture de l'URL est alors effectuée par PrestaShop.&#x20;
+
+Vous pouvez aussi créer un alias pour votre nom de domaine qui redirige vers l'URL absolue où se trouve votre installation de PrestaShop. La façon de réaliser cela dépend du panneau de contrôle et des options que votre société d'hébergement vous fournit : "Alias" pour Plesk, "Forward" pour CPanel, "Aliasdomain" pour ISPConfig, etc.
+
+## Mettre en place une URL
+
+Pour mettre en place l'URL d'une boutique:
+
+1. Sélectionnez la boutique dans l'arbre multiboutique
+2. Cliquez sur le lien "Cliquez ici pour définir une URL pour cette boutique"&#x20;
+3. Remplissez le formulaire
+
+**Options de l'URL:**&#x20;
+
+![](<../../../.gitbook/assets/image (48).png>)
+
+Boutique : Sélectionnez la boutique pour laquelle vous souhaitez mettre en place l'URL.
+
+URL principale : Basculez le bouton sur "Oui" si vous souhaitez que toutes les URLs de cette boutique renvoient vers votre URL principale.
+
+Statut : Toutes les URLs, à l'exception de l'URL principale, peuvent être désactivées.
+
+**URL de votre boutique:**
+
+![](<../../../.gitbook/assets/image (50).png>)
+
+**Domain**e : Saisissez le nom de domaine de la boutique. Vous pouvez indiquer un sous-domaine si nécessaire. Assurez-vous simplement qu'il ne contient pas '`http://`', ou tout autre '`/`'. Exemple : `www.example.com` ou `kids.example.com`.&#x20;
+
+**Domaine SSL** : Si votre domaine SSL est différent de votre domaine principal, veillez à l'indiquer dans ce champ.&#x20;
+
+**URL physique** : Saisissez le chemin physique de votre installation sur votre serveur. Si vous avez installé votre boutique dans le répertoire racine, l'URL physique doit être `/`. Si vous avez installé votre boutique dans un sous-dossier, l'URL physique est le nom du sous-dossier.&#x20;
+
+**URL virtuelle** : Grâce à la réécriture d'URL, vous pouvez utiliser cette option si vous souhaitez créer un magasin avec une URL qui n'existe pas sur votre serveur, sans avoir à créer un sous-dossier. Par exemple, si vous voulez que votre boutique soit disponible avec l'URL `www.example.com/my-store/shoes/`, vous devez définir `shoes/` dans ce champ, en supposant que `my-store/`est votre URL physique.&#x20;
+
+Les URLs simplifiées doivent être activées dans **Paramètres de la boutique > Trafic et SEO.** Notez que cette option ne fonctionne que pour les boutique sous-dossiers, pas pour les boutiques sous-domaines.&#x20;
+
+**URL finale** : Vous pouvez obtenir ici un aperçu du résultat final de l'URL de la boutique, en fonction des paramètres définis plus haut.
 
 
-Ne créez pas de sous-dossier ou de sous-domaine vous-mêmes, que ce soit sur votre serveur ou votre ordinateur : PrestaShop s'occupera de créer le chemin d'accès pour vous sur le serveur. Quand le client accèdera à ce chemin, PrestaShop reconnaîtra la boutique de destination et enverra les fichiers et données de cette boutique automatiquement.
 
-Bien entendu, une boutique peut aussi avoir son propre nom de domaine.
-
-Utiliser un nom de domaine
-
-&#x20;Dans le cas où vous utilisez un nom de domaine différent pour votre boutique supplémentaire plutôt qu'un sous-domaine ou un sous-dossier, vous devez configurer votre domaine pour qu'il pointe vers le dossier dans lequel PrestaShop se trouve. PrestaShop s'occupera ensuite de la réécriture de l'adresse web.
-
-Autrement, vous pouvez créer un alias pour votre nom de domaine qui renvoie vers l'adresse absolue de votre installation de PrestaShop. La manière dont vous pouvez le faire dépend du panneau de contrôle et des options qui vous sont proposées par votre hébergeur web : "Alias" pour Plesk, "Forward" pour CPanel, "Aliasdomain" pour ISPConfig, etc.
-
-Pour ajouter une adresse à une boutique, sélectionnez la boutique dans le sélecteur "Arbre multiboutique", puis cliquez sur le bouton "Ajouter une nouvelle URL". PrestaShop chargera l'écran avec deux sections et huit options :
-
-* **Options de l'URL**.
-  * **Boutique**. Un rappel de la boutique à laquelle vous ajoutez une adresse. Vous pourriez également vouloir utiliser une autre boutique.
-  * **URL principale**. En activant cette option, vous indiquez que vous voulez que toutes les autres adresses de cette boutique redirigent vers cette nouvelle adresse.
-  * **État**. Vous pouvez désactiver et réactiver une adresse à n'importe quel moment.
-* **URL de la boutique**.
-  * **Domaine**. L'adresse elle-même. Elle n'a pas à se limiter au nom de domaine : vous pouvez indiquer un sous-domaine si vous en avez besoin. Exemple : [`www.example.com`](http://www.example.com) ou [`enfants.example.com`](http://enfants.example.com).
-  * **Domaine SSL**. Si votre domaine SSL est différent du domaine principal, faites en sorte de bien l'indiquer dans ce champ. Exemple : [`www.example.com`](http://www.example.com) ou [`enfants.example.com`](http://enfants.example.com).
-  * **URI physique**. Vous pouvez ici configurer le chemin physique de votre installation de PrestaShop sur votre serveur. Si votre boutique se trouve à la racine du domaine ou du sous-domaine, laissez ce champ vide. Exemple : `/` ou `/enfants/`.
-  * **URL virtuelle**. Vous pouvez rendre la boutique disponible à vos clients de manière transparente à l'aide de cette option : sans devoir créer de sous-dossier, vous pouvez faire en sorte que la boutique soit affichée, grâce à la réécriture d'URL. Bien entendu, la réécriture d'URL doit être activée (c'est-à-dire les URL simplifiées, sur la page "Traffic & SEO" du menu "Paramètres de la boutique"). Exemple : `/chaussures/`. Notez que cela ne fonctionne qu'avec les boutiques en sous-dossier, pas celles en sous-domaine.
-  * **Votre URL finale sera**. Vous donne une idée de l'impact de vos réglages d'adresse.
-
-![](../../../.gitbook/assets/52625520.png)

@@ -81,7 +81,7 @@ Pour ajouter ou mettre à jour une langue, sélectionnez la langue souhaitée da
 
 ## Exporter des traductions
 
-![](<../../../.gitbook/assets/image (50).png>)
+![](<../../../.gitbook/assets/image (50) (1).png>)
 
 Vous pouvez créer votre propre pack de langues à l'aide de cette fonctonnalité, soit pour faire une sauvegarde de vos traductions, soit pour les partager. Tout d'abord, sélectionnez la langue dans laquelle vous souhaitez exporter des traductions. Ensuite, sélectionnez le type de traductions que vous souhaitez :&#x20;
 
