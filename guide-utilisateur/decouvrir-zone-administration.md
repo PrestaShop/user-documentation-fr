@@ -43,32 +43,32 @@ Le menu de PrestaShop 1.7 est organisé en trois sections principales, des pages
 
 * **Tableau de bord**. La page d'accueil de votre back office, où vous pouvez voir vos principales statistiques en temps réel.
 
-**Vendre**
+****[**Vendre**](vendre/)****
 
 Cette section vous accompagne au quotidien, avec des pages essentielles comprenant vos commandes, votre listing clients, vos produits, etc. C'est le coeur de votre activité de marchand, où vous vous rendez tous les jours pour gérer votre commerce.
 
-* **Commandes**. Dès qu'un client commence à ajouter des produits à son panier, vous verrez les premières commandes arriver dans ce menu, avec les factures qui les accompagnent. C'est également à partir de ce menu que vous gérerez vos avoirs et les paniers abandonnées, entre autres.
-* **Catalogue**. C'est le cœur de votre boutique, là où vous allez ajouter vos produits, créer des catégories, configurer vos marques et fournisseurs, créer des promotions...![](../.gitbook/assets/56688743.png)
-* **Clients**. Ce menu vous donne accès à toutes les informations sur vos clients et vous permet de modifier leurs adresses.
-* **SAV.** Ce menu permet de gérer tout ce qui a trait au service client et à l'après-vente : messages clients, retours produits, etc.
-* **Statistiques**. Ce menu vous donne accès à un grand nombre de statistiques et graphiques, récupéré et généré par PrestaShop.
+* ****[**Commandes**](vendre/gerer-commandes/). Dès qu'un client commence à ajouter des produits à son panier, vous verrez les premières commandes arriver dans ce menu, avec les factures qui les accompagnent. C'est également à partir de ce menu que vous gérerez vos avoirs et les paniers abandonnées, entre autres.
+* ****[**Catalogue**](vendre/gerer-catalogue/gerer-produits.md). C'est le cœur de votre boutique, là où vous allez ajouter vos produits, créer des catégories, configurer vos marques et fournisseurs, créer des promotions...![](../.gitbook/assets/56688743.png)
+* ****[**Clients**](vendre/gerer-clients/). Ce menu vous donne accès à toutes les informations sur vos clients et vous permet de modifier leurs adresses.
+* ****[**SAV**](vendre/gerer-service-client/)**.** Ce menu permet de gérer tout ce qui a trait au service client et à l'après-vente : messages clients, retours produits, etc.
+* ****[**Statistiques**](vendre/comprendre-statistiques.md). Ce menu vous donne accès à un grand nombre de statistiques et graphiques, récupéré et généré par PrestaShop.
 
-**Personnaliser**
+****[**Personnaliser**](personnaliser-boutique.md)****
 
 Cette deuxième section vous permet de personnaliser votre boutique et d'aller au delà de la configuration de base. Choisissez l'apparence de votre boutique, adaptez les méthodes de paiement à vos marchés cibles, visez l'international ou complétez votre boutique avec de nouvelles fonctionnalités !
 
-* **Modules**. Multipliez la puissance et l'utilité de votre boutique en ajoutant des modules, dont une centaine est déjà disponible dans l'installation par défaut, et de nombreux sont disponibles à l'achat sur la [marketplace Addons](https://addons.prestashop.com/fr/). C'est également dans ce menu que vous placerez les éléments de vos modules sur votre thème.
-* **Apparence**. C'est ici que vous pouvez gérer le thème de votre boutique, ainsi que les éléments qui viennent modifier l'aspect général de votre boutique (pages CMS, liens et positions des modules).
-* **Livraison**. Tout ce qui concerne l'expédition de vos colis, notamment les coûts de transport.
-* **Paiement**. Choisissez quels modes de paiement vos clients peuvent utiliser.
-* **International**. Vous aide à configurer votre boutique avec des éléments locaux et internationaux, tels que la langue et les traductions, la monnaie, les unités de mesure, les taxes et règles de taxes, et les entités géographiques.
+* ****[**Modules**](optimiser-boutique/gerer-modules/). Multipliez la puissance et l'utilité de votre boutique en ajoutant des modules, dont une centaine est déjà disponible dans l'installation par défaut, et de nombreux sont disponibles à l'achat sur la [marketplace Addons](https://addons.prestashop.com/fr/). C'est également dans ce menu que vous placerez les éléments de vos modules sur votre thème.
+* ****[**Apparence**](optimiser-boutique/personnaliser-apparence-boutique/). C'est ici que vous pouvez gérer le thème de votre boutique, ainsi que les éléments qui viennent modifier l'aspect général de votre boutique (pages CMS, liens et positions des modules).
+* ****[**Livraison**](optimiser-boutique/gerer-livraisons/). Tout ce qui concerne l'expédition de vos colis, notamment les coûts de transport.
+* ****[**Paiement**](optimiser-boutique/gerer-paiements/). Choisissez quels modes de paiement vos clients peuvent utiliser.
+* ****[**International**](optimiser-boutique/internationalisation/). Vous aide à configurer votre boutique avec des éléments locaux et internationaux, tels que la langue et les traductions, la monnaie, les unités de mesure, les taxes et règles de taxes, et les entités géographiques.
 
-**Configuration**
+****[**Configuration**](configurer-boutique/)****
 
 Cette section comporte deux menus. Le premier regroupe tous les paramètres liés à votre boutique : ce sont des réglages que vous configurez en démarrant votre boutique, et auxquels vous accédez moins une fois votre activité lancée. Le deuxième menu rassemble des paramètres plus techniques, avec des fonctionnalités avancées.
 
-* **Paramètres de la boutique**. PrestaShop est une solution e-commerce très configurable, et vous pouvez modifier quasiment tous ces comportements à l'aide de ce jeu de pages de préférences.
-* **Paramètres avancés**. Contient des liens vers des outils et des pages d'informations qui sont trop particuliers pour tenir dans d'autres menus, tels que les réglages du service web, l'outil de sauvegarde de la base de données, ou la page d'amélioration des performances, entre autres. Vous y trouverez aussi les réglages relatifs au back office lui-même. Par exemple, la liste de vos employés et leurs droits d'accès, entre autres.
+* ****[**Paramètres de la boutique**](configurer-boutique/configurer-parametres-boutique/). PrestaShop est une solution e-commerce très configurable, et vous pouvez modifier quasiment tous ces comportements à l'aide de ce jeu de pages de préférences.
+* ****[**Paramètres avancés**](configurer-boutique/parametres-avances/). Contient des liens vers des outils et des pages d'informations qui sont trop particuliers pour tenir dans d'autres menus, tels que les réglages du service web, l'outil de sauvegarde de la base de données, ou la page d'amélioration des performances, entre autres. Vous y trouverez aussi les réglages relatifs au back office lui-même. Par exemple, la liste de vos employés et leurs droits d'accès, entre autres.
 
 Ce sont là les menus par défaut. Notez que des modules peuvent ajouter de nouveaux menus, de nouvelles pages aux menus existants, ou de nouvelles options aux pages existantes. Certaines pages présentent plusieurs onglets pour accéder à davantage de fonctionnalités disponibles dans PrestaShop.
 
