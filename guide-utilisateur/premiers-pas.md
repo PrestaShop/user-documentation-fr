@@ -18,13 +18,11 @@
   * [Construire votre menu](premiers-pas.md#PremierspasavecPrestaShop1.7-Construirevotremenu)
   * [Activez votre boutique](premiers-pas.md#PremierspasavecPrestaShop1.7-Activezvotreboutique)
 
-## Premiers pas avec PrestaShop 1.7 <a href="premierspasavecprestashop1.7-premierspasavecprestashop1.7" id="premierspasavecprestashop1.7-premierspasavecprestashop1.7"></a>
+## Premiers pas avec PrestaShop 1.7 <a href="#premierspasavecprestashop1.7-premierspasavecprestashop1.7" id="premierspasavecprestashop1.7-premierspasavecprestashop1.7"></a>
 
 Il vous faut prendre le temps de vous assurer que toutes les fonctionnalités de votre future boutique sont bien en place, validées et prêtes à prendre vos premières commandes.
 
-PrestaShop facilite grandement la création d'une boutique en ligne, mais pas au point de pouvoir se mettre à vendre des produits dès les premières minutes suivant l'installation : ici, vous avez affaire à des produits, des clients, et surtout à un réel échange de devises, qui devront circuler de vos clients vers votre compte bancaire. De toute évidence, vous préféreriez qu'aucune faille ne vienne empêcher les transactions d'être validées, les produits d'être trouvés dans votre entrepôt et envoyés à vos clients sans erreur, ou même que quoi que ce soit d'inattendu n'arrive sans que vous ne soyez tenu au courant.
-
-PrestaShop est un outil très complet, et l'étendue des possibilités peut sembler écrasante. Nous avons créé ce chapitre afin de vous aider à réaliser les principales actions à mettre en place pour préparer votre boutique à son grand lancement. Beaucoup de choses peuvent être faites avant l'ouverture des ventes, mais ces étapes sont essentielles pour n'importe quel type de boutique.
+PrestaShop est un outil très complet, qui offre de nombreuses fonctionnalités. Nous avons créé ce chapitre afin de vous aider à réaliser les principales actions à mettre en place pour préparer votre boutique à son grand lancement. Beaucoup de choses peuvent être faites avant l'ouverture des ventes, mais ces étapes sont essentielles pour n'importe quel type de boutique.
 
 ### Désactiver votre boutique
 
@@ -34,7 +32,7 @@ Désactiver votre boutique signifie que vous serez le seul à y avoir accès tou
 
 ![](../.gitbook/assets/56688765.png)
 
-Dans votre back-office, rendez-vous dans la page "Paramètres de la boutique / Général". Vous trouverez la maintenance sur le deuxième onglet. Cette page contient trois réglages :
+Dans votre back-office, rendez-vous dans la page "Paramètres de la boutique / Paramètres Généraux". Vous trouverez la maintenance sur le deuxième onglet. Cette page contient trois réglages :
 
 * **Activer la boutique**. Choisissez "Non", et l'accueil de votre site affichera la page de maintenance à vos visiteurs, qui indique simplement que votre site sera bientôt de retour.
 * **IP de maintenance**. C'est ici que vous devez saisir votre propre adresse IP, afin de toujours pouvoir accéder à votre boutique et parcourir les pages, pour vérifier que tout est bien en place. Cette option doit être remplie à chaque fois que vous mettez votre boutique en mode de maintenance, étant donné que vous aurez toujours besoin de vos pages publiques pour vérifier que tout es bien en place.
@@ -72,19 +70,7 @@ Vous devez donc effacer toutes les données par défaut, c'est à dire :
 * Les infos de contact et les magasins (à effacer ou à adapter aux besoins de la boutique)
 * les pages de contenu statique (à effacer ou à adapter aux besoins de la boutique)
 
-Cela supposerait que vous ayez à parcourir les nombreux écrans du back-office et supprimer votre contenu sur chaque écran, mais il y a une méthode bien plus facile :
-
-1. Allez dans la page "Modules > Modules",
-2. Trouvez le module "Nettoyage de la base de données" (PrestaShop Cleaner) et cliquez sur son bouton "Installation",
-3. Vous êtes immédiatement envoyé sur sa page de configuration (si ce n'est pas le cas, cliquez sur son bouton "Configuration"),
-4. Lisez et acceptez l'avertissement, puis cliquez sur le bouton "Effacer le catalogue" : il supprimera tous vos produits et vos attributs, vos fabricants, etc.
-5. Lisez et acceptez l'avertissement, puis cliquez sur le bouton "Effacer les commandes et clients" : il supprimera toutes vos clients et leurs commandes, paniers, etc.
-6. Cliquez sur le bouton "Vérifier et corriger" pour rétablir les contraintes d'intégrité de votre base de données,
-7. Cliquez sur le bouton "Nettoyer et optimiser" pour réorganiser le stockage physique des données de vos tables et les index de données associées, afin de réduire l'espace de stockage et améliorer l'efficace de lecture/écriture lors de l'accès aux tables.
-
-VOS MODIFICATIONS SONT DÉFINITIVES. Assurez-vous de ne cliquez sur ces boutons que si vous souhaitez vraiment effacer le contenu par défaut de votre base de données.
-
-### Configurer les informations de votre boutique <a href="premierspasavecprestashop1.7-configurerlesinformationsdevotreboutique" id="premierspasavecprestashop1.7-configurerlesinformationsdevotreboutique"></a>
+### Configurer les informations de votre boutique <a href="#premierspasavecprestashop1.7-configurerlesinformationsdevotreboutique" id="premierspasavecprestashop1.7-configurerlesinformationsdevotreboutique"></a>
 
 Maintenant que vous disposez d'une boutique propre, vous pouvez commencer à en prendre possession, et cela implique de tout mettre à votre goût, à commencer par vos informations personnelles et vos préférences.
 
@@ -120,7 +106,7 @@ Pour chaque module présenté ici, vous devriez lire leur documentation pour avo
 Ce sont là les modifications à faire qui sont les plus visibles sur votre front-office – au moins pour le thème par défaut.\
 La colonne "Emplacement" vous permet de savoir où trouver l'interface permettant de modifier ces aspects de votre boutique. Ce guide de l'utilisateur vous donnera plus de détail sur chaque interface.
 
-#### Langues de la boutique <a href="premierspasavecprestashop1.7-languesdelaboutique" id="premierspasavecprestashop1.7-languesdelaboutique"></a>
+#### Langues de la boutique <a href="#premierspasavecprestashop1.7-languesdelaboutique" id="premierspasavecprestashop1.7-languesdelaboutique"></a>
 
 PrestaShop peut fonctionner dans de nombreuses langues, à la fois côté client et côté administration. Dès que plus d'une langue est activée dans le back-office, chaque champ textuel du back-office est accompagné d'un sélecteur de langue, qui indique la langue actuelle, et sur lequel vous pouvez cliquer pour insérer le contenu de ce champ dans une autre langue.
 
@@ -163,7 +149,7 @@ Le paiement par chèque ou par virement bancaire sont les deux seules méthodes 
 
 Vous pouvez configurer ces deux méthodes de paiements en passant par les modules "Virement bancaire" et "Paiement par chèque", que vous trouverez la catégorie "Modules installés" de la liste de modules.
 
-### Configurer le transport <a href="premierspasavecprestashop1.7-configurerletransport" id="premierspasavecprestashop1.7-configurerletransport"></a>
+### Configurer le transport <a href="#premierspasavecprestashop1.7-configurerletransport" id="premierspasavecprestashop1.7-configurerletransport"></a>
 
 Les produits vendus sur votre boutique doivent être expédiés à vos clients – à moins que vous ne vendiez que des produits téléchargeables, auquel cas le menu "Transport" ne vous sera pas d'une grande utilité.
 
@@ -214,7 +200,7 @@ Maintenant que vous disposez de catégories de produit et de pages statiques, vo
 
 Pour ce faire, vous devez passer par le menu "Menu principal", qui se trouve dans la catégorie "Modules de thème" de la liste de modules installés. Activez-le si ce n'est pas déjà le cas, puis configurez-le : enlevez les pages ou catégories qui ne vous semblent pas nécessaires, ajoutez-y d'autres pages, et déplacez le contenu jusqu'à être satisfait de votre menu.
 
-### Activez votre boutique <a href="premierspasavecprestashop1.7-activezvotreboutique" id="premierspasavecprestashop1.7-activezvotreboutique"></a>
+### Activez votre boutique <a href="#premierspasavecprestashop1.7-activezvotreboutique" id="premierspasavecprestashop1.7-activezvotreboutique"></a>
 
 Maintenant que tout est fait, vous pouvez enfin lancer publiquement votre boutique.
 

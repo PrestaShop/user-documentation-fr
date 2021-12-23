@@ -34,37 +34,37 @@ Ces trois types de stock résultent toujours de l'équation suivante :
 
 _Stock physique - Stock réservé = Stock disponible_
 
-Editer le stock physique modifie donc le stock disponible, et inversement !Par défaut, les produits sont classés par ordre décroissant, selon le numéro du produit. C'est-à-dire que le dernier produit créé se situe en haut de la liste. Chaque page peut contenir jusqu'à 100 produits et déclinaisons, au-delà de ce chiffre, une deuxième page est créée.
+Editer le stock physique modifie donc le stock disponible, et inversement. Par défaut, les produits sont classés par ordre décroissant, selon le numéro du produit. C'est-à-dire que le dernier produit créé se situe en haut de la liste. Chaque page peut contenir jusqu'à 100 produits et déclinaisons, au-delà de ce chiffre, une deuxième page est créée.
 
-### Modifier les quantités <a href="stock-fr-qty_editionmodifierlesquantites" id="stock-fr-qty_editionmodifierlesquantites"></a>
+### Modifier les quantités <a href="#stock-fr-qty_editionmodifierlesquantites" id="stock-fr-qty_editionmodifierlesquantites"></a>
 
 Les quantités peuvent être modifiées directement dans l'onglet "Stock", à l'aide du champ d'entrée situé en haut à droite qui constitue la dernière colonne du tableau.
 
-#### L'édition simple <a href="stock-fr-leditionsimple" id="stock-fr-leditionsimple"></a>
+#### L'édition simple <a href="#stock-fr-leditionsimple" id="stock-fr-leditionsimple"></a>
 
 Pour éditer le stock d'un produit, ajoutez simplement la quantité désirée dans le champ d'entrée de la dernière colonne. Ce doit être une quantité delta. En d'autres termes, il ne s'agit pas de renseigner la quantité totale d'un produit mais la quantité que vous ajouter ou supprimer. Vous avez alors le choix entre taper manuellement la quantité ajoutée ou supprimée (incluant le signe moins, -) ou utiliser les flèches pour ajuster la quantité.![](<../../../../.gitbook/assets/56688677 (1).gif>)Pour valider le nouveau stock, cliquez simplement sur la flèche bleue à droite de ce champ d'entrée ou sur le bouton "Appliquez les quantités" situé en haut à droite du tableau. En modifiant la quantité de votre stock, vous aurez une vue d'ensemble du stock final : ![](../../../../.gitbook/assets/54268583.png)Cette fonctionnalité vous permet de lire en même temps le point de départ, le point final et la différence entre les deux, avant de valider. Mais n'oubliez pas que les stocks physique et disponible sont liés par cette équation, il est donc nécessaire de les éditer tous les deux.
 
-#### L'édition multiple <a href="stock-fr-leditionmultiple" id="stock-fr-leditionmultiple"></a>
+#### L'édition multiple <a href="#stock-fr-leditionmultiple" id="stock-fr-leditionmultiple"></a>
 
 Si vous voulez éditer plusieurs quantités en une seule fois, vous pouvez aussi modifier toutes les quantités voulues avant de cliquer sur le bouton "Appliquez les quantités".
 
 ![](../../../../.gitbook/assets/56688680.gif)
 
-#### L'édition en masse <a href="stock-fr-leditionenmasse" id="stock-fr-leditionenmasse"></a>
+#### L'édition en masse <a href="#stock-fr-leditionenmasse" id="stock-fr-leditionenmasse"></a>
 
 Depuis la version 1.7.3 de PrestaShop, vous pouvez aussi éditer les quantités de tous vos produits en masse. C'est très pratique et très facile : il suffit seulement de cocher la case dédiée (en haut à gauche de la liste), tous les articles seront sélectionnés par défaut mais vous pouvez ajuster cette liste à vos besoins, et d'entrer la quantité que vous souhaitez ajouter ou soustraire à votre stock avant de cliquer sur le bouton "Appliquez les quantités" !
 
 ![](../../../../.gitbook/assets/56688673.png)
 
-### Alertes de stock <a href="stock-fr-alertesdestock" id="stock-fr-alertesdestock"></a>
+### Alertes de stock <a href="#stock-fr-alertesdestock" id="stock-fr-alertesdestock"></a>
 
 Vous souhaitez être prévenus lorsque le niveau de stock d'un produit est bas ? Vous pouvez définir un seuil général dans la page "Produits" de l'entrée "Paramètres de la boutique" du menu ou l'effectuer directement depuis l'onglet "Quantités" d'une fiche produit. Une possibilité, accessible depuis la version 1.7.3 du logiciel, qui vous permet depuis la page de gestion des stocks d'afficher en priorité les articles dont le niveau de stock est sous le seuil fixé. Ils apparaîtront donc en haut de la liste.
 
-### Options de recherche et de filtre <a href="stock-fr-optionsderechercheetdefiltre" id="stock-fr-optionsderechercheetdefiltre"></a>
+### Options de recherche et de filtre <a href="#stock-fr-optionsderechercheetdefiltre" id="stock-fr-optionsderechercheetdefiltre"></a>
 
 En haut de la liste, deux éléments vous permettent de retrouver rapidement un produit. La barre de recherche est utile dans les cas où vous connaissez le produit recherché : référence, nom ou fournisseur. Les filtres de recherche avancée, quant à eux, vous permettent de sollicter plus d'options et d'affiner ainsi votre recherche.
 
-#### La barre de recherche <a href="stock-fr-stock_search_barlabarrederecherche" id="stock-fr-stock_search_barlabarrederecherche"></a>
+#### La barre de recherche <a href="#stock-fr-stock_search_barlabarrederecherche" id="stock-fr-stock_search_barlabarrederecherche"></a>
 
 La barre de recherche permet de retrouver :
 
@@ -75,7 +75,7 @@ La barre de recherche permet de retrouver :
 
 ![](../../../../.gitbook/assets/56688682.gif)
 
-#### Les filtres avancés <a href="stock-fr-lesfiltresavances" id="stock-fr-lesfiltresavances"></a>
+#### Les filtres avancés <a href="#stock-fr-lesfiltresavances" id="stock-fr-lesfiltresavances"></a>
 
 Dans l'onglet "Stock", les filtres avancés sont :
 
@@ -87,11 +87,11 @@ Dans l'onglet "Stock", les filtres avancés sont :
 
 ![](../../../../.gitbook/assets/56688674.png)
 
-## Import / Export <a href="stock-fr-import-export" id="stock-fr-import-export"></a>
+## Import / Export <a href="#stock-fr-import-export" id="stock-fr-import-export"></a>
 
 Parce que votre activité draîne avec elle beaucoup de données importantes, PrestaShop vous permet d'importer ou d'exporter les informations de cette page sous un fichier CSV. Pourquoi ? Pour que vous puissiez suivre la gestion de vos stocks en toute circonstance. Cliquez sur les petits pictogrammes bleus en forme de nuage qui se situent en haut à droite de la page pour profiter de ce système d'import/export.
 
-## Multiboutique <a href="stock-fr-multiboutique" id="stock-fr-multiboutique"></a>
+## Multiboutique <a href="#stock-fr-multiboutique" id="stock-fr-multiboutique"></a>
 
 La bonne nouvelle, c'est que ce nouveau système de gestion des stocks est compatible avec les multiboutiques. Evidemment, si vous avez plusieurs boutiques au sein d'un même groupe mais que les stocks n'ont pas été mis en commun, vous ne pourrez pas les gérer à travers le groupe. Si vous essayez, vous verrez sans doute le message d'erreur suivant :
 
