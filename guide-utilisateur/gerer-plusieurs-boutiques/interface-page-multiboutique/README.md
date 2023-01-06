@@ -4,7 +4,9 @@
 
 ### Comprendre l'organisation de la page Multiboutique
 
-Lorsque la fonctionnalité multiboutique est activée, une nouvelle page est disponible dans le menu **Paramètres Avancés:** la page Multiboutique.&#x20;
+Pour accéder à la page Multiboutique, il faut d'abord [activer la fonctionnalité](../#activer-la-fonctionnalite-multistore) dans Paramètres Avancés > Général.&#x20;
+
+Une nouvelle page est alors disponible dans le menu **Paramètres Avancés :** la page Multiboutique.
 
 Cette page est divisée en 3 sections :
 
