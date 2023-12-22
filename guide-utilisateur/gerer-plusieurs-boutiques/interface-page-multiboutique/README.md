@@ -55,7 +55,7 @@ A partir de la version 1.7.8.0, l'interface multiboutique évolue et le menu dé
 
 
 {% hint style="success" %}
-La couleur des boutiques et des groupes de boutiques peut être modifée sur la page **Paramètres Avancés > Multiboutique.** Ainsi, la couleur **** change en fonction du contexte dans lequel vous vous trouvez et vous pouvez savoir en un coup d'oeil sur quelles boutiques vous êtes en train de travailer.
+La couleur des boutiques et des groupes de boutiques peut être modifée sur la page **Paramètres Avancés > Multiboutique.** Ainsi, la couleur change en fonction du contexte dans lequel vous vous trouvez et vous pouvez savoir en un coup d'oeil sur quelles boutiques vous êtes en train de travailer.
 {% endhint %}
 
 ### Appliquer des modifications à une boutique ou un groupe de boutiques&#x20;
@@ -104,7 +104,7 @@ Grâce à la liste déroulante des paramètres spécifiques, si vous apportez de
 
 ![](<../../../.gitbook/assets/image (55).png>)
 
-**Personnalisé :** Le paramètre a été modifié dans une boutique. ****&#x20;
+**Personnalisé :** Le paramètre a été modifié dans une boutique.&#x20;
 
 **Hérité :** Le paramètre est réglé de la même manière pour toutes les boutiques.
 

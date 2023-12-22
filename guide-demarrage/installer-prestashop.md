@@ -58,13 +58,13 @@ Le fichier téléchargé est une archive .zip. Pour poursuivre le processus, **v
 Si votre système d’exploitation ne prend pas en charge les fichiers .zip, vous pouvez télécharger et installer un outil dédié tel que :
 
 * Windows :
-  * 7-zip : [http://www.7-zip.org/](http://www.7-zip.org)
+  * 7-zip : [http://www.7-zip.org/](http://www.7-zip.org/)
   * WinZip : [http://www.winzip.com/win/en/index.htm](http://www.winzip.com/win/en/index.htm)
-  * WinRAR : [http://www.rarlab.com/](http://www.rarlab.com)
+  * WinRAR : [http://www.rarlab.com/](http://www.rarlab.com/)
 * Mac OS X :
-  * iZip : [http://www.izip.com/](http://www.izip.com)
+  * iZip : [http://www.izip.com/](http://www.izip.com/)
   * WinZip Mac : [http://www.winzip.com/mac/](http://www.winzip.com/mac/)
-  * Zipeg : [http://www.zipeg.com/](http://www.zipeg.com)
+  * Zipeg : [http://www.zipeg.com/](http://www.zipeg.com/)
 
 Procédez à l’extraction du contenu de l’archive vers un emplacement connu de votre disque dur (comme le Bureau). **Ne mettez pas le fichier .zip directement en ligne sur votre serveur web**.
 
@@ -80,7 +80,7 @@ Le fichier “Install\_PrestaShop.html” ne doit pas être mis en ligne sur vot
 
 Vous avez maintenant un espace d’hébergement à votre disposition (si ce n’est pas le cas, lisez le chapitre “Ce dont vous avez besoin pour commencer”), ainsi qu’un dossier sur votre disque dur dans lequel l’archive PrestaShop est décompressée.
 
-Dans cette étape, vous allez mettre les fichiers de PrestaShop en ligne sur votre espace d’hébergement. Pour ce faire, connectez votre ordinateur à votre serveur en utilisant un outil appelé “client FTP” (vous avez normalement installé cet outil lors de la lecture du chapitre “Ce dont vous avez besoin pour commencer”). Nous allons utiliser l’outil gratuit FileZilla ([http://filezilla-project.org/](http://filezilla-project.org)).
+Dans cette étape, vous allez mettre les fichiers de PrestaShop en ligne sur votre espace d’hébergement. Pour ce faire, connectez votre ordinateur à votre serveur en utilisant un outil appelé “client FTP” (vous avez normalement installé cet outil lors de la lecture du chapitre “Ce dont vous avez besoin pour commencer”). Nous allons utiliser l’outil gratuit FileZilla ([http://filezilla-project.org/](http://filezilla-project.org/)).
 
 Connectez-vous à votre espace d’hébergement à l’aide du client FTP et des identifiants de connexion fournis par votre hébergeur (si vous ne les avez pas, contactez votre hébergeur). Une fois que vous êtes connecté, vous pouvez transférer les fichiers de PrestaShop depuis votre ordinateur vers votre serveur.
 
@@ -91,12 +91,12 @@ Dans FileZilla (ou tout autre client FTP), parcourez vos dossiers locaux pour tr
 Dans la section “Site distant” (située à droite), naviguez jusqu’à l’emplacement où vous souhaitez que PrestaShop soit publiquement disponible (racine du domaine, sous-dossier, sous-domaine...). L’emplacement peut varier selon votre hébergeur et vos besoins :
 
 * Votre hébergeur :
-  * Certains hébergeurs peuvent vous obliger à placer vos fichiers dans un dossier spécifique, comme `/htdocs`, `/public_html`, `/web`, `/www`, `/`[votrenomdedomaine.com](http://yourdomainname.com), etc.
+  * Certains hébergeurs peuvent vous obliger à placer vos fichiers dans un dossier spécifique, comme `/htdocs`, `/public_html`, `/web`, `/www`, `/`[votrenomdedomaine.com](http://yourdomainname.com/), etc.
   * Le serveur FTP d’autres hébergeurs vous connectera directement à l’espace de mise en ligne approprié.
 * Vos besoins :
-  * Si vous voulez que votre boutique soit le site web principal pour votre nom de domaine (par exemple, [http://www.exemple.com](http://www.example.com)), mettez PrestaShop en ligne au niveau du dossier racine de l’espace de chargement (qui peut varier en fonction de l’hébergeur).
+  * Si vous voulez que votre boutique soit le site web principal pour votre nom de domaine (par exemple, [http://www.exemple.com](http://www.example.com/)), mettez PrestaShop en ligne au niveau du dossier racine de l’espace de chargement (qui peut varier en fonction de l’hébergeur).
   * Si vous voulez que votre boutique soit dans un sous-dossier de votre nom de domaine ([http://www.exemple.com/boutique](http://www.example.com/shop)), vous devez d’abord créer un dossier via FileZilla (effectuez un clic droit et choisissez l’option “Créer un répertoire”), puis mettre PrestaShop en ligne dans ce dossier.
-  * Si vous voulez que votre boutique soit un sous-domaine de votre nom de domaine ([http://boutique.exemple.com](http://shop.example.com)), vous devez d’abord créer un sous-domaine. La méthode dépendra de votre hébergeur : parfois, il vous suffira d’ajouter un nouveau dossier avec votre client FTP ; dans d’autres cas, vous devrez créer le sous-domaine via le panneau d’administration de votre hébergeur. Commencez par lire la documentation d’aide de votre hébergeur. Une fois le sous-domaine créé, naviguez jusqu’au dossier du sous-domaine et mettez PrestaShop en ligne.
+  * Si vous voulez que votre boutique soit un sous-domaine de votre nom de domaine ([http://boutique.exemple.com](http://shop.example.com/)), vous devez d’abord créer un sous-domaine. La méthode dépendra de votre hébergeur : parfois, il vous suffira d’ajouter un nouveau dossier avec votre client FTP ; dans d’autres cas, vous devrez créer le sous-domaine via le panneau d’administration de votre hébergeur. Commencez par lire la documentation d’aide de votre hébergeur. Une fois le sous-domaine créé, naviguez jusqu’au dossier du sous-domaine et mettez PrestaShop en ligne.
 
 Dans FileZilla, vous avez maintenant le dossier local où vous conservez les fichiers de PrestaShop provenant de l’archive .zip, sur le côté gauche, et l’emplacement de destination, à droite. La mise en ligne est simple, même pour les utilisateurs inexpérimentés : sélectionnez les trois fichiers dans le dossier local (utilisez Ctrl-A) et faites-les glisser dans le dossier distant ou effectuez un clic droit sur la sélection et choisissez “Mettre en ligne” dans le menu contextuel.
 
@@ -104,7 +104,7 @@ Dans FileZilla, vous avez maintenant le dossier local où vous conservez les fic
 
 Avant de pouvoir installer PrestaShop, vous devez veiller à ce que votre serveur MySQL possède une base de données opérationnelle pour les données de PrestaShop. Si ce n’est pas le cas, vous devez en créer une.
 
-La création d’une base de données peut se faire à l’aide de n’importe quel outil d’administration de bases de données. Nous allons utiliser l’outil gratuit phpMyAdmin ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net)), qui est préinstallé sur la plupart des solutions d’hébergement web.
+La création d’une base de données peut se faire à l’aide de n’importe quel outil d’administration de bases de données. Nous allons utiliser l’outil gratuit phpMyAdmin ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net/)), qui est préinstallé sur la plupart des solutions d’hébergement web.
 
 Certains hébergeurs préfèrent que les clients utilisent un panneau de contrôle graphique comme cPanel, Plesk ou un panneau personnalisé. Assurez-vous de lire la documentation de votre hébergeur sur la gestion des bases de données MySQL et créez une base de données pour votre boutique en suivant précisément ses explications.
 
@@ -138,7 +138,7 @@ Cette page est une présentation rapide du processus d’installation. Vous pouv
 
 ![](../.gitbook/assets/53641241.png)
 
-Vous avez également un lien vers le site de la documentation ([http://doc.prestashop.com/](http://doc.prestashop.com)) et un lien vers notre offre de support. Pour en savoir plus sur notre service de support, rendez-vous sur [http://support.prestashop.com/fr/](http://support.prestashop.com/en/).
+Vous avez également un lien vers le site de la documentation ([http://doc.prestashop.com/](http://doc.prestashop.com/)) et un lien vers notre offre de support. Pour en savoir plus sur notre service de support, rendez-vous sur [http://support.prestashop.com/fr/](http://support.prestashop.com/en/).
 
 Sélectionnez la langue dans laquelle vous souhaitez voir l’installeur s’afficher, puis cliquez sur le bouton “Suivant”. Cette étape vous permettra de définir la langue par défaut de votre installation de PrestaShop, mais vous aurez aussi la possibilité d’activer d’autres langues.
 
@@ -180,8 +180,8 @@ Voici une liste des tests réalisés durant la troisième étape :
 | La version PHP 5.4 (ou une version ultérieure) est-elle installée ? | Serveur web                                                                                                   |
 | PrestaShop peut-il mettre des fichiers en ligne ?                   | Fichier php.ini (`file_uploads`)                                                                              |
 | PrestaShop peut-il créer de nouveaux fichiers et dossiers ?         | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| La bibliothèque GD est-elle installée ?                             | Fichier php.ini (`extension=`[php\_gd2.so](http://php\_gd2.so))                                               |
-| La prise en charge de MySQL est-elle activée ?                      | Fichier php.ini (`extension=`[php\_pdo\_mysql.so](http://php\_pdo\_mysql.so))                                 |
+| La bibliothèque GD est-elle installée ?                             | Fichier php.ini (`extension=`[php\_gd2.so](http://php\_gd2.so/))                                              |
+| La prise en charge de MySQL est-elle activée ?                      | Fichier php.ini (`extension=`[php\_pdo\_mysql.so](http://php\_pdo\_mysql.so/))                                |
 | Permission d’écriture récursive sur \~/config/                      | Explorateur de fichiers / client FTP / ligne de commande                                                      |
 | Permission d’écriture récursive sur \~/cache/                       | Explorateur de fichiers / client FTP / ligne de commande                                                      |
 | Permission d’écriture récursive sur \~/log/                         | Explorateur de fichiers / client FTP / ligne de commande                                                      |
@@ -196,13 +196,13 @@ Voici une liste des tests réalisés durant la troisième étape :
 | Permission d’écriture récursive sur \~/upload/                      | Explorateur de fichiers / client FTP / ligne de commande                                                      |
 | Permission d’écriture récursive sur \~/download/                    | Explorateur de fichiers / client FTP / ligne de commande                                                      |
 | Permission d’écriture récursive sur \~/sitemap.xml                  | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| PrestaShop peut-il ouvrir des URL externes ?                        | Fichier [php.in](http://php.in) (`allow_url_fopen`)                                                           |
+| PrestaShop peut-il ouvrir des URL externes ?                        | Fichier [php.in](http://php.in/) (`allow_url_fopen`)                                                          |
 | L’option “register global” de PHP est-elle désactivée ?             | Fichier php.ini (`register_globals`)                                                                          |
 | La compression GZIP est-elle activée ?                              | Fichier .htaccess                                                                                             |
 | L’extension Mcrypt est-elle disponible ?                            | Fichier php.ini (voir [http://php.net/manual/fr/mcrypt.setup.php](http://php.net/manual/en/mcrypt.setup.php)) |
 | L’option “magic quotes” de PHP est-elle désactivée ?                | Fichier php.ini (`magic_quotes_gpc`)                                                                          |
 | L’extension Dom est-elle chargée ?                                  | `--enable-dom`, option d’heure de compilation                                                                 |
-| L’extension PDO MySQL est-elle chargée ?                            | Fichier php.ini (`extension=`[php\_pdo\_mysql.so](http://php\_pdo\_mysql.so))                                 |
+| L’extension PDO MySQL est-elle chargée ?                            | Fichier php.ini (`extension=`[php\_pdo\_mysql.so](http://php\_pdo\_mysql.so/))                                |
 
 Si la modification de la configuration de PHP requiert des instructions détaillées car elle dépend de la situation et de votre niveau d’accès à votre serveur, la mise à jour des permissions d’accès aux fichiers est plus facile à expliquer.
 
@@ -254,7 +254,7 @@ Cette page contient un formulaire vous permettant d’indiquer à PrestaShop l�
 
 Renseignez tous les champs en indiquant les identifiants de connexion à la base de données fournis par votre hébergeur :
 
-* **Adresse du serveur de bases de données**. C’est le nom d’hôte de votre serveur MySQL. Il peut être associé à votre nom de domaine (par exemple, [http://sql.exemple.com](http://sql.example.com)) ou à votre hébergeur (par exemple, [http://mysql2.alwaysdata.com](http://mysql2.alwaysdata.com)), ou il peut simplement s’agir d’une adresse IP (par exemple, 46.105.78.185).
+* **Adresse du serveur de bases de données**. C’est le nom d’hôte de votre serveur MySQL. Il peut être associé à votre nom de domaine (par exemple, [http://sql.exemple.com](http://sql.example.com/)) ou à votre hébergeur (par exemple, [http://mysql2.alwaysdata.com](http://mysql2.alwaysdata.com/)), ou il peut simplement s’agir d’une adresse IP (par exemple, 46.105.78.185).
 * **Nom de la base de données**. C’est le nom de la base de données où vous voulez que PrestaShop stocke ses données. Il s’agit soit d’une base de données existante sur votre serveur MySQL, soit de la base que vous avez créée à l’aide de phpMyAdmin (ou tout autre outil SQL) dans la section “Créer une base de données pour votre boutique” du présent guide.
 * **Identifiant de connexion à la base de données**. C’est le nom de l’utilisateur MySQL qui a accès à votre base de données.
 * **Mot de passe de la base de données**. C’est le mot de passe de l’utilisateur MySQL.
@@ -291,12 +291,12 @@ Pour renforcer facilement la sécurité de votre installation, supprimez certain
 
 * Le dossier “/install” (impératif)
 * Le dossier “/docs” (en option), à moins que vous n’ayez besoin de tester l’outil d’importation avec les modèles de fichiers d’importation que ce dossier contient
-* Le fichier “[README.md](http://readme.md)“ (en option)
+* Le fichier “[README.md](http://readme.md/)“ (en option)
 
 Cliquez sur le bouton “Gérer votre boutique” afin d’atteindre votre zone d’administration.
 
 Un autre moyen de sécuriser votre installation est d’utiliser un nom personnalisé pour le dossier d’administration : remplacez le nom du dossier “admin” par un nom que vous seul connaissez comme “4dmin-1537” ou “MySecReT4dm1n”.\
-**** **Notez le nouveau nom de votre dossier “admin”** car vous accéderez désormais à vos pages d’administration en utilisant cette adresse !
+&#x20;**Notez le nouveau nom de votre dossier “admin”** car vous accéderez désormais à vos pages d’administration en utilisant cette adresse !
 
 Enfin, pour éviter tout risque d’action malveillante, utilisez votre client FTP pour changer les permissions d’accès aux fichiers et dossiers en 664 ou en 666 si votre hébergeur l’impose. Si ces droits d’accès plus stricts empêchent certains modules de fonctionner, remettez les permissions en 755.
 

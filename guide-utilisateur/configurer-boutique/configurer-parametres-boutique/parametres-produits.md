@@ -2,7 +2,7 @@
 
 Cette page contient les préférences se rattachant à la manière dont vos produits sont gérés et affichés par PrestaShop.
 
-## Préférences générales <a href="parametresdesproduits-preferencesgenerales" id="parametresdesproduits-preferencesgenerales"></a>
+## Préférences générales <a href="#parametresdesproduits-preferencesgenerales" id="parametresdesproduits-preferencesgenerales"></a>
 
 ![](../../../.gitbook/assets/64225331.png)
 
@@ -13,7 +13,7 @@ Cette page contient les préférences se rattachant à la manière dont vos prod
 * **Forcer la mise à jour des URL simplifiées.** Activée, cette option permet la mise à jour automatique des URL simplifiées des produits lorsqu'une modification intervient.
 * **Activer par défaut**. Avec cette option activée, un nouveau produit est automatiquement activé à sa création.
 
-## Pagination <a href="parametresdesproduits-pagination" id="parametresdesproduits-pagination"></a>
+## Pagination <a href="#parametresdesproduits-pagination" id="parametresdesproduits-pagination"></a>
 
 ![](../../../.gitbook/assets/64225332.png)
 
@@ -30,7 +30,7 @@ Cette page contient les préférences se rattachant à la manière dont vos prod
   * _Référence du produit._ Affiche vos produits par ordre alphabétique et/ou numérique de référence.
 * **Ordre par défaut**. L'option ci-dessus peut être arrangée par ordre croissant ou décroissant.
 
-## Page produit <a href="parametresdesproduits-pageproduit" id="parametresdesproduits-pageproduit"></a>
+## Page produit <a href="#parametresdesproduits-pageproduit" id="parametresdesproduits-pageproduit"></a>
 
 ![](../../../.gitbook/assets/64225333.png)
 
@@ -43,13 +43,13 @@ Cette page contient les préférences se rattachant à la manière dont vos prod
 * **Séparateur des attributs dans les liens des produits**. Choisissez le séparateur, entre "-" et ",".
 * **Afficher le prix réduction comprise**. Dans le tableau récapitulatif des réductions en fonction du volume, afficher le prix après réduction au lieu d'afficher le pourcentage de réduction.
 
-## Stocks produit <a href="parametresdesproduits-stocksproduit" id="parametresdesproduits-stocksproduit"></a>
+## Stocks produit <a href="#parametresdesproduits-stocksproduit" id="parametresdesproduits-stocksproduit"></a>
 
 ![](../../../.gitbook/assets/64225336.png)
 
 * **Autoriser la commande de produits en rupture de stock**. Si un produit n'est plus disponible en stock, le client peut quand même le commander.
 * **Activer la gestion des stocks**. Cette option vous donne à accès un gestionnaire de stock basique : vous pouvez régler la quantité actuelle d'un produit, et laisser PrestaShop diminuer ce nombre à chaque commande, et en rajouter à chaque commande annulée et produit retourné. Par défaut, vous devriez laisser cette fonctionnalité activée. En effet, la désactivation affecte l'intégralité du gestionnaire d'inventaire de votre boutique. À ne désactiver que si vous n'avez aucun inventaire physique – par exemple, si vous ne vendez que des produits dématérialisés.\
-  ****
+
 * **Etiquette pour produits en stock.** Affiche une mention pour les produits en stock.
 * **Etiquette pour produits en rupture de stock avec réassort autorisé.** Affiche une mention pour les produits hors stock avec réassort autorisé.
 * **Etiquette pour produits en rupture de stock sans réassort autorisé.** Affiche une mention pour les produits hors stock sans réassort autorisé.

@@ -219,7 +219,7 @@ PrestaShop fait le nécessaire pour que le processus d'achat soit **rapide et ef
 
 4.  **Paiement** : le client peut choisir plusieurs options de paiement en fonction de ce que le vendeur a mis en place. Le client clique sur la méthode choisie et, selon celle-ci, il est soit envoyé vers le gestionnaire du fournisseur tiers, ou bien vers une page de PrestaShop où il peut saisir les détails nécessaires.
 
-    PrestaShop facilite l'ajout de méthodes de paiement comme PayPal, Hipay ou d'autres fournisseurs tiers. Rendez-vous dans la page "Modules" du back-office pour découvrir tous les modules de paiement disponibles nativement, et découvrez-en de nombreux autres sur la [marketplace Addons](http://addons.prestashop.com).
+    PrestaShop facilite l'ajout de méthodes de paiement comme PayPal, Hipay ou d'autres fournisseurs tiers. Rendez-vous dans la page "Modules" du back-office pour découvrir tous les modules de paiement disponibles nativement, et découvrez-en de nombreux autres sur la [marketplace Addons](http://addons.prestashop.com/).
 
 
 5. **Validation et résumé** : une fois que le client a tout validé et accepté les conditions générales de vente, sa commande est confirmée et il peut accéder au résumé de sa commande. En fonction de la méthode de paiement choisie, certaines informations finales peuvent être envoyées au client, avec une notification de la confirmation par e-mail et un lien vers la page de support. Le client doit cliquer sur "Je confirme ma commande" afin de la voir validée.

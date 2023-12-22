@@ -99,4 +99,4 @@ Une simple recherche sur internet est généralement suffisante pour trouver le 
 
 &#x20;[https://www.xe.com/currencyconverter/convert/?Amount=1\&From=XBT\&To=USD](https://www.xe.com/currencyconverter/convert/?Amount=1\&From=XBT\&To=USD)
 
-Pour les cryptomonnaies, vous pouvez visiter le site web suivant : [https://coinmarketcap.com/](https://coinmarketcap.com)
+Pour les cryptomonnaies, vous pouvez visiter le site web suivant : [https://coinmarketcap.com/](https://coinmarketcap.com/)

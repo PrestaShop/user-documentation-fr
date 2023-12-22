@@ -63,7 +63,7 @@ Par défaut, la page produit s'affiche dans la langue par défaut de votre bouti
 
 Plusieurs actions sont possibles en bas de page :
 
-* **Supprimer** (icône de poubelle). Supprime **** le produit et toutes ses données, y compris ses images, déclinaisons, fonctionnalités, etc.
+* **Supprimer** (icône de poubelle). Supprime le produit et toutes ses données, y compris ses images, déclinaisons, fonctionnalités, etc.
 * **Visualiser.** Affiche la fiche de ce produit telle qu'elle apparaît(ra) dans votre boutique. C'est non seulement pratique, mais cela fonctionne aussi avec les produits désactivés.
 * **Mettre en ligne/hors ligne.** Active ou désactive votre produit. Par défaut, il est désactivé afin que vos clients ne le voient pas dans votre boutique tant qu'il n'est pas fini.
 * **Enregistrer.** Ce bouton enregistre toutes les modifications que vous avez apportées à n'importe quel des onglets du produit, mais vous laisse sur la page du produit en cours de création. C'est particulièrement utile si vous souhaitez changer d'onglet sans perdre les modifications apportées à l'onglet en cours, ou si vous voulez appliquer vos modifications immédiatement.
@@ -467,7 +467,7 @@ Les mots-clés sont différents des meta mots-clés : ils n'ont aucune incidence
 * **ISBN.** ISBN is used internationally to identify books and their various editions. If your products are books or entitled to have an ISBN number, enter it here.
 * **Code-barres UPC**. Un code-barres à 12 chiffres, et le premier du genre, généralement utilisé en Amérique du Nord, au Royaume-Uni, en Australie et en Nouvelle-Zélande.
 * **Code-barres EAN-13 ou JAN**. Ce sont les chiffres des codes-barres du produit, utilisés dans le monde entier afin de l'identifier. Vous pouvez utiliser soit un EAN-13 ou soit un JAN.
-  * Un EAN-13 est le numéro international du produit à 13 chiffres. Commandez-le sur [GS1](https://www.gs1.fr) dès le produit créé pour pouvoir ensuite le vendre sur Google Shopping ou des marketplaces. À lire sur Wikipedia : [http://fr.wikipedia.org/wiki/Code-barres\_EAN](http://fr.wikipedia.org/wiki/Code-barres\_EAN).
+  * Un EAN-13 est le numéro international du produit à 13 chiffres. Commandez-le sur [GS1](https://www.gs1.fr/) dès le produit créé pour pouvoir ensuite le vendre sur Google Shopping ou des marketplaces. À lire sur Wikipedia : [http://fr.wikipedia.org/wiki/Code-barres\_EAN](http://fr.wikipedia.org/wiki/Code-barres\_EAN).
   * Un JAN est spécifique au Japon, mais est compatible avec l'EAN international. À lire sur Wikipedia : [http://en.wikipedia.org/wiki/Japanese\_Article\_Number](http://en.wikipedia.org/wiki/Japanese\_Article\_Number) (en anglais).
 *   **MPN.** Le MPN (Manufacturer Part Number) est utilisé à l'international pour identifier la référence fabriquant d'un produit. Il permet d'associer facilement un produit au bon fabricant, ce qui présente de multiples avantages tant pour le commerçant que pour le client. Les commerçants peuvent facilement différencier des produits similaires grâce à leur identifiant et gérer le stock de produits par fabricant. Le produit peut également être retrouvé dans le moteur de recherche grâce à l'identifiant. Le MPN est également utile pour les clients : il peut être indexé sur les Marketplaces, ce qui permet aux clients de trouver plus rapidement le produit qu'ils recherchent. Les clients peuvent aussi être rassurés car le MPN leur permet d'être sûrs d'acheter exactement le bon produit.
 

@@ -41,11 +41,11 @@ Certains de ces champs ont une petite icône d'information affichant une fenêtr
 
 ![](../../../.gitbook/assets/52298467.png)
 
-## Data format <a href="importerdesdonnees-dataformat" id="importerdesdonnees-dataformat"></a>
+## Data format <a href="#importerdesdonnees-dataformat" id="importerdesdonnees-dataformat"></a>
 
 Les données importées doivent l'être sous la forme d'un fichier texte, utilisant un format de données de type CSV (_Comma-Separated Values_), pour "valeurs séparées par des virgules", et l'extension de fichier liée .csv. Nous vous recommandons d'avoir recours au point-virgule ";" comme séparateur de champ. Si vos données textuelles (descriptions de produit et autres) contiennent des signes point-virgule, vous devriez soit les enlever, soit utiliser un autre caractère pour la séparation des champs.
 
-Vous pouvez créer un tel fichier avec n'importe quel éditeur de texte (nous vous recommandons Notepad++ : [http://notepad-plus-plus.org/](http://notepad-plus-plus.org)), mais il est préférable d'utiliser un tableur, puis d'enregistrer votre travail au format CSV. En comparaison avec un éditeur de texte, un tableur vous permet de travailler plus rapidement et de manière visuelle. Vous pouvez utiliser le logiciel payant Microsoft Excel ([http://office.microsoft.com/fr-fr/excel/](http://office.microsoft.com/fr-fr/excel/)) ou le logiciel gratuit [OpenOffice.org](http://openoffice.org) Calc ([http://www.openoffice.org/fr/](http://www.openoffice.org/fr/)).
+Vous pouvez créer un tel fichier avec n'importe quel éditeur de texte (nous vous recommandons Notepad++ : [http://notepad-plus-plus.org/](http://notepad-plus-plus.org/)), mais il est préférable d'utiliser un tableur, puis d'enregistrer votre travail au format CSV. En comparaison avec un éditeur de texte, un tableur vous permet de travailler plus rapidement et de manière visuelle. Vous pouvez utiliser le logiciel payant Microsoft Excel ([http://office.microsoft.com/fr-fr/excel/](http://office.microsoft.com/fr-fr/excel/)) ou le logiciel gratuit [OpenOffice.org](http://openoffice.org) Calc ([http://www.openoffice.org/fr/](http://www.openoffice.org/fr/)).
 
 Voici un exemple de fichier prêt à l'import, ici pour une liste de produits :
 
@@ -68,7 +68,7 @@ Notez bien que :
 * Préférez l'encodage de données UTF-8. Sinon, utilisez ISO-8859-1.
 * Les dates utilisent le format ISO 8601, sans l'indicateur de fuseau horaire (le fuseau horaire étant celui de votre boutique) : `2013-06-21 15:07:27`.
 
-## Mise en ligne du fichier <a href="importerdesdonnees-miseenlignedufichier" id="importerdesdonnees-miseenlignedufichier"></a>
+## Mise en ligne du fichier <a href="#importerdesdonnees-miseenlignedufichier" id="importerdesdonnees-miseenlignedufichier"></a>
 
 Une fois que toutes vos données sont au format CSV, vous pouvez les envoyer dans la base de données de votre boutique à l'aide du formulaire de cette page.
 
@@ -105,7 +105,7 @@ Une fois que toutes vos colonnes auront trouvé correspondance, cliquez sur le b
 
 Quand le processus est terminé, la pop-up doit afficher "100% validé" et "100% importé". Après avoir fermé la pop-up, vous êtes renvoyé à l'écran principal. Si une erreur est survenue lors de l'import,  la pop-up vous notifiera des problèmes rencontrés. Vous devrez alors relire vos fichiers et faire en sorte de tout corriger.
 
-### Configurations des correspondances <a href="importerdesdonnees-configurationsdescorrespondances" id="importerdesdonnees-configurationsdescorrespondances"></a>
+### Configurations des correspondances <a href="#importerdesdonnees-configurationsdescorrespondances" id="importerdesdonnees-configurationsdescorrespondances"></a>
 
 Le processus de configuration peut être une tâche laborieuse si vous ne pouvez pas choisir l'ordre des colonnes de votre fichier en concordance avec celui utilisé par l'outil d'import de PrestaShop. C'est pourquoi PrestaShop comprend un petit outil permettant d'enregistrer l'ordre de correspondance que vous avez mis en place avec tous les sélecteurs déroulants des en-têtes de colonnes.
 

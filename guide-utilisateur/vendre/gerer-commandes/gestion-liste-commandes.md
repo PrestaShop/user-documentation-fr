@@ -15,7 +15,7 @@ description: >-
 Les commandes sont organisées par date, de la plus récente à la plus ancienne.
 
 Utilisez les filtres en haut du tableau pour affiner votre recherche et cliquez sur le bouton "Rechercher".\
-****
+
 
 ![](https://lh6.googleusercontent.com/nkcfLVIZBp2d186ogf5RE7s8oQ7cQgG6oxTOT3Qi8LesV\_A7Nq4vhVn3Vb0g2aRfmRSm\_ao7YXKc\_96vevKiBN\_3LrGfFT211yN4W3X0mC5lB-y8C3PvK\_pAwFRWvy5gSiIR7hL8)
 
@@ -26,7 +26,7 @@ Vous pouvez exporter la liste de vos commandes. Pour cela :
 * Cliquez sur la roue dentée en haut à droite de la section "Commandes”
 * Choisissez "Exporter"
 
-Veuillez noter qu’il n’est pas possible d’importer une commande. ****&#x20;
+Veuillez noter qu’il n’est pas possible d’importer une commande.&#x20;
 
 ## **Afficher les détails d'une commande**
 

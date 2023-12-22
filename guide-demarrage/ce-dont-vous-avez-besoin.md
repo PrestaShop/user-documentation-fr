@@ -1,6 +1,6 @@
 # Ce dont vous avez besoin
 
-## Instructions de configuration rapides <a href="cedontvousavezbesoin-instructionsdeconfigurationrapides" id="cedontvousavezbesoin-instructionsdeconfigurationrapides"></a>
+## Instructions de configuration rapides <a href="#cedontvousavezbesoin-instructionsdeconfigurationrapides" id="cedontvousavezbesoin-instructionsdeconfigurationrapides"></a>
 
 Voici une synthèse de ce dont vous avez besoin pour commencer l’installation de PrestaShop 1.7. Vous trouverez, si nécessaire, des instructions plus détaillées dans les sections suivantes.
 
@@ -37,9 +37,9 @@ Une fois votre configuration prête, vous pouvez utiliser le guide d’installat
 
 PrestaShop est une application web. Pour fonctionner, elle doit être installée sur un serveur web et a besoin d’un nom de domaine que vos visiteurs utiliseront pour accéder à votre boutique.
 
-### Enregistrer un nom de domaine <a href="cedontvousavezbesoin-enregistrerunnomdedomaine" id="cedontvousavezbesoin-enregistrerunnomdedomaine"></a>
+### Enregistrer un nom de domaine <a href="#cedontvousavezbesoin-enregistrerunnomdedomaine" id="cedontvousavezbesoin-enregistrerunnomdedomaine"></a>
 
-Avant de télécharger ou d’installer quoi que ce soit, vous devez offrir un toit à votre boutique en ligne PrestaShop. Il est constitué de deux éléments : un nom de domaine et un serveur web. Le nom de domaine est l’identifiant en ligne de votre site web, par exemple : [exemple.com](http://example.com) ou [maboutiqueenligne.net](http://myonlineshop.net). Il s’agit de la partie publique de votre serveur web et donc de votre boutique.
+Avant de télécharger ou d’installer quoi que ce soit, vous devez offrir un toit à votre boutique en ligne PrestaShop. Il est constitué de deux éléments : un nom de domaine et un serveur web. Le nom de domaine est l’identifiant en ligne de votre site web, par exemple : [exemple.com](http://example.com/) ou [maboutiqueenligne.net](http://myonlineshop.net/). Il s’agit de la partie publique de votre serveur web et donc de votre boutique.
 
 Vous devez acheter un nom de domaine pour votre boutique. Il se peut que vous en obteniez un en même temps que vous prenez un hébergement web : de nombreux hébergeurs offrent un nom de domaine gratuit à la création de chaque nouveau compte. Un nom de domaine peut être gratuit pendant un an ou pour toute la durée de votre contrat d’hébergement, ce qui permet de bénéficier facilement et directement d’une offre complète (hébergement + nom de domaine).
 
@@ -54,10 +54,10 @@ En plus de payer l’enregistrement du nom de domaine, vous devrez payer l’hé
 \
 Si vous préférez obtenir votre nom de domaine auprès d’un bureau d’enregistrement indépendant, en voici quelques-uns auxquels vous pouvez faire confiance :
 
-* Gandi : [http://en.gandi.net/](http://en.gandi.net)
-* Namecheap : [http://www.namecheap.com/](http://www.namecheap.com)
-* GoDaddy : [https://www.godaddy.com/](https://www.godaddy.com)
-* 1&1 IONOS : [https://www.ionos.fr/](https://www.ionos.fr)
+* Gandi : [http://en.gandi.net/](http://en.gandi.net/)
+* Namecheap : [http://www.namecheap.com/](http://www.namecheap.com/)
+* GoDaddy : [https://www.godaddy.com/](https://www.godaddy.com/)
+* 1&1 IONOS : [https://www.ionos.fr/](https://www.ionos.fr/)
 
 Il en existe beaucoup d’autres. Renseignez-vous auprès de vos amis !
 
@@ -90,28 +90,28 @@ PrestaShop peut également fonctionner avec un serveur web IIS 6.0 Microsoft ou 
 
 Vous trouverez plus d’informations pour les administrateurs système dans le [guide de l’administrateur système](ce-dont-vous-avez-besoin.md). Veillez à le lire !
 
-### Outils <a href="cedontvousavezbesoin-outils" id="cedontvousavezbesoin-outils"></a>
+### Outils <a href="#cedontvousavezbesoin-outils" id="cedontvousavezbesoin-outils"></a>
 
 Vous aurez besoin de deux outils : un éditeur de texte, pour éditer les fichiers texte, et un client FTP, pour transférer les fichiers de votre machine vers votre serveur et vice versa.
 
-#### Éditeur de texte <a href="cedontvousavezbesoin-editeurdetexte" id="cedontvousavezbesoin-editeurdetexte"></a>
+#### Éditeur de texte <a href="#cedontvousavezbesoin-editeurdetexte" id="cedontvousavezbesoin-editeurdetexte"></a>
 
 Voici quelques éditeurs de texte bien connus :
 
 * Windows et OS X :
-  * Sublime Text : [http://www.sublimetext.com/](http://www.sublimetext.com)
-  * Atom : [https://atom.io/](https://atom.io)
+  * Sublime Text : [http://www.sublimetext.com/](http://www.sublimetext.com/)
+  * Atom : [https://atom.io/](https://atom.io/)
 * Unix/Linux :
-  * Vim : [http://www.vim.org/](http://www.vim.org)
+  * Vim : [http://www.vim.org/](http://www.vim.org/)
   * Emacs : [http://www.gnu.org/software/emacs/](http://www.gnu.org/software/emacs/)
 
-N'utilisez JAMAIS un logiciel de traitement de texte lorsque vous voulez modifier les fichiers de PrestaShop, comme Microsoft Word ou [OpenOffice.org](http://openoffice.org) Write.
+N'utilisez JAMAIS un logiciel de traitement de texte lorsque vous voulez modifier les fichiers de PrestaShop, comme Microsoft Word ou [OpenOffice.org](http://openoffice.org/) Write.
 
 Client FTP
 
 FTP est l’abréviation de “File Transfer Protocol”, un protocole standard utilisé pour transférer des fichiers depuis un ordinateur vers un hébergeur.
 
-Dans ce guide, nous allons utiliser FileZilla, un client FTP gratuit et efficace pour Windows, Mac OS X et Linux. Téléchargez-le sur [http://filezilla-project.org/](http://filezilla-project.org) et lancez l’installeur. Remarque : ne téléchargez pas FileZilla Server, mais uniquement FileZilla Client !
+Dans ce guide, nous allons utiliser FileZilla, un client FTP gratuit et efficace pour Windows, Mac OS X et Linux. Téléchargez-le sur [http://filezilla-project.org/](http://filezilla-project.org/) et lancez l’installeur. Remarque : ne téléchargez pas FileZilla Server, mais uniquement FileZilla Client !
 
 Une fois FileZilla installé, vous devrez le configurer avec les paramètres de connexion de votre serveur web, normalement fournis par votre hébergeur. Si vous n’avez pas reçu ces paramètres, demandez-les à votre hébergeur ou consultez votre dossier spam pour vérifier qu’ils ne s’y trouvent pas.
 
@@ -138,25 +138,25 @@ Pour ajouter votre espace d’hébergement au Gestionnaire de site :
 Si FileZilla ne vous convient pas, voici quelques autres clients FTP connus :
 
 * Windows :
-  * CoreFTP : [http://www.coreftp.com/](http://www.coreftp.com)
-  * WinSCP : [http://winscp.net/](http://winscp.net)
-  * SmartFTP : [http://www.smartftp.com/](http://www.smartftp.com)
+  * CoreFTP : [http://www.coreftp.com/](http://www.coreftp.com/)
+  * WinSCP : [http://winscp.net/](http://winscp.net/)
+  * SmartFTP : [http://www.smartftp.com/](http://www.smartftp.com/)
 * Mac OS X :
-  * Cyberduck : [http://cyberduck.ch/](http://cyberduck.ch)
+  * Cyberduck : [http://cyberduck.ch/](http://cyberduck.ch/)
   * Transmit : [http://www.panic.com/transmit/](http://www.panic.com/transmit/)
   * Fetch : [http://fetchsoftworks.com/fetch/](http://fetchsoftworks.com/fetch/)
 * Unix/Linux :
-  * gFTP : [http://gftp.seul.org/](http://gftp.seul.org)
-  * kasablanca : [http://kasablanca.berlios.de/](http://kasablanca.berlios.de)
+  * gFTP : [http://gftp.seul.org/](http://gftp.seul.org/)
+  * kasablanca : [http://kasablanca.berlios.de/](http://kasablanca.berlios.de/)
   * NcFTP : [http://www.ncftp.com/ncftp/](http://www.ncftp.com/ncftp/)
 
 ## Se préparer
 
 Dans un premier temps, vous devez décider de l’endroit où héberger PrestaShop. Quatre possibilités s’offrent à vous par rapport à votre nom de domaine :
 
-* Au niveau de la racine du domaine : [http://www.exemple.com/](http://www.example.com)
+* Au niveau de la racine du domaine : [http://www.exemple.com/](http://www.example.com/)
 * Dans un dossier : [http://www.exemple.com/boutique/](http://www.example.com/shop/)
-* Dans un sous-domaine : [http://boutique.exemple.com/](http://store.example.com)
+* Dans un sous-domaine : [http://boutique.exemple.com/](http://store.example.com/)
 * Dans le dossier d’un sous-domaine : [http://vêtements.exemple.com/boutique/](http://clothes.example.com/boutique/)
 
 Grâce à la fonctionnalité multiboutique, vous pouvez avoir autant de boutiques que vous le souhaitez avec une seule installation de PrestaShop 1.7, chacune avec son propre nom de domaine si nécessaire. Tenez-en compte lorsque vous décidez de votre organisation.

@@ -1,22 +1,22 @@
 # Contribuer à la documentation
 
-Tout comme le logiciel PrestaShop, la [documentation](https://docs.prestashop-project.org) est ouverte à tous pour des suggestions, des idées, et des modifications. Tout le monde est bienvenu, et même encouragé, à contribuer à la traduction, à la mise à jour, et à l'écriture de la documentation utilisateur 1.7.&#x20;
+Tout comme le logiciel PrestaShop, la [documentation](https://docs.prestashop-project.org/) est ouverte à tous pour des suggestions, des idées, et des modifications. Tout le monde est bienvenu, et même encouragé, à contribuer à la traduction, à la mise à jour, et à l'écriture de la documentation utilisateur 1.7.&#x20;
 
-![](.gitbook/assets/build-puffin-writing.png)
+<figure><img src=".gitbook/assets/Web image-PhotoAdobeStock_511091438_HD.jpg" alt=""><figcaption></figcaption></figure>
 
 GitBook et GitHub sont synchronisés : si vous modifiez le contenu de n'importe quelle page sur GitBook, vos modifications seront automatiquement poussées vers le repository GitHub. Inversement, les changements apportés sur GitHub seront pris en compte sur GitBook.
 
 Par conséquent, les deux interfaces sont ouvertes à la contribution.
 
-### Contribuer via GitBook ![](<.gitbook/assets/image (46).png>)
+### Contribuer via GitBook <img src=".gitbook/assets/image (46).png" alt="" data-size="line">
 
 Gitbook est un outil permettant d'écrire de la documentation. Il fonctionne comme un éditeur de texte et est sûrement la meilleure solution si vous n'êtes pas vraiment technophile. Pour contribuer à la documentation de PrestaShop en utilisant GitBook, veuillez nous envoyer un e-mail à **documentation@prestashop.com** avec une petite présentation de vous-même :&#x20;
 
 Êtes-vous un marchand ? Dans quelle langue souhaitez-vous traduire, mettre à jour ou écrire la documentation ? Qu'est-ce qui vous motive à participer à ce projet ?&#x20;
 
-Le Product Content Manager  vous accueillera et vous donnera accès à la documentation en tant qu'éditeur. Vous devrez alors vous connecter avec un compte Gmail, GitHub, ou GitBook. Cliquez ici pour [créer un compte GitBook](https://app.gitbook.com).
+Le Product Content Manager  vous accueillera et vous donnera accès à la documentation en tant qu'éditeur. Vous devrez alors vous connecter avec un compte Gmail, GitHub, ou GitBook. Cliquez ici pour [créer un compte GitBook](https://app.gitbook.com/).
 
-### Contribuer via GitHub ![](<.gitbook/assets/image (54).png>)
+### Contribuer via GitHub <img src=".gitbook/assets/image (54).png" alt="" data-size="line">
 
 Chaque documentation est synchronisée avec un repository sur GitHub. Les deux interfaces sont ouvertes aux contributions. Cliquez sur votre langue pour visiter le repository correspondant : [anglais](https://github.com/PrestaShop/user-documentation-en), [français](https://github.com/PrestaShop/user-documentation-fr), [espagnol](https://github.com/PrestaShop/user-documentation-es), [italien](./#contribuer-via-gitbook), [néerlandais](https://github.com/PrestaShop/user-documentation-nl), [farsi](https://github.com/PrestaShop/user-documentation-fa).&#x20;
 
