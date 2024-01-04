@@ -8,7 +8,7 @@
   * [Installer PrestaShop 1.7 en ligne de commande](guide-demarrage/installer-prestashop-en-ligne-de-commande.md)
   * [Désinstaller PrestaShop 1.7](guide-demarrage/desinstaller-prestashop.md)
   * [Informations complémentaires](guide-demarrage/informations-complementaires.md)
-* [Guide de l'utilisateur](guide-utilisateur/README.md)
+* [Guide de l'utilisateur PrestaShop 1.7](guide-utilisateur/README.md)
   * [Formations](guide-utilisateur/formations.md)
   * [Personnaliser votre boutique](guide-utilisateur/personnaliser-boutique.md)
   * [Se connecter au back-office de PrestaShop](guide-utilisateur/connexion-back-office.md)
