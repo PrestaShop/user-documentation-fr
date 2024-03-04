@@ -57,7 +57,7 @@ Si vous préférez obtenir votre nom de domaine auprès d’un bureau d’enregi
 * Gandi : [http://en.gandi.net/](http://en.gandi.net/)
 * Namecheap : [http://www.namecheap.com/](http://www.namecheap.com/)
 * GoDaddy : [https://www.godaddy.com/](https://www.godaddy.com/)
-* 1&1 IONOS : [https://www.ionos.fr/](https://www.ionos.fr/)
+* IONOS : [https://www.ionos.fr/](https://www.ionos.fr/)
 
 Il en existe beaucoup d’autres. Renseignez-vous auprès de vos amis !
 
